@@ -1,0 +1,64 @@
+﻿2018-05-28 16:54:53
+Url：/Goods/Tea/SaveGoodsTea
+Message：Packets larger than max_allowed_packet are not allowed.
+
+2018-05-28 16:54:53
+Url：/Goods/Tea/SaveGoodsTea
+Message：Packets larger than max_allowed_packet are not allowed.
+
+2018-05-28 17:00:49
+Url：/Goods/Tea/EditGoods?id=3&pid=
+Message：对于“Answer.PC.Areas.Goods.Controllers.TeaController”中方法“System.Web.Mvc.ActionResult EditGoods(Int32, Int32)”的不可以为 null 的类型“System.Int32”的参数“pid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-05-28 17:00:49
+Url：/Goods/Tea/EditGoods?id=3&pid=
+Message：对于“Answer.PC.Areas.Goods.Controllers.TeaController”中方法“System.Web.Mvc.ActionResult EditGoods(Int32, Int32)”的不可以为 null 的类型“System.Int32”的参数“pid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-05-28 17:00:58
+Url：/Goods/Tea/EditGoods?id=4&pid=
+Message：对于“Answer.PC.Areas.Goods.Controllers.TeaController”中方法“System.Web.Mvc.ActionResult EditGoods(Int32, Int32)”的不可以为 null 的类型“System.Int32”的参数“pid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-05-28 17:00:58
+Url：/Goods/Tea/EditGoods?id=4&pid=
+Message：对于“Answer.PC.Areas.Goods.Controllers.TeaController”中方法“System.Web.Mvc.ActionResult EditGoods(Int32, Int32)”的不可以为 null 的类型“System.Int32”的参数“pid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-05-28 17:01:01
+Url：/Goods/Tea/EditGoods?id=3&pid=
+Message：对于“Answer.PC.Areas.Goods.Controllers.TeaController”中方法“System.Web.Mvc.ActionResult EditGoods(Int32, Int32)”的不可以为 null 的类型“System.Int32”的参数“pid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-05-28 17:01:01
+Url：/Goods/Tea/EditGoods?id=3&pid=
+Message：对于“Answer.PC.Areas.Goods.Controllers.TeaController”中方法“System.Web.Mvc.ActionResult EditGoods(Int32, Int32)”的不可以为 null 的类型“System.Int32”的参数“pid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-05-28 17:01:22
+Url：/Goods/Tea/EditGoods?id=3&pid=
+Message：对于“Answer.PC.Areas.Goods.Controllers.TeaController”中方法“System.Web.Mvc.ActionResult EditGoods(Int32, Int32)”的不可以为 null 的类型“System.Int32”的参数“pid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-05-28 17:01:22
+Url：/Goods/Tea/EditGoods?id=3&pid=
+Message：对于“Answer.PC.Areas.Goods.Controllers.TeaController”中方法“System.Web.Mvc.ActionResult EditGoods(Int32, Int32)”的不可以为 null 的类型“System.Int32”的参数“pid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-05-28 17:53:05
+Url：/Goods/Tea/EditGoods?id=5&pid=0
+Message：e:\Projects\Tencent\DaAn\DaAn-Manage\Answer.PC\Areas\Goods\Views\Tea\EditGoods.cshtml(24): error CS1061: “Entity.T_Goods”不包含“status”的定义，并且找不到可接受类型为“Entity.T_Goods”的第一个参数的扩展方法“status”(是否缺少 using 指令或程序集引用?)
+
+2018-05-28 17:53:05
+Url：/Goods/Tea/EditGoods?id=5&pid=0
+Message：e:\Projects\Tencent\DaAn\DaAn-Manage\Answer.PC\Areas\Goods\Views\Tea\EditGoods.cshtml(24): error CS1061: “Entity.T_Goods”不包含“status”的定义，并且找不到可接受类型为“Entity.T_Goods”的第一个参数的扩展方法“status”(是否缺少 using 指令或程序集引用?)
+
+2018-05-28 17:53:18
+Url：/Goods/Tea/EditGoods?id=4&pid=0
+Message：e:\Projects\Tencent\DaAn\DaAn-Manage\Answer.PC\Areas\Goods\Views\Tea\EditGoods.cshtml(24): error CS1061: “Entity.T_Goods”不包含“status”的定义，并且找不到可接受类型为“Entity.T_Goods”的第一个参数的扩展方法“status”(是否缺少 using 指令或程序集引用?)
+
+2018-05-28 17:53:18
+Url：/Goods/Tea/EditGoods?id=4&pid=0
+Message：e:\Projects\Tencent\DaAn\DaAn-Manage\Answer.PC\Areas\Goods\Views\Tea\EditGoods.cshtml(24): error CS1061: “Entity.T_Goods”不包含“status”的定义，并且找不到可接受类型为“Entity.T_Goods”的第一个参数的扩展方法“status”(是否缺少 using 指令或程序集引用?)
+

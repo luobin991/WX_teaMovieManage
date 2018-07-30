@@ -1,0 +1,40 @@
+﻿2018-03-28 14:45:32
+Url：/User/User/GetUserLog?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522219532234
+Message：Table 'linyun_game.t_user_loginlog' doesn't exist
+
+2018-03-28 14:45:32
+Url：/User/User/GetUserLog?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522219532234
+Message：Table 'linyun_game.t_user_loginlog' doesn't exist
+
+2018-03-28 15:16:48
+Url：/User/User/GetPageList?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22roundNum%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522221408567
+Message：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'roundNum ASC limit 0,50' at line 1
+
+2018-03-28 15:16:48
+Url：/User/User/GetPageList?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22roundNum%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522221408567
+Message：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'roundNum ASC limit 0,50' at line 1
+
+2018-03-28 15:32:50
+Url：/User/User/GetPageList?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522222369951
+Message：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ASC limit 0,50' at line 1
+
+2018-03-28 15:32:50
+Url：/User/User/GetPageList?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522222369951
+Message：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ASC limit 0,50' at line 1
+
+2018-03-28 15:47:52
+Url：/ClubModule/Club/GetClubPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522223272083
+Message：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ASC limit 0,50' at line 1
+
+2018-03-28 15:47:52
+Url：/ClubModule/Club/GetClubPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522223272083
+Message：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ASC limit 0,50' at line 1
+
+2018-03-28 15:47:54
+Url：/ClubModule/Club/GetClubPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522223274506
+Message：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ASC limit 0,50' at line 1
+
+2018-03-28 15:47:54
+Url：/ClubModule/Club/GetClubPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522223274506
+Message：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ASC limit 0,50' at line 1
+

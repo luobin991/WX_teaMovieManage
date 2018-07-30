@@ -1,0 +1,60 @@
+﻿    @{
+            ViewBag.Title = "-冲扣钻石";
+            Layout = "~/Views/Shared/_Form.cshtml";
+        }
+
+
+    <div class="ll-form-wrap" id="form">
+        <input id="user" type="hidden" value="@ViewBag.userID" />
+        <div class="col-xs-12 ll-form-item">
+            <div class="ll-form-item-title">操作类型<font face="宋体">*</font></div>
+            <div class="radio ">
+                <label><input name="type" type="radio" value="1" checked="checked" />人工充值</label>
+                <label><input name="type" type="radio" value="0" />人工扣除</label>
+            </div>
+        </div>
+        <div class="col-xs-12 ll-form-item">
+            <div class="ll-form-item-title">钻石数量<font face="宋体">*</font></div>
+            <input id="num" type="number" class="form-control" placeholder="请输入钻石数量" isvalid="yes" checkexpession="Num" min="0" />
+        </div>
+        <div class="col-xs-12 ll-form-item">
+            <div class="ll-form-item-title">确认钻石<font face="宋体">*</font></div>
+            <input id="num1" type="number" class="form-control" placeholder="再次确认钻石数量" isvalid="yes" checkexpession="Num" min="0" />
+        </div>
+        <div class="col-xs-12 ll-form-item">
+            <div class="ll-form-item-title">备注说明</div>
+            <textarea id="remark" class="form-control" placeholder="请输入备注说明" rows="3"></textarea>
+        </div>
+    </div>
+    <script type="text/javascript">
+        var acceptClick;
+        var keyValue = '';
+        var bootstrap = function ($, luoluo) {
+            "use strict";
+            // 保存数据
+            acceptClick = function (callBack) {
+
+                if (!$('#form').llValidform()) {
+                    return false;
+                }
+
+                var postData = $('#form').llGetFormData(keyValue);
+                postData["type"] = $('input[type=radio]:checked').val();
+                if (postData["type"] == null) {
+                    luoluo.alert.error('请选择操作类型！');
+                    return false;
+                }
+                if (postData["num"] != postData["num1"]) {
+                    luoluo.alert.error('两次钻石数输入不同！');
+                    return false;
+                }
+                luoluo.postForm(top.$.rootUrl + '/User/User/CKfangka', postData, function (res) {
+                    // 保存成功后才回调
+                    if (!!callBack) {
+                        callBack();
+                    }
+                });
+
+            };
+        }
+    </script>

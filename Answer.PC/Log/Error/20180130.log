@@ -1,0 +1,110 @@
+﻿2018-01-30 10:33:28
+Url：/DataStatistics/GameLog/Index?id=10124
+Message：未找到视图“10124”或其母版视图，或没有视图引擎支持搜索的位置。搜索了以下位置: 
+~/Areas/DataStatistics/Views/GameLog/10124.aspx
+~/Areas/DataStatistics/Views/GameLog/10124.ascx
+~/Areas/DataStatistics/Views/Shared/10124.aspx
+~/Areas/DataStatistics/Views/Shared/10124.ascx
+~/Views/GameLog/10124.aspx
+~/Views/GameLog/10124.ascx
+~/Views/Shared/10124.aspx
+~/Views/Shared/10124.ascx
+~/Areas/DataStatistics/Views/GameLog/10124.cshtml
+~/Areas/DataStatistics/Views/GameLog/10124.vbhtml
+~/Areas/DataStatistics/Views/Shared/10124.cshtml
+~/Areas/DataStatistics/Views/Shared/10124.vbhtml
+~/Views/GameLog/10124.cshtml
+~/Views/GameLog/10124.vbhtml
+~/Views/Shared/10124.cshtml
+~/Views/Shared/10124.vbhtml
+
+2018-01-30 10:33:28
+Url：/DataStatistics/GameLog/Index?id=10124
+Message：未找到视图“10124”或其母版视图，或没有视图引擎支持搜索的位置。搜索了以下位置: 
+~/Areas/DataStatistics/Views/GameLog/10124.aspx
+~/Areas/DataStatistics/Views/GameLog/10124.ascx
+~/Areas/DataStatistics/Views/Shared/10124.aspx
+~/Areas/DataStatistics/Views/Shared/10124.ascx
+~/Views/GameLog/10124.aspx
+~/Views/GameLog/10124.ascx
+~/Views/Shared/10124.aspx
+~/Views/Shared/10124.ascx
+~/Areas/DataStatistics/Views/GameLog/10124.cshtml
+~/Areas/DataStatistics/Views/GameLog/10124.vbhtml
+~/Areas/DataStatistics/Views/Shared/10124.cshtml
+~/Areas/DataStatistics/Views/Shared/10124.vbhtml
+~/Views/GameLog/10124.cshtml
+~/Views/GameLog/10124.vbhtml
+~/Views/Shared/10124.cshtml
+~/Views/Shared/10124.vbhtml
+
+2018-01-30 11:09:53
+Url：/DataStatistics/GameLog/Index?id=
+Message：对于“Game.H5.Areas.DataStatistics.Controllers.GameLogController”中方法“System.Web.Mvc.ActionResult Index(Int32)”的不可以为 null 的类型“System.Int32”的参数“id”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-01-30 11:09:53
+Url：/DataStatistics/GameLog/Index?id=
+Message：对于“Game.H5.Areas.DataStatistics.Controllers.GameLogController”中方法“System.Web.Mvc.ActionResult Index(Int32)”的不可以为 null 的类型“System.Int32”的参数“id”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-01-30 11:10:53
+Url：/DataStatistics/GameLog/Index?id=
+Message：对于“Game.H5.Areas.DataStatistics.Controllers.GameLogController”中方法“System.Web.Mvc.ActionResult Index(Int32)”的不可以为 null 的类型“System.Int32”的参数“id”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-01-30 11:10:53
+Url：/DataStatistics/GameLog/Index?id=
+Message：对于“Game.H5.Areas.DataStatistics.Controllers.GameLogController”中方法“System.Web.Mvc.ActionResult Index(Int32)”的不可以为 null 的类型“System.Int32”的参数“id”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-01-30 11:11:07
+Url：/DataStatistics/GameLog/Index?id=
+Message：对于“Game.H5.Areas.DataStatistics.Controllers.GameLogController”中方法“System.Web.Mvc.ActionResult Index(Int32)”的不可以为 null 的类型“System.Int32”的参数“id”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-01-30 11:11:07
+Url：/DataStatistics/GameLog/Index?id=
+Message：对于“Game.H5.Areas.DataStatistics.Controllers.GameLogController”中方法“System.Web.Mvc.ActionResult Index(Int32)”的不可以为 null 的类型“System.Int32”的参数“id”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-01-30 14:20:44
+Url：/DataStatistics/GameLog/Index?id=
+Message：对于“Game.H5.Areas.DataStatistics.Controllers.GameLogController”中方法“System.Web.Mvc.ActionResult Index(Int32)”的不可以为 null 的类型“System.Int32”的参数“id”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-01-30 14:20:44
+Url：/DataStatistics/GameLog/Index?id=
+Message：对于“Game.H5.Areas.DataStatistics.Controllers.GameLogController”中方法“System.Web.Mvc.ActionResult Index(Int32)”的不可以为 null 的类型“System.Int32”的参数“id”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-01-30 18:14:10
+Url：/DataStatistics/GameLog/GameRootNumDetail?rootnum=
+Message：对于“Game.H5.Areas.DataStatistics.Controllers.GameLogController”中方法“System.Web.Mvc.ActionResult GameRootNumDetail(Int64)”的不可以为 null 的类型“System.Int64”的参数“rootnum”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-01-30 18:14:10
+Url：/DataStatistics/GameLog/GameRootNumDetail?rootnum=
+Message：对于“Game.H5.Areas.DataStatistics.Controllers.GameLogController”中方法“System.Web.Mvc.ActionResult GameRootNumDetail(Int64)”的不可以为 null 的类型“System.Int64”的参数“rootnum”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-01-30 18:19:47
+Url：/DataStatistics/GameLog/GameRootNumDetail?rootnum=
+Message：对于“Game.H5.Areas.DataStatistics.Controllers.GameLogController”中方法“System.Web.Mvc.ActionResult GameRootNumDetail(Int64)”的不可以为 null 的类型“System.Int64”的参数“rootnum”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-01-30 18:19:47
+Url：/DataStatistics/GameLog/GameRootNumDetail?rootnum=
+Message：对于“Game.H5.Areas.DataStatistics.Controllers.GameLogController”中方法“System.Web.Mvc.ActionResult GameRootNumDetail(Int64)”的不可以为 null 的类型“System.Int64”的参数“rootnum”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-01-30 18:19:56
+Url：/DataStatistics/GameLog/GameRootNumDetail?rootnum=
+Message：对于“Game.H5.Areas.DataStatistics.Controllers.GameLogController”中方法“System.Web.Mvc.ActionResult GameRootNumDetail(Int64)”的不可以为 null 的类型“System.Int64”的参数“rootnum”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-01-30 18:19:56
+Url：/DataStatistics/GameLog/GameRootNumDetail?rootnum=
+Message：对于“Game.H5.Areas.DataStatistics.Controllers.GameLogController”中方法“System.Web.Mvc.ActionResult GameRootNumDetail(Int64)”的不可以为 null 的类型“System.Int64”的参数“rootnum”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+

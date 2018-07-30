@@ -1,0 +1,117 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Index.cshtml";
+}
+
+
+<style>
+    .ll-layout-body {
+        height: 111%;
+        margin-top: -8%;
+    }
+</style>
+<div class="ll-layout">
+    <div class="ll-layout-center">
+        <div class="ll-layout-wrap ll-layout-wrap-notitle">
+            <div class="ll-layout-body" id="girdtable">
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    /*
+ * 日 期：2017.11.16
+ * 描 述：绑定标签
+ */
+    var selectedRow;
+    var refreshGirdData;
+    var acceptClick;
+    var id = request('fid');
+    var bootstrap = function ($, luoluo) {
+        "use strict";
+
+        var page = {
+            init: function () {
+                page.initGird();
+                page.search();
+            },
+            initGird: function () {
+                $('#girdtable').llAuthorizeJfGrid({
+                    isMultiselect: true, //选择多行
+                    url: top.$.rootUrl + '/configManage/goodslable/GetPageList',
+                    headData: [
+                            {
+                                label: '类别', name: 'lableName', width: 150, align: 'center', formatter: function (callback) {
+                                    if (callback == "")
+                                        return "";
+                                    else {
+                                        return '<span class="label label-primary">' + callback + '</span>';
+                                    }
+                                }
+                            },
+                            {
+                                label: '标签明细', name: 'lableDetail', width: 400, align: 'center', formatter: function (callback) {
+                                    if (callback == "" || callback == null)
+                                        return '';
+                                    else {
+                                        var array = callback.split(',');
+                                        var lables = "";
+                                        for (var i = 0; i < array.length; i++) {
+                                            lables += '<span class="label label-success">' + array[i] + '</span>   ';
+                                        }
+                                        return lables;
+                                    }
+                                }
+                            }
+                    ],
+                    isPage: true,
+                    sidx: 'createTime',
+                    sord: 'desc',
+                    reloadSelected: false,
+                    mainId: 'id',
+                    onRenderComplete: function (rowdatas) {
+                        var nums = '@ViewBag.nums';
+                        //nums = nums.trim(',').split(',');
+                        //for (var i = 0; i < nums.length; i++) {
+                        //    //$('#girdtable').find('.jfgrid-data-cell[rownum="' + 1 + '"]').addClass('jfgrid-head-cell-selected').addClass('jfgrid_selected_' +nums[i]);
+                        //    $('#girdtable').find('.jfgrid-tool-cell[rownum="' + nums[i] + '"] input[role="checkbox"]').trigger('click');
+                        //}
+                    }
+                });
+            },
+            search: function (param) {
+                param = param || {};
+                $('#girdtable').jfGridSet('reload', { param: param });
+            }
+
+        };
+
+        refreshGirdData = function () {
+            page.search({});
+        };
+
+        // 保存数据
+        acceptClick = function (callBack) {
+           
+            var keyValue = $('#girdtable').jfGridValue('id');
+            
+            var data = {
+                fid: id,
+                lables: $.trim(keyValue),
+            }
+            $.llSaveForm(top.$.rootUrl + "/Goods/Tea/SaveTea_Lable", data, function (res) {
+                // 保存成功后才回调
+                if (!!callBack) {
+                    callBack();
+                }
+            });
+        };
+
+        page.init();
+    }
+
+
+
+</script>

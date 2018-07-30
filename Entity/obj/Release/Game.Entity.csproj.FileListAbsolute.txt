@@ -1,0 +1,15 @@
+E:\Projects\GameManage\Game.Project\Game.Entity\bin\Release\Game.Entity.dll
+E:\Projects\GameManage\Game.Project\Game.Entity\bin\Release\Game.Entity.pdb
+E:\Projects\GameManage\Game.Project\Game.Entity\obj\Release\Game.Entity.csprojResolveAssemblyReference.cache
+E:\Projects\GameManage\Game.Project\Game.Entity\obj\Release\Game.Entity.dll
+E:\Projects\GameManage\Game.Project\Game.Entity\obj\Release\Game.Entity.pdb
+E:\Projects\Game.H5\Game.Entity\bin\Release\Game.Entity.dll
+E:\Projects\Game.H5\Game.Entity\bin\Release\Game.Entity.pdb
+E:\Projects\Game.H5\Game.Entity\obj\Release\Game.Entity.csprojResolveAssemblyReference.cache
+E:\Projects\Game.H5\Game.Entity\obj\Release\Game.Entity.dll
+E:\Projects\Game.H5\Game.Entity\obj\Release\Game.Entity.pdb
+E:\Projects\网站运营后台\Game.H5\Game.Entity\bin\Release\Game.Entity.dll
+E:\Projects\网站运营后台\Game.H5\Game.Entity\bin\Release\Game.Entity.pdb
+E:\Projects\网站运营后台\Game.H5\Game.Entity\obj\Release\Game.Entity.dll
+E:\Projects\网站运营后台\Game.H5\Game.Entity\obj\Release\Game.Entity.pdb
+E:\Projects\网站运营后台\Game.H5\Game.Entity\obj\Release\Game.Entity.csprojResolveAssemblyReference.cache

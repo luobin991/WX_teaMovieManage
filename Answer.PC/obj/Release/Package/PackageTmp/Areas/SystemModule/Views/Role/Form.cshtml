@@ -1,0 +1,33 @@
+﻿@{
+    ViewBag.Title = "角色添加";
+    Layout = "~/Views/Shared/_Form.cshtml";
+}
+<div class="ll-form-wrap" id="form">
+    <div class="col-xs-12 ll-form-item">
+        <div class="ll-form-item-title">角色编号<font face="宋体">*</font></div>
+        <input id="F_EnCode" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+    </div>
+    <div class="col-xs-12 ll-form-item">
+        <div class="ll-form-item-title">角色名称<font face="宋体">*</font></div>
+        <input id="F_FullName" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+    </div>
+    <div class="col-xs-12 ll-form-item">
+        <div class="ll-form-item-title">状态</div>
+        <div class="checkbox">
+            <label>
+                <input id="F_EnabledMark" type="checkbox" checked="checked" />
+                有效
+            </label>
+        </div>
+    </div>
+    <div class="col-xs-12 ll-form-item">
+        <div class="ll-form-item-title">排序<font face="宋体">*</font></div>
+        <input id="F_SortCode" type="number" class="form-control" isvalid="yes" checkexpession="NotNull" />
+    </div>
+    <div class="col-xs-12 ll-form-item">
+        <div class="ll-form-item-title">角色描述</div>
+        <textarea id="F_Description" class="form-control" style="height:100px;"></textarea>
+    </div>
+</div>
+@*@Html.AppendJsFile("/Areas/SystemModule/Content/Role_Form.js")*@
+<script src="~/Areas/SystemModule/Content/Role_Form.js"></script>

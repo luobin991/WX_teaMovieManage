@@ -1,0 +1,38 @@
+﻿2018-07-16 15:25:51
+Url：/Order/Order/GetOrderDetail?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1531725951468
+Message：对于“Answer.PC.Areas.Order.Controllers.OrderController”中方法“System.Web.Mvc.ActionResult GetOrderDetail(System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“id”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-07-16 15:25:51
+Url：/Order/Order/GetOrderDetail?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1531725951468
+Message：对于“Answer.PC.Areas.Order.Controllers.OrderController”中方法“System.Web.Mvc.ActionResult GetOrderDetail(System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“id”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-07-16 15:26:09
+Url：/Order/Order/GetOrderDetail?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1531725969196
+Message：对于“Answer.PC.Areas.Order.Controllers.OrderController”中方法“System.Web.Mvc.ActionResult GetOrderDetail(System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“id”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-07-16 15:26:09
+Url：/Order/Order/GetOrderDetail?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1531725969196
+Message：对于“Answer.PC.Areas.Order.Controllers.OrderController”中方法“System.Web.Mvc.ActionResult GetOrderDetail(System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“id”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-07-16 15:27:11
+Url：/Order/Order/GetOrderDetail?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1531726029188
+Message：对于“Answer.PC.Areas.Order.Controllers.OrderController”中方法“System.Web.Mvc.ActionResult GetOrderDetail(System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“id”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-07-16 15:27:11
+Url：/Order/Order/GetOrderDetail?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1531726029188
+Message：对于“Answer.PC.Areas.Order.Controllers.OrderController”中方法“System.Web.Mvc.ActionResult GetOrderDetail(System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“id”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-07-16 15:35:57
+Url：/Order/Order/GetOrderDetail?id=4&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1531726546146
+Message：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'orderid = 4  ORDER BY id desc' at line 1
+
+2018-07-16 15:35:57
+Url：/Order/Order/GetOrderDetail?id=4&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1531726546146
+Message：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'orderid = 4  ORDER BY id desc' at line 1
+

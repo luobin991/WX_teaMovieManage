@@ -1,0 +1,38 @@
+﻿
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Index.cshtml";
+}
+
+<div class="ll-layout">
+    <div class="ll-layout-center">
+        <div class="ll-layout-wrap ll-layout-wrap-notitle">
+            <div class="ll-layout-tool">
+                <div class="ll-layout-tool-left">
+                    <div class="ll-layout-tool-item">
+                        <input id="txt_Keyword" type="text" class="form-control" placeholder="请输入关键字" />
+                    </div>
+                    <div class="ll-layout-tool-item">
+                        <a id="btn_Search" class="btn btn-primary btn-sm"><i class="fa fa-search"></i>&nbsp;查询</a>
+                    </div>
+                </div>
+                <div class="ll-layout-tool-right">
+                    <div class="btn-group btn-group-sm">
+                        <a id="ll_refresh" class="btn btn-default"><i class="fa fa-refresh"></i></a>
+                    </div>
+                    <div class="btn-group btn-group-sm" luoluo-authorize="not">
+                        <a id="ll_detail" class="btn btn-default"><i class="fa fa-plus"></i>&nbsp;订单详情</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="ll-layout-body" id="girdtable">
+            </div>
+
+        </div>
+    </div>
+</div>
+
+@*@Html.AppendJsFile("/Areas/Order/Content/OrderIndex.js")*@
+<script src="~/Areas/Order/Centent/OrderIndex.js"></script>

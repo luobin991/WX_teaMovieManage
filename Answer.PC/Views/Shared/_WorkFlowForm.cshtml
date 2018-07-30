@@ -1,0 +1,93 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta name=”renderer” content=”webkit|ie-comp|ie-stand” />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="renderer" content="webkit">
+    <link rel="icon" href="~/favicon.ico">
+
+    <title>@ViewBag.Title|LB</title>
+    <link href="~/Content/font/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/jquery/plugin/scrollbar/jquery.mCustomScrollbar.min.css" rel="stylesheet" />
+    
+    <link href="~/Content/jquery/plugin/jfGrid/jfgrid.css" rel="stylesheet" />
+
+    @*@Html.RenderCssFile(
+    "/Content/viewCSS_JS/Content/style/ll-common.css",
+    "/Content/viewCSS_JS/Content/style/ll-iframe-form.css",
+    
+    "/Content/viewCSS_JS/Content/plugin/wizard/wizard.css",
+    "/Content/viewCSS_JS/Content/plugin/tree/ll-tree.css",
+    "/Content/viewCSS_JS/Content/plugin/select/ll-select.css",
+    "/Content/viewCSS_JS/Content/plugin/timeline/ll-timeline.css",
+    "/Content/viewCSS_JS/Content/plugin/formselect/ll-formselect.css",
+    "/Content/viewCSS_JS/Content/plugin/inputsearch/ll-isearch.css",
+    "/Content/viewCSS_JS/Content/plugin/workflow/ll-workflow-ui.css"
+    )*@
+    <link href="~/Content/viewCSS_JS/Content/style/ll-common.css" rel="stylesheet" />
+    <link href="~/Content/viewCSS_JS/Content/style/ll-iframe-form.css" rel="stylesheet" />
+
+    <link href="~/Content/viewCSS_JS/Content/plugin/wizard/wizard.css" rel="stylesheet" />
+    <link href="~/Content/viewCSS_JS/Content/plugin/tree/ll-tree.css" rel="stylesheet" />
+    <link href="~/Content/viewCSS_JS/Content/plugin/select/ll-select.css" rel="stylesheet" />
+    <link href="~/Content/viewCSS_JS/Content/plugin/timeline/ll-timeline.css" rel="stylesheet" />
+    <link href="~/Content/viewCSS_JS/Content/plugin/formselect/ll-formselect.css" rel="stylesheet" />
+    <link href="~/Content/viewCSS_JS/Content/plugin/inputsearch/ll-isearch.css" rel="stylesheet" />
+    <link href="~/Content/viewCSS_JS/Content/plugin/workflow/ll-workflow-ui.css" rel="stylesheet" />
+    
+    <script src="~/Content/datepicker/WdatePicker.js"></script>
+    <!--[if lt IE 9]>
+      <script src="~/Content/bootstrap/html5shiv.min.js"></script>
+      <script src="~/Content/bootstrap/respond.min.js"></script>
+    <![endif]-->
+    <script>
+        function request(d) { for (var c = location.search.slice(1).split("&"), a = 0; a < c.length; a++) { var b = c[a].split("="); if (b[0] == d) if ("undefined" == unescape(b[1])) break; else return unescape(b[1]) } return "" };
+    </script>
+    
+</head>
+<body class="Net.Browser Util.WebHelper.GetUITheme()">
+    <div id="lr_form_bg" class="ll-form-bg">
+    </div>
+    <script src="~/Content/jquery/jquery-1.10.2.min.js"></script>
+    <script src="~/Content/jquery/jquery.md5.min.js"></script>
+    <script src="~/Content/jquery/plugin/scrollbar/jquery.mCustomScrollbar.concat.min.js"></script>
+    <script src="~/Content/jquery/plugin/jfGrid/jfgrid.js"></script>
+    @RenderBody()
+    @*@Html.RenderJsFile(
+    "/Content/viewCSS_JS/Content/script/ll-validator.js",
+    "/Content/viewCSS_JS/Content/script/ll-form.js",
+    "/Content/viewCSS_JS/Content/plugin/wizard/wizard.js",
+    "/Content/viewCSS_JS/Content/plugin/tree/ll-tree.js",
+    "/Content/viewCSS_JS/Content/plugin/select/ll-select.js",
+    "/Content/viewCSS_JS/Content/plugin/timeline/ll-timeline.js",
+    "/Content/viewCSS_JS/Content/plugin/formselect/ll-formselect.js",
+    "/Content/viewCSS_JS/Content/plugin/inputsearch/ll-isearch.js",
+    "/Content/viewCSS_JS/Content/plugin/workflow/ll-workflow-ui.js"
+    )*@
+    <script src="~/Content/viewCSS_JS/Content/script/ll-validator.js"></script>
+    <script src="~/Content/viewCSS_JS/Content/script/ll-form.js"></script>
+    <script src="~/Content/viewCSS_JS/Content/plugin/wizard/wizard.js"></script>
+    <script src="~/Content/viewCSS_JS/Content/plugin/tree/ll-tree.js"></script>
+    <script src="~/Content/viewCSS_JS/Content/plugin/select/ll-select.js"></script>
+    <script src="~/Content/viewCSS_JS/Content/plugin/timeline/ll-timeline.js"></script>
+    <script src="~/Content/viewCSS_JS/Content/plugin/formselect/ll-formselect.js"></script>
+    <script src="~/Content/viewCSS_JS/Content/plugin/inputsearch/ll-isearch.js"></script>
+    <script src="~/Content/viewCSS_JS/Content/plugin/workflow/ll-workflow-ui.js"></script>
+
+    <script>
+        $.lrToken = $('@Html.AntiForgeryToken()').val();
+        $(function () {
+            $('#lr_form_bg').fadeOut();
+            $('#form').mCustomScrollbar({ // 优化滚动条
+                theme: "minimal-dark"
+            });
+            if (!!window.bootstrap) {
+                bootstrap(jQuery, top.luoluo);
+            }
+        });
+    </script>
+</body>
+</html>

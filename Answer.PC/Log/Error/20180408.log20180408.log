@@ -1,0 +1,90 @@
+﻿2018-04-08 10:42:21
+Url：/GameConfig/placardset/AddPlacard
+Message：已添加了具有相同键的项。
+
+2018-04-08 10:42:22
+Url：/GameConfig/placardset/AddPlacard
+Message：已添加了具有相同键的项。
+
+2018-04-08 10:43:22
+Url：/GameConfig/placardset/AddPlacard
+Message：已添加了具有相同键的项。
+
+2018-04-08 10:43:22
+Url：/GameConfig/placardset/AddPlacard
+Message：已添加了具有相同键的项。
+
+2018-04-08 10:44:49
+Url：/GameConfig/placardset/AddPlacard
+Message：已添加了具有相同键的项。
+
+2018-04-08 10:44:50
+Url：/GameConfig/placardset/AddPlacard
+Message：已添加了具有相同键的项。
+
+2018-04-08 10:46:01
+Url：/GameConfig/placardset/AddPlacard
+Message：已添加了具有相同键的项。
+
+2018-04-08 10:46:02
+Url：/GameConfig/placardset/AddPlacard
+Message：已添加了具有相同键的项。
+
+2018-04-08 10:48:13
+Url：/GameConfig/placardset/AddPlacard
+Message：已添加了具有相同键的项。
+
+2018-04-08 10:48:13
+Url：/GameConfig/placardset/AddPlacard
+Message：已添加了具有相同键的项。
+
+2018-04-08 10:52:17
+Url：/GameConfig/placardset/AddPlacard
+Message：已添加了具有相同键的项。
+
+2018-04-08 10:52:17
+Url：/GameConfig/placardset/AddPlacard
+Message：已添加了具有相同键的项。
+
+2018-04-08 10:54:33
+Url：/GameConfig/placardset/AddPlacard
+Message：已添加了具有相同键的项。
+
+2018-04-08 10:54:33
+Url：/GameConfig/placardset/AddPlacard
+Message：已添加了具有相同键的项。
+
+2018-04-08 10:55:54
+Url：/GameConfig/placardset/AddPlacard
+Message：已添加了具有相同键的项。
+
+2018-04-08 10:55:54
+Url：/GameConfig/placardset/AddPlacard
+Message：已添加了具有相同键的项。
+
+2018-04-08 10:56:19
+Url：/GameConfig/placardset/AddPlacard
+Message：已添加了具有相同键的项。
+
+2018-04-08 10:56:19
+Url：/GameConfig/placardset/AddPlacard
+Message：已添加了具有相同键的项。
+
+2018-04-08 17:56:12
+Url：/DataStatistics/Diamond/GetDiamondLogPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1523181370893
+Message：对于“Game.H5.Areas.DataStatistics.Controllers.DiamondController”中方法“System.Web.Mvc.ActionResult GetDiamondLogPage(System.String, System.String, System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“changedType”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-04-08 17:56:12
+Url：/DataStatistics/Diamond/GetDiamondLogPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1523181370893
+Message：对于“Game.H5.Areas.DataStatistics.Controllers.DiamondController”中方法“System.Web.Mvc.ActionResult GetDiamondLogPage(System.String, System.String, System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“changedType”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-04-08 18:08:26
+Url：/DataStatistics/Diamond/GetDiamondLogPage?sdate=2018-04-02&edate=2018-04-09&changedType=0&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1523182085491
+Message：Fatal error encountered during command execution.
+
+2018-04-08 18:08:26
+Url：/DataStatistics/Diamond/GetDiamondLogPage?sdate=2018-04-02&edate=2018-04-09&changedType=0&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1523182085491
+Message：Fatal error encountered during command execution.
+

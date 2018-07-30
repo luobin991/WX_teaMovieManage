@@ -1,0 +1,210 @@
+﻿2018-05-25 11:38:20
+Url：/configManage/goodslable/GetPageList?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22createTime%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527219500038
+Message：Error parsing column 4 (createTime=Unable to convert MySQL date/time value to System.DateTime)
+
+2018-05-25 11:38:20
+Url：/configManage/goodslable/GetPageList?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22createTime%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527219500038
+Message：Error parsing column 4 (createTime=Unable to convert MySQL date/time value to System.DateTime)
+
+2018-05-25 11:38:24
+Url：/configManage/goodslable/GetPageList?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22createTime%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527219503877
+Message：Error parsing column 4 (createTime=Unable to convert MySQL date/time value to System.DateTime)
+
+2018-05-25 11:38:24
+Url：/configManage/goodslable/GetPageList?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22createTime%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527219503877
+Message：Error parsing column 4 (createTime=Unable to convert MySQL date/time value to System.DateTime)
+
+2018-05-25 11:38:39
+Url：/configManage/goodslable/GetPageList?keyword=&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22createTime%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527219503878
+Message：Error parsing column 4 (createTime=Unable to convert MySQL date/time value to System.DateTime)
+
+2018-05-25 11:38:39
+Url：/configManage/goodslable/GetPageList?keyword=&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22createTime%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527219503878
+Message：Error parsing column 4 (createTime=Unable to convert MySQL date/time value to System.DateTime)
+
+2018-05-25 11:38:43
+Url：/configManage/goodslable/GetPageList?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22createTime%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527219523774
+Message：Error parsing column 4 (createTime=Unable to convert MySQL date/time value to System.DateTime)
+
+2018-05-25 11:38:43
+Url：/configManage/goodslable/GetPageList?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22createTime%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527219523774
+Message：Error parsing column 4 (createTime=Unable to convert MySQL date/time value to System.DateTime)
+
+2018-05-25 12:22:09
+Url：/configManage/goodslable/GetPageList?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22createTime%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527222129195
+Message：Error parsing column 4 (createTime=Unable to convert MySQL date/time value to System.DateTime)
+
+2018-05-25 12:22:09
+Url：/configManage/goodslable/GetPageList?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22createTime%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527222129195
+Message：Error parsing column 4 (createTime=Unable to convert MySQL date/time value to System.DateTime)
+
+2018-05-25 12:23:08
+Url：/configManage/goodslable/GetPageList?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22createTime%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527222187908
+Message：Error parsing column 4 (createTime=Unable to convert MySQL date/time value to System.DateTime)
+
+2018-05-25 12:23:08
+Url：/configManage/goodslable/GetPageList?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22createTime%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527222187908
+Message：Error parsing column 4 (createTime=Unable to convert MySQL date/time value to System.DateTime)
+
+2018-05-25 12:32:29
+Url：/configManage/goodslable/GetPageList?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22createTimeStr%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527222745347
+Message：Unknown column 'createTimeStr' in 'order clause'
+
+2018-05-25 12:32:29
+Url：/configManage/goodslable/GetPageList?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22createTimeStr%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527222745347
+Message：Unknown column 'createTimeStr' in 'order clause'
+
+2018-05-25 12:32:33
+Url：/configManage/goodslable/GetPageList?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22createTimeStr%22%2C%22sord%22%3A%22DESC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527222745348
+Message：Unknown column 'createTimeStr' in 'order clause'
+
+2018-05-25 12:32:33
+Url：/configManage/goodslable/GetPageList?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22createTimeStr%22%2C%22sord%22%3A%22DESC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527222745348
+Message：Unknown column 'createTimeStr' in 'order clause'
+
+2018-05-25 12:32:34
+Url：/configManage/goodslable/GetPageList?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22createTimeStr%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527222745349
+Message：Unknown column 'createTimeStr' in 'order clause'
+
+2018-05-25 12:32:34
+Url：/configManage/goodslable/GetPageList?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22createTimeStr%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527222745349
+Message：Unknown column 'createTimeStr' in 'order clause'
+
+2018-05-25 12:32:34
+Url：/configManage/goodslable/GetPageList?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22createTimeStr%22%2C%22sord%22%3A%22DESC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527222745350
+Message：Unknown column 'createTimeStr' in 'order clause'
+
+2018-05-25 12:32:34
+Url：/configManage/goodslable/GetPageList?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22createTimeStr%22%2C%22sord%22%3A%22DESC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527222745350
+Message：Unknown column 'createTimeStr' in 'order clause'
+
+2018-05-25 12:32:50
+Url：/configManage/goodslable/GetPageList?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22createTimeStr%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527222757038
+Message：Unknown column 'createTimeStr' in 'order clause'
+
+2018-05-25 12:32:50
+Url：/configManage/goodslable/GetPageList?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22createTimeStr%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527222757038
+Message：Unknown column 'createTimeStr' in 'order clause'
+
+2018-05-25 12:32:51
+Url：/configManage/goodslable/GetPageList?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22createTimeStr%22%2C%22sord%22%3A%22DESC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527222757039
+Message：Unknown column 'createTimeStr' in 'order clause'
+
+2018-05-25 12:32:51
+Url：/configManage/goodslable/GetPageList?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22createTimeStr%22%2C%22sord%22%3A%22DESC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527222757039
+Message：Unknown column 'createTimeStr' in 'order clause'
+
+2018-05-25 14:44:40
+Url：/configManage/goodslable/SaveLable
+Message：Field 'id' doesn't have a default value
+
+2018-05-25 14:44:40
+Url：/configManage/goodslable/SaveLable
+Message：Field 'id' doesn't have a default value
+
+2018-05-25 14:45:48
+Url：/configManage/goodslable/SaveLable
+Message：Incorrect datetime value: '0001-01-01 00:00:00 ' for column 'createTime' at row 1
+
+2018-05-25 14:45:48
+Url：/configManage/goodslable/SaveLable
+Message：Incorrect datetime value: '0001-01-01 00:00:00 ' for column 'createTime' at row 1
+
+2018-05-25 15:54:07
+Url：/configManage/goodslable/GetDetailPageList?pid=&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22asc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527234846976
+Message：对于“Answer.PC.Areas.ConfigManage.Controllers.GoodsLableController”中方法“System.Web.Mvc.ActionResult GetDetailPageList(System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“pid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-05-25 15:54:07
+Url：/configManage/goodslable/GetDetailPageList?pid=&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22asc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527234846976
+Message：对于“Answer.PC.Areas.ConfigManage.Controllers.GoodsLableController”中方法“System.Web.Mvc.ActionResult GetDetailPageList(System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“pid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-05-25 17:10:29
+Url：/configManage/goodslable/GetDetailPageList?pid=5&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22asc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527239412689
+Message：Error parsing column 3 (updateTime=Unable to convert MySQL date/time value to System.DateTime)
+
+2018-05-25 17:10:29
+Url：/configManage/goodslable/GetDetailPageList?pid=5&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22asc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527239412689
+Message：Error parsing column 3 (updateTime=Unable to convert MySQL date/time value to System.DateTime)
+
+2018-05-25 17:10:31
+Url：/configManage/goodslable/GetDetailPageList?pid=5&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22asc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527239431134
+Message：Error parsing column 3 (updateTime=Unable to convert MySQL date/time value to System.DateTime)
+
+2018-05-25 17:10:31
+Url：/configManage/goodslable/GetDetailPageList?pid=5&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22asc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527239431134
+Message：Error parsing column 3 (updateTime=Unable to convert MySQL date/time value to System.DateTime)
+
+2018-05-25 17:10:58
+Url：/configManage/goodslable/GetDetailPageList?pid=5&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22asc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527239457852
+Message：Error parsing column 3 (updateTime=Unable to convert MySQL date/time value to System.DateTime)
+
+2018-05-25 17:10:58
+Url：/configManage/goodslable/GetDetailPageList?pid=5&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22asc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527239457852
+Message：Error parsing column 3 (updateTime=Unable to convert MySQL date/time value to System.DateTime)
+
+2018-05-25 17:11:04
+Url：/configManage/goodslable/GetDetailPageList?pid=5&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22asc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527239464433
+Message：Error parsing column 3 (updateTime=Unable to convert MySQL date/time value to System.DateTime)
+
+2018-05-25 17:11:04
+Url：/configManage/goodslable/GetDetailPageList?pid=5&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22asc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527239464433
+Message：Error parsing column 3 (updateTime=Unable to convert MySQL date/time value to System.DateTime)
+
+2018-05-25 17:11:14
+Url：/configManage/goodslable/GetDetailPageList?pid=5&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22asc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527239474544
+Message：Error parsing column 3 (updateTime=Unable to convert MySQL date/time value to System.DateTime)
+
+2018-05-25 17:11:14
+Url：/configManage/goodslable/GetDetailPageList?pid=5&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22asc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527239474544
+Message：Error parsing column 3 (updateTime=Unable to convert MySQL date/time value to System.DateTime)
+
+2018-05-25 17:12:54
+Url：/configManage/goodslable/GetDetailPageList?pid=5&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22asc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527239573802
+Message：Error parsing column 3 (updateTime=Unable to convert MySQL date/time value to System.DateTime)
+
+2018-05-25 17:12:54
+Url：/configManage/goodslable/GetDetailPageList?pid=5&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22asc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527239573802
+Message：Error parsing column 3 (updateTime=Unable to convert MySQL date/time value to System.DateTime)
+
+2018-05-25 17:45:54
+Url：/configManage/goodslable/SaveLableDetail
+Message：Column 'lable' cannot be null
+
+2018-05-25 17:45:54
+Url：/configManage/goodslable/SaveLableDetail
+Message：Column 'lable' cannot be null
+
+2018-05-25 17:45:59
+Url：/configManage/goodslable/SaveLableDetail
+Message：Column 'lable' cannot be null
+
+2018-05-25 17:45:59
+Url：/configManage/goodslable/SaveLableDetail
+Message：Column 'lable' cannot be null
+
+2018-05-25 17:47:07
+Url：/configManage/goodslable/SaveLableDetail
+Message：Column 'lable' cannot be null
+
+2018-05-25 17:47:07
+Url：/configManage/goodslable/SaveLableDetail
+Message：Column 'lable' cannot be null
+
+2018-05-25 17:47:18
+Url：/configManage/goodslable/SaveLableDetail
+Message：Column 'lable' cannot be null
+
+2018-05-25 17:47:18
+Url：/configManage/goodslable/SaveLableDetail
+Message：Column 'lable' cannot be null
+
+2018-05-25 17:49:12
+Url：/configManage/goodslable/SaveLableDetail
+Message：Column 'lable' cannot be null
+
+2018-05-25 17:49:12
+Url：/configManage/goodslable/SaveLableDetail
+Message：Column 'lable' cannot be null
+

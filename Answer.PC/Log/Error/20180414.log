@@ -1,0 +1,37 @@
+﻿2018-04-14 12:25:26
+Url：/ClubModule/Club/ClubUser?user=32570676,53208166&club=32570676,53208166
+Message：对于“Game.H5.Areas.ClubModule.Controllers.ClubController”中方法“System.Web.Mvc.ActionResult ClubUser(Int32, Int32)”的不可以为 null 的类型“System.Int32”的参数“club”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-04-14 12:25:26
+Url：/ClubModule/Club/ClubUser?user=32570676,53208166&club=32570676,53208166
+Message：对于“Game.H5.Areas.ClubModule.Controllers.ClubController”中方法“System.Web.Mvc.ActionResult ClubUser(Int32, Int32)”的不可以为 null 的类型“System.Int32”的参数“club”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-04-14 15:13:40
+错误编号:2018041415134092Xea9b36a851
+Message:无法连接到远程服务器
+Type:System.Net.WebException
+Source:System
+StackTrace:   在 System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   在 System.Net.WebClient.UploadData(Uri address, String method, Byte[] data)
+   在 System.Net.WebClient.UploadData(String address, String method, Byte[] data)
+   在 Game.Common.WebCommon.APIPostBack(String url, String posts, Boolean check, String contentType) 位置 E:\Projects\网站运营后台\Game.H5\Game.Common\WebCommon.cs:行号 179
+Method:UploadDataInternal
+Class:System.Net.WebClient
+UserIP:::1
+UserName:
+CompanyID:0
+CompanyName:
+BaseException:
+System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.0.109:2115
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+2018-04-14 15:13:41
+Url：/ClubModule/Club/SetuUserDiamondLimit
+Message：未将对象引用设置到对象的实例。
+
+2018-04-14 15:13:41
+Url：/ClubModule/Club/SetuUserDiamondLimit
+Message：未将对象引用设置到对象的实例。
+

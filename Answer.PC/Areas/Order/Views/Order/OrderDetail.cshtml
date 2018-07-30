@@ -1,0 +1,66 @@
+﻿@{
+    ViewBag.Title = "DetailIndex";
+    Layout = "~/Views/Shared/_Index.cshtml";
+}
+
+
+<style>
+    .ll-layout-body {
+        height: 111%;
+        margin-top: -8%;
+    }
+</style>
+<div class="ll-layout">
+    <div class="ll-layout-center">
+        <div class="ll-layout-wrap ll-layout-wrap-notitle">
+            <div class="ll-layout-body" id="girdtable">
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    /*
+ * 日 期：2017.11.16
+ * 描 述：绑定标签
+ */
+    var refreshGirdData;
+    var id = request('id');
+    var bootstrap = function ($, luoluo) {
+        "use strict";
+
+        var page = {
+            init: function () {
+                page.initGird();
+                page.search();
+            },
+            initGird: function () {
+                $('#girdtable').llAuthorizeJfGrid({
+                    url: top.$.rootUrl + '/Order/Order/GetOrderDetail?id='+id,
+                    headData: [
+                        { label: '名称', name: 'GoodsName', width: 150, align: 'center' },
+                        { label: '规格说明', name: 'GoodsInfoStr', width: 200, align: 'center' },
+                        { label: '单价', name: 'Price', width: 80, align: 'center' },
+                        { label: '数量', name: 'num', width: 80, align: 'center' },
+                    ],
+                    isPage: true,
+                    sidx: 'id',
+                    sord: 'desc',
+                    reloadSelected: false,
+                    mainId: 'id',
+                });
+            },
+            search: function (param) {
+                param = param || {};
+                $('#girdtable').jfGridSet('reload', { param: param });
+            }
+        };
+        refreshGirdData = function () {
+            page.search();
+        };
+
+
+        page.init();
+    }
+
+</script>

@@ -1,0 +1,43 @@
+﻿2018-02-24 16:28:24
+错误编号:2018022416282427X7024dd7b4e
+Message:Table 'linyun_game.sys_log' doesn't exist
+Message2:/Home/Login
+Type:MySql.Data.MySqlClient.MySqlException
+Source:MySql.Data
+StackTrace:   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 Dapper.SqlMapper.ExecuteCommand(IDbConnection cnn, CommandDefinition& command, Action`2 paramReader)
+   在 Dapper.SqlMapper.ExecuteImpl(IDbConnection cnn, CommandDefinition& command)
+   在 Dapper.SqlMapper.Execute(IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Nullable`1 commandTimeout, Nullable`1 commandType)
+   在 Game.DataAccess.SysManage.Sys_LogDAL.AddLog(Sys_Log log) 位置 E:\Projects\网站运营后台\Game.H5\Game.DataAccess\SysManage\Sys_LogDAL.cs:行号 31
+   在 Game.H5.WebSecurityHelper.LogCommon.WriteLog_Exception(String mark) 位置 E:\Projects\网站运营后台\Game.H5\Game.H5\WebSecurityHelper\LogCommon.cs:行号 141
+   在 Game.H5.Controllers.LoginController.UserLogin(String userName, String userPassWord, String checkCode, String& msg) 位置 E:\Projects\网站运营后台\Game.H5\Game.H5\Controllers\LoginController.cs:行号 166
+   在 Game.H5.Controllers.LoginController.Login(String userName, String userPassWord, String checkCode) 位置 E:\Projects\网站运营后台\Game.H5\Game.H5\Controllers\LoginController.cs:行号 83
+Method:ReadPacket
+Class:MySql.Data.MySqlClient.MySqlStream
+UserIP:::1
+UserName:
+CompanyID:0
+CompanyName:
+
+2018-02-24 16:33:04
+Url：/User/User/Index
+Message：Table 'linyun_game.sys_modulebutton' doesn't exist
+
+2018-02-24 16:33:04
+Url：/User/User/Index
+Message：Table 'linyun_game.sys_modulebutton' doesn't exist
+
+2018-02-24 16:39:06
+Url：/SystemModule/Module/Index
+Message：Table 'linyun_game.sys_modulebutton' doesn't exist
+
+2018-02-24 16:39:06
+Url：/SystemModule/Module/Index
+Message：Table 'linyun_game.sys_modulebutton' doesn't exist
+

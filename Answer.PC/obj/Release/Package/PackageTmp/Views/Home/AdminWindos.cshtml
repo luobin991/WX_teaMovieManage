@@ -1,0 +1,17 @@
+﻿@{
+    ViewBag.Title = "LY-炫动版";
+    Layout = "~/Views/Shared/_Admin.cshtml";
+}
+
+@*@Html.AppendCssFile("/Content/viewCSS_JS/Home/AdminWindos/index.css")*@
+<link href="~/Content/viewCSS_JS/Home/AdminWindos/Index.css" rel="stylesheet" />
+<div class="ll-windows-start" id="lr_windows_start" title="开始菜单"><i class="fa fa-windows"></i></div>
+<div class="ll-applist-btn" id="lr_applist_btn">应用列表</div>
+<div class="ll-applist-content" id="lr_applist_content">
+    <div class="ll-applist-slidebox-slider">
+        <ul class="ll-applist-slidebox-slider-content"></ul>
+    </div>
+    <div class="ll-applist-slidebox" id="lr_applist_slidebox"></div>
+</div>
+@*@Html.AppendJsFile("/Content/viewCSS_JS/Home/AdminWindos/index.js")*@
+<script src="~/Content/viewCSS_JS/Home/AdminWindos/Index.js"></script>

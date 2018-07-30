@@ -1,0 +1,160 @@
+﻿2018-04-08 10:41:06
+Url：/GameConfig/placardset/AddPlacard
+Message：已添加了具有相同键的项。
+
+2018-04-08 10:41:06
+Url：/GameConfig/placardset/AddPlacard
+Message：已添加了具有相同键的项。
+
+2018-04-08 17:30:42
+Url：/DataStatistics/Diamond/GetDiamondLogPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1523179842802
+Message：对于“Game.H5.Areas.DataStatistics.Controllers.DiamondController”中方法“System.Web.Mvc.ActionResult GetDiamondLogPage(System.String, System.String, System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“changedType”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-04-08 17:30:43
+Url：/DataStatistics/Diamond/GetDiamondLogPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1523179842802
+Message：对于“Game.H5.Areas.DataStatistics.Controllers.DiamondController”中方法“System.Web.Mvc.ActionResult GetDiamondLogPage(System.String, System.String, System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“changedType”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-04-08 17:30:52
+Url：/DataStatistics/Diamond/GetDiamondLogPage?sdate=&edate=&changedType=&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1523179842805
+Message：对于“Game.H5.Areas.DataStatistics.Controllers.DiamondController”中方法“System.Web.Mvc.ActionResult GetDiamondLogPage(System.String, System.String, System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“changedType”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-04-08 17:30:52
+Url：/DataStatistics/Diamond/GetDiamondLogPage?sdate=&edate=&changedType=&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1523179842805
+Message：对于“Game.H5.Areas.DataStatistics.Controllers.DiamondController”中方法“System.Web.Mvc.ActionResult GetDiamondLogPage(System.String, System.String, System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“changedType”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-04-08 17:31:20
+Url：/DataStatistics/Diamond/GetDiamondLogPage?sdate=&edate=&changedType=&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1523179842806
+Message：对于“Game.H5.Areas.DataStatistics.Controllers.DiamondController”中方法“System.Web.Mvc.ActionResult GetDiamondLogPage(System.String, System.String, System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“changedType”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-04-08 17:31:20
+Url：/DataStatistics/Diamond/GetDiamondLogPage?sdate=&edate=&changedType=&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1523179842806
+Message：对于“Game.H5.Areas.DataStatistics.Controllers.DiamondController”中方法“System.Web.Mvc.ActionResult GetDiamondLogPage(System.String, System.String, System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“changedType”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-04-08 17:32:07
+Url：/DataStatistics/Diamond/GetDiamondLogPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1523179927622
+Message：对于“Game.H5.Areas.DataStatistics.Controllers.DiamondController”中方法“System.Web.Mvc.ActionResult GetDiamondLogPage(System.String, System.String, System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“changedType”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-04-08 17:32:07
+Url：/DataStatistics/Diamond/GetDiamondLogPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1523179927622
+Message：对于“Game.H5.Areas.DataStatistics.Controllers.DiamondController”中方法“System.Web.Mvc.ActionResult GetDiamondLogPage(System.String, System.String, System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“changedType”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-04-08 17:32:39
+Url：/DataStatistics/Diamond/GetDiamondLogPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1523179959035
+Message：对于“Game.H5.Areas.DataStatistics.Controllers.DiamondController”中方法“System.Web.Mvc.ActionResult GetDiamondLogPage(System.String, System.String, System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“changedType”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-04-08 17:32:39
+Url：/DataStatistics/Diamond/GetDiamondLogPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1523179959035
+Message：对于“Game.H5.Areas.DataStatistics.Controllers.DiamondController”中方法“System.Web.Mvc.ActionResult GetDiamondLogPage(System.String, System.String, System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“changedType”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-04-08 17:32:49
+Url：/DataStatistics/Diamond/GetDiamondLogPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1523179969293
+Message：对于“Game.H5.Areas.DataStatistics.Controllers.DiamondController”中方法“System.Web.Mvc.ActionResult GetDiamondLogPage(System.String, System.String, System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“changedType”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-04-08 17:32:49
+Url：/DataStatistics/Diamond/GetDiamondLogPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1523179969293
+Message：对于“Game.H5.Areas.DataStatistics.Controllers.DiamondController”中方法“System.Web.Mvc.ActionResult GetDiamondLogPage(System.String, System.String, System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“changedType”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-04-08 17:33:36
+Url：/DataStatistics/Diamond/GetDiamondLogPage?sdate=2018-04-01&edate=2018-04-02&changedType=0&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1523179969295
+Message：Fatal error encountered during command execution.
+
+2018-04-08 17:33:36
+Url：/DataStatistics/Diamond/GetDiamondLogPage?sdate=2018-04-01&edate=2018-04-02&changedType=0&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1523179969295
+Message：Fatal error encountered during command execution.
+
+2018-04-08 17:33:38
+Url：/DataStatistics/Diamond/GetDiamondLogPage?sdate=2018-04-01&edate=2018-04-02&changedType=0&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1523179969296
+Message：Fatal error encountered during command execution.
+
+2018-04-08 17:33:38
+Url：/DataStatistics/Diamond/GetDiamondLogPage?sdate=2018-04-01&edate=2018-04-02&changedType=0&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1523179969296
+Message：Fatal error encountered during command execution.
+
+2018-04-08 17:34:13
+Url：/DataStatistics/Diamond/GetDiamondLogPage?sdate=2018-04-01&edate=2018-04-02&changedType=11&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1523179969297
+Message：Fatal error encountered during command execution.
+
+2018-04-08 17:34:13
+Url：/DataStatistics/Diamond/GetDiamondLogPage?sdate=2018-04-01&edate=2018-04-02&changedType=11&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1523179969297
+Message：Fatal error encountered during command execution.
+
+2018-04-08 17:38:23
+Url：/DataStatistics/Diamond/GetDiamondLogPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1523180302917
+Message：对于“Game.H5.Areas.DataStatistics.Controllers.DiamondController”中方法“System.Web.Mvc.ActionResult GetDiamondLogPage(System.String, System.String, System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“changedType”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-04-08 17:38:23
+Url：/DataStatistics/Diamond/GetDiamondLogPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1523180302917
+Message：对于“Game.H5.Areas.DataStatistics.Controllers.DiamondController”中方法“System.Web.Mvc.ActionResult GetDiamondLogPage(System.String, System.String, System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“changedType”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-04-08 17:38:35
+Url：/DataStatistics/Diamond/GetDiamondLogPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1523180315085
+Message：对于“Game.H5.Areas.DataStatistics.Controllers.DiamondController”中方法“System.Web.Mvc.ActionResult GetDiamondLogPage(System.String, System.String, System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“changedType”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-04-08 17:38:35
+Url：/DataStatistics/Diamond/GetDiamondLogPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1523180315085
+Message：对于“Game.H5.Areas.DataStatistics.Controllers.DiamondController”中方法“System.Web.Mvc.ActionResult GetDiamondLogPage(System.String, System.String, System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“changedType”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-04-08 17:58:32
+Url：/DataStatistics/Diamond/GetDiamondLogPage?sdate=&edate=&changedType=&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1523181501927
+Message：输入字符串的格式不正确。
+
+2018-04-08 17:58:32
+Url：/DataStatistics/Diamond/GetDiamondLogPage?sdate=&edate=&changedType=&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1523181501927
+Message：输入字符串的格式不正确。
+
+2018-04-08 17:58:35
+Url：/DataStatistics/Diamond/GetDiamondLogPage?sdate=&edate=&changedType=&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1523181501928
+Message：输入字符串的格式不正确。
+
+2018-04-08 17:58:35
+Url：/DataStatistics/Diamond/GetDiamondLogPage?sdate=&edate=&changedType=&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1523181501928
+Message：输入字符串的格式不正确。
+
+2018-04-08 17:58:46
+Url：/DataStatistics/Diamond/GetDiamondLogPage?sdate=&edate=&changedType=&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1523181522232
+Message：输入字符串的格式不正确。
+
+2018-04-08 17:58:46
+Url：/DataStatistics/Diamond/GetDiamondLogPage?sdate=&edate=&changedType=&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1523181522232
+Message：输入字符串的格式不正确。
+
+2018-04-08 18:06:42
+Url：/DataStatistics/Diamond/GetDiamondLogPage?sdate=2018-04-02&edate=2018-04-04&changedType=0&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1523181936522
+Message：Fatal error encountered during command execution.
+
+2018-04-08 18:06:42
+Url：/DataStatistics/Diamond/GetDiamondLogPage?sdate=2018-04-02&edate=2018-04-04&changedType=0&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1523181936522
+Message：Fatal error encountered during command execution.
+
+2018-04-08 18:06:46
+Url：/DataStatistics/Diamond/GetDiamondLogPage?sdate=2018-04-02&edate=2018-04-04&changedType=0&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1523181936523
+Message：Fatal error encountered during command execution.
+
+2018-04-08 18:06:46
+Url：/DataStatistics/Diamond/GetDiamondLogPage?sdate=2018-04-02&edate=2018-04-04&changedType=0&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1523181936523
+Message：Fatal error encountered during command execution.
+
+2018-04-08 18:06:47
+Url：/DataStatistics/Diamond/GetDiamondLogPage?sdate=2018-04-02&edate=2018-04-04&changedType=0&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1523181936524
+Message：Fatal error encountered during command execution.
+
+2018-04-08 18:06:47
+Url：/DataStatistics/Diamond/GetDiamondLogPage?sdate=2018-04-02&edate=2018-04-04&changedType=0&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1523181936524
+Message：Fatal error encountered during command execution.
+

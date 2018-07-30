@@ -1,0 +1,25 @@
+﻿@{
+    ViewBag.Title = "视图添加";
+    Layout = "~/Views/Shared/_Form.cshtml";
+}
+<div class="ll-form-wrap" id="form">
+    <input id="ModuleColumnId" type="hidden" value="@Guid.NewGuid().ToString()" />
+    <div class="col-xs-12 ll-form-item">
+        <div class="ll-form-item-title">编号<font face="宋体">*</font></div>
+        <input id="EnCode" type="text" class="form-control" placeholder="请输入编号" isvalid="yes" checkexpession="NotNull" />
+    </div>
+    <div class="col-xs-12 ll-form-item">
+        <div class="ll-form-item-title">名称<font face="宋体">*</font></div>
+        <input id="FullName" type="text" class="form-control" placeholder="请输入名称" isvalid="yes" checkexpession="NotNull" />
+    </div>
+    <div class="col-xs-12 ll-form-item">
+        <div class="ll-form-item-title">排序<font face="宋体">*</font></div>
+        <input id="SortCode" type="text" class="form-control" placeholder="请输入排序号" isvalid="yes" checkexpession="Num" />
+    </div>
+    <div class="col-xs-12 ll-form-item">
+        <div class="ll-form-item-title">描述</div>
+        <input id="Description" type="text" class="form-control" />
+    </div>
+</div>
+@*@Html.AppendJsFile("/Areas/SystemModule/Content/Module_ColumnForm.js")*@
+<script src="~/Areas/SystemModule/Content/Module_ColumnForm.js"></script>

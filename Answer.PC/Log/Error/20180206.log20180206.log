@@ -1,0 +1,40 @@
+﻿2018-02-06 14:50:37
+Url：/ClubModule/Club/GetClubUserPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1517899830510
+Message：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '10256396,10137,2,3,0,NOW())' at line 2
+
+2018-02-06 14:50:37
+Url：/ClubModule/Club/GetClubUserPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1517899830510
+Message：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '10256396,10137,2,3,0,NOW())' at line 2
+
+2018-02-06 14:57:50
+Url：/ClubModule/Club/GetClubUserPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1517900239618
+Message：序列包含一个以上的元素
+
+2018-02-06 14:57:50
+Url：/ClubModule/Club/GetClubUserPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1517900239618
+Message：序列包含一个以上的元素
+
+2018-02-06 14:58:11
+Url：/ClubModule/Club/GetClubUserPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1517900282800
+Message：序列包含一个以上的元素
+
+2018-02-06 14:58:11
+Url：/ClubModule/Club/GetClubUserPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1517900282800
+Message：序列包含一个以上的元素
+
+2018-02-06 15:05:22
+Url：/ClubModule/Club/GetClubUserPage?sdate=&edate=&clubID=ly&keyword=%E4%BA%BA&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1517900720321
+Message：Unknown column 'userName' in 'where clause'
+
+2018-02-06 15:05:23
+Url：/ClubModule/Club/GetClubUserPage?sdate=&edate=&clubID=ly&keyword=%E4%BA%BA&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1517900720321
+Message：Unknown column 'userName' in 'where clause'
+
+2018-02-06 15:05:37
+Url：/ClubModule/Club/GetClubUserPage?sdate=&edate=&clubID=ly&keyword=%E4%BA%BA&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1517900720322
+Message：Unknown column 'userName' in 'where clause'
+
+2018-02-06 15:05:37
+Url：/ClubModule/Club/GetClubUserPage?sdate=&edate=&clubID=ly&keyword=%E4%BA%BA&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1517900720322
+Message：Unknown column 'userName' in 'where clause'
+

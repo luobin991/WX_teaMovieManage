@@ -1,0 +1,19 @@
+﻿@{
+    ViewBag.Title = "清空日志";
+    Layout = "~/Views/Shared/_Form.cshtml";
+}
+<div class="ll-form-wrap" id="form">
+    <div class="col-xs-12 ll-form-item">
+        <div class="ll-form-item-title">日志保留时间</div>
+        <div id="keepTime" class="form-control">
+            <ul>
+                <li data-value="7">保留近一周</li>
+                <li data-value="1">保留近一个月</li>
+                <li data-value="3">保留近三个月</li>
+                <li data-value="0">不保留，全部删除</li>
+            </ul>
+        </div>
+    </div>
+</div>
+@*@Html.AppendJsFile("/Content/viewCSS_JS/Log/Form.js")*@
+<script src="~/Content/viewCSS_JS/Log/Form.js?v=2"></script>

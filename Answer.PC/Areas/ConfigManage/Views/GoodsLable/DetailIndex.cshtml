@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewBag.Title = "DetailIndex";
+    Layout = "~/Views/Shared/_Index.cshtml";
+}
+
+<div class="ll-layout">
+    <div class="ll-layout-center">
+        <div class="ll-layout-wrap ll-layout-wrap-notitle">
+            <div class="ll-layout-tool">
+                <div class="ll-layout-tool-right">
+                    <div class=" btn-group btn-group-sm">
+                        <a id="ll_refresh" class="btn btn-default"><i class="fa fa-refresh"></i></a>
+                    </div>
+                    <div class=" btn-group btn-group-sm" luoluo-authorize="not">
+                        <a id="ll_add" class="btn btn-default"><i class="fa fa-plus"></i>&nbsp;增加</a>
+                        <a id="ll_edit" class="btn btn-default"><i class="fa fa-pencil-square-o"></i>&nbsp;修改</a>
+                        <a id="ll_del" class="btn btn-default"><i class="fa fa-trash-o"></i>&nbsp;删除</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="ll-layout-body" id="girdtable"></div>
+
+        </div>
+    </div>
+</div>
+
+@*@Html.AppendJsFile("/Areas/ConfigManage/Content/GoodsLableDetail.js")*@
+<script src="~/Areas/ConfigManage/Content/GoodsLableDetail.js"></script>

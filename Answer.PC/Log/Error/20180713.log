@@ -1,0 +1,104 @@
+﻿2018-07-13 14:54:17
+Url：/Log/GetPageList?queryJson=%7B%22CategoryId%22%3A%221%22%2C%22StartTime%22%3A%222018-07-07+00%3A00%3A00%22%2C%22EndTime%22%3A%222018-07-13+23%3A59%3A59%22%7D&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22F_OperateTime%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1531464856953
+Message：Could not load file or assembly 'Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+
+2018-07-13 14:54:17
+Url：/Log/GetPageList?queryJson=%7B%22CategoryId%22%3A%221%22%2C%22StartTime%22%3A%222018-07-07+00%3A00%3A00%22%2C%22EndTime%22%3A%222018-07-13+23%3A59%3A59%22%7D&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22F_OperateTime%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1531464856953
+Message：Could not load file or assembly 'Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+
+2018-07-13 14:54:17
+Url：/Log/GetPageList?queryJson=%7B%22CategoryId%22%3A%224%22%2C%22StartTime%22%3A%222018-07-07+00%3A00%3A00%22%2C%22EndTime%22%3A%222018-07-13+23%3A59%3A59%22%7D&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22F_OperateTime%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1531464856954
+Message：Could not load file or assembly 'Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+
+2018-07-13 14:54:17
+Url：/Log/GetPageList?queryJson=%7B%22CategoryId%22%3A%224%22%2C%22StartTime%22%3A%222018-07-07+00%3A00%3A00%22%2C%22EndTime%22%3A%222018-07-13+23%3A59%3A59%22%7D&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22F_OperateTime%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1531464856954
+Message：Could not load file or assembly 'Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+
+2018-07-13 14:54:20
+Url：/Log/GetPageList?queryJson=%7B%22CategoryId%22%3A%223%22%2C%22StartTime%22%3A%222018-07-07+00%3A00%3A00%22%2C%22EndTime%22%3A%222018-07-13+23%3A59%3A59%22%7D&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22F_OperateTime%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1531464856955
+Message：Could not load file or assembly 'Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+
+2018-07-13 14:54:20
+Url：/Log/GetPageList?queryJson=%7B%22CategoryId%22%3A%223%22%2C%22StartTime%22%3A%222018-07-07+00%3A00%3A00%22%2C%22EndTime%22%3A%222018-07-13+23%3A59%3A59%22%7D&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22F_OperateTime%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1531464856955
+Message：Could not load file or assembly 'Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+
+2018-07-13 14:54:21
+Url：/Log/GetPageList?queryJson=%7B%22CategoryId%22%3A%224%22%2C%22StartTime%22%3A%222018-07-07+00%3A00%3A00%22%2C%22EndTime%22%3A%222018-07-13+23%3A59%3A59%22%7D&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22F_OperateTime%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1531464856956
+Message：Could not load file or assembly 'Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+
+2018-07-13 14:54:21
+Url：/Log/GetPageList?queryJson=%7B%22CategoryId%22%3A%224%22%2C%22StartTime%22%3A%222018-07-07+00%3A00%3A00%22%2C%22EndTime%22%3A%222018-07-13+23%3A59%3A59%22%7D&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22F_OperateTime%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1531464856956
+Message：Could not load file or assembly 'Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+
+2018-07-13 14:54:21
+Url：/Log/GetPageList?queryJson=%7B%22CategoryId%22%3A%223%22%2C%22StartTime%22%3A%222018-07-07+00%3A00%3A00%22%2C%22EndTime%22%3A%222018-07-13+23%3A59%3A59%22%7D&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22F_OperateTime%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1531464856957
+Message：Could not load file or assembly 'Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+
+2018-07-13 14:54:21
+Url：/Log/GetPageList?queryJson=%7B%22CategoryId%22%3A%223%22%2C%22StartTime%22%3A%222018-07-07+00%3A00%3A00%22%2C%22EndTime%22%3A%222018-07-13+23%3A59%3A59%22%7D&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22F_OperateTime%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1531464856957
+Message：Could not load file or assembly 'Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+
+2018-07-13 14:54:22
+Url：/Log/GetPageList?queryJson=%7B%22CategoryId%22%3A%222%22%2C%22StartTime%22%3A%222018-07-07+00%3A00%3A00%22%2C%22EndTime%22%3A%222018-07-13+23%3A59%3A59%22%7D&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22F_OperateTime%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1531464856958
+Message：Could not load file or assembly 'Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+
+2018-07-13 14:54:22
+Url：/Log/GetPageList?queryJson=%7B%22CategoryId%22%3A%222%22%2C%22StartTime%22%3A%222018-07-07+00%3A00%3A00%22%2C%22EndTime%22%3A%222018-07-13+23%3A59%3A59%22%7D&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22F_OperateTime%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1531464856958
+Message：Could not load file or assembly 'Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+
+2018-07-13 14:54:22
+Url：/Log/GetPageList?queryJson=%7B%22CategoryId%22%3A%221%22%2C%22StartTime%22%3A%222018-07-07+00%3A00%3A00%22%2C%22EndTime%22%3A%222018-07-13+23%3A59%3A59%22%7D&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22F_OperateTime%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1531464856959
+Message：Could not load file or assembly 'Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+
+2018-07-13 14:54:22
+Url：/Log/GetPageList?queryJson=%7B%22CategoryId%22%3A%221%22%2C%22StartTime%22%3A%222018-07-07+00%3A00%3A00%22%2C%22EndTime%22%3A%222018-07-13+23%3A59%3A59%22%7D&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22F_OperateTime%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1531464856959
+Message：Could not load file or assembly 'Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+
+2018-07-13 14:54:28
+Url：/Log/GetPageList?queryJson=%7B%22keyword%22%3A%22%22%2C%22CategoryId%22%3A%221%22%2C%22StartTime%22%3A%222018-07-07+00%3A00%3A00%22%2C%22EndTime%22%3A%222018-07-13+23%3A59%3A59%22%7D&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22F_OperateTime%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1531464856960
+Message：Could not load file or assembly 'Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+
+2018-07-13 14:54:28
+Url：/Log/GetPageList?queryJson=%7B%22keyword%22%3A%22%22%2C%22CategoryId%22%3A%221%22%2C%22StartTime%22%3A%222018-07-07+00%3A00%3A00%22%2C%22EndTime%22%3A%222018-07-13+23%3A59%3A59%22%7D&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22F_OperateTime%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1531464856960
+Message：Could not load file or assembly 'Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+
+2018-07-13 14:54:51
+Url：/Log/GetPageList?queryJson=%7B%22CategoryId%22%3A%221%22%2C%22StartTime%22%3A%222018-07-07+00%3A00%3A00%22%2C%22EndTime%22%3A%222018-07-13+23%3A59%3A59%22%7D&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22F_OperateTime%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1531464890959
+Message：Could not load file or assembly 'Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+
+2018-07-13 14:54:51
+Url：/Log/GetPageList?queryJson=%7B%22CategoryId%22%3A%221%22%2C%22StartTime%22%3A%222018-07-07+00%3A00%3A00%22%2C%22EndTime%22%3A%222018-07-13+23%3A59%3A59%22%7D&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22F_OperateTime%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1531464890959
+Message：Could not load file or assembly 'Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+
+2018-07-13 14:54:52
+Url：/Log/GetPageList?queryJson=%7B%22CategoryId%22%3A%222%22%2C%22StartTime%22%3A%222018-07-07+00%3A00%3A00%22%2C%22EndTime%22%3A%222018-07-13+23%3A59%3A59%22%7D&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22F_OperateTime%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1531464890960
+Message：Could not load file or assembly 'Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+
+2018-07-13 14:54:52
+Url：/Log/GetPageList?queryJson=%7B%22CategoryId%22%3A%222%22%2C%22StartTime%22%3A%222018-07-07+00%3A00%3A00%22%2C%22EndTime%22%3A%222018-07-13+23%3A59%3A59%22%7D&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22F_OperateTime%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1531464890960
+Message：Could not load file or assembly 'Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+
+2018-07-13 14:54:53
+Url：/Log/GetPageList?queryJson=%7B%22CategoryId%22%3A%223%22%2C%22StartTime%22%3A%222018-07-07+00%3A00%3A00%22%2C%22EndTime%22%3A%222018-07-13+23%3A59%3A59%22%7D&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22F_OperateTime%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1531464890961
+Message：Could not load file or assembly 'Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+
+2018-07-13 14:54:53
+Url：/Log/GetPageList?queryJson=%7B%22CategoryId%22%3A%223%22%2C%22StartTime%22%3A%222018-07-07+00%3A00%3A00%22%2C%22EndTime%22%3A%222018-07-13+23%3A59%3A59%22%7D&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22F_OperateTime%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1531464890961
+Message：Could not load file or assembly 'Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+
+2018-07-13 14:54:53
+Url：/Log/GetPageList?queryJson=%7B%22CategoryId%22%3A%224%22%2C%22StartTime%22%3A%222018-07-07+00%3A00%3A00%22%2C%22EndTime%22%3A%222018-07-13+23%3A59%3A59%22%7D&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22F_OperateTime%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1531464890962
+Message：Could not load file or assembly 'Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+
+2018-07-13 14:54:53
+Url：/Log/GetPageList?queryJson=%7B%22CategoryId%22%3A%224%22%2C%22StartTime%22%3A%222018-07-07+00%3A00%3A00%22%2C%22EndTime%22%3A%222018-07-13+23%3A59%3A59%22%7D&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22F_OperateTime%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1531464890962
+Message：Could not load file or assembly 'Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+
+2018-07-13 14:54:54
+Url：/Log/GetPageList?queryJson=%7B%22keyword%22%3A%22%22%2C%22CategoryId%22%3A%224%22%2C%22StartTime%22%3A%222018-07-07+00%3A00%3A00%22%2C%22EndTime%22%3A%222018-07-13+23%3A59%3A59%22%7D&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22F_OperateTime%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1531464890963
+Message：Could not load file or assembly 'Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+
+2018-07-13 14:54:54
+Url：/Log/GetPageList?queryJson=%7B%22keyword%22%3A%22%22%2C%22CategoryId%22%3A%224%22%2C%22StartTime%22%3A%222018-07-07+00%3A00%3A00%22%2C%22EndTime%22%3A%222018-07-13+23%3A59%3A59%22%7D&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22F_OperateTime%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1531464890963
+Message：Could not load file or assembly 'Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+

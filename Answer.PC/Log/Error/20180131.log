@@ -1,0 +1,74 @@
+﻿2018-01-31 15:16:07
+Url：/DataStatistics/GameLog/GameRootNumDetail?rootnum=
+Message：对于“Game.H5.Areas.DataStatistics.Controllers.GameLogController”中方法“System.Web.Mvc.ActionResult GameRootNumDetail(Int64)”的不可以为 null 的类型“System.Int64”的参数“rootnum”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-01-31 15:16:07
+Url：/DataStatistics/GameLog/GameRootNumDetail?rootnum=
+Message：对于“Game.H5.Areas.DataStatistics.Controllers.GameLogController”中方法“System.Web.Mvc.ActionResult GameRootNumDetail(Int64)”的不可以为 null 的类型“System.Int64”的参数“rootnum”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-01-31 15:16:09
+Url：/DataStatistics/GameLog/GameRootNumDetail?rootnum=
+Message：对于“Game.H5.Areas.DataStatistics.Controllers.GameLogController”中方法“System.Web.Mvc.ActionResult GameRootNumDetail(Int64)”的不可以为 null 的类型“System.Int64”的参数“rootnum”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-01-31 15:16:09
+Url：/DataStatistics/GameLog/GameRootNumDetail?rootnum=
+Message：对于“Game.H5.Areas.DataStatistics.Controllers.GameLogController”中方法“System.Web.Mvc.ActionResult GameRootNumDetail(Int64)”的不可以为 null 的类型“System.Int64”的参数“rootnum”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-01-31 17:24:05
+Url：/DataStatistics/GameLog/Index?id=
+Message：对于“Game.H5.Areas.DataStatistics.Controllers.GameLogController”中方法“System.Web.Mvc.ActionResult Index(Int32)”的不可以为 null 的类型“System.Int32”的参数“id”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-01-31 17:24:05
+Url：/DataStatistics/GameLog/Index?id=
+Message：对于“Game.H5.Areas.DataStatistics.Controllers.GameLogController”中方法“System.Web.Mvc.ActionResult Index(Int32)”的不可以为 null 的类型“System.Int32”的参数“id”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-01-31 17:24:10
+Url：/DataStatistics/GameLog/Index?id=
+Message：对于“Game.H5.Areas.DataStatistics.Controllers.GameLogController”中方法“System.Web.Mvc.ActionResult Index(Int32)”的不可以为 null 的类型“System.Int32”的参数“id”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-01-31 17:24:10
+Url：/DataStatistics/GameLog/Index?id=
+Message：对于“Game.H5.Areas.DataStatistics.Controllers.GameLogController”中方法“System.Web.Mvc.ActionResult Index(Int32)”的不可以为 null 的类型“System.Int32”的参数“id”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-01-31 17:25:41
+Url：/DataStatistics/GameLog/GameRootNumDetail?rootnum=
+Message：对于“Game.H5.Areas.DataStatistics.Controllers.GameLogController”中方法“System.Web.Mvc.ActionResult GameRootNumDetail(Int64)”的不可以为 null 的类型“System.Int64”的参数“rootnum”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-01-31 17:25:41
+Url：/DataStatistics/GameLog/GameRootNumDetail?rootnum=
+Message：对于“Game.H5.Areas.DataStatistics.Controllers.GameLogController”中方法“System.Web.Mvc.ActionResult GameRootNumDetail(Int64)”的不可以为 null 的类型“System.Int64”的参数“rootnum”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-01-31 17:42:12
+Url：/SystemModule/Module/SaveForm
+Message：提供的防伪标记适用于用户“1|admin|超级管理员|1007001|192.168.0.220|::1|e21468cf-aa99-4ee7-bdc5-3da281ef6f3d”，但当前用户为“1|admin|超级管理员|1007001|192.168.0.220|::1|89e0d0f7-a49d-4a76-8b15-82b3bb4c8112”。
+
+2018-01-31 17:42:12
+Url：/SystemModule/Module/SaveForm
+Message：提供的防伪标记适用于用户“1|admin|超级管理员|1007001|192.168.0.220|::1|e21468cf-aa99-4ee7-bdc5-3da281ef6f3d”，但当前用户为“1|admin|超级管理员|1007001|192.168.0.220|::1|89e0d0f7-a49d-4a76-8b15-82b3bb4c8112”。
+
+2018-01-31 17:42:17
+Url：/SystemModule/Module/SaveForm
+Message：提供的防伪标记适用于用户“1|admin|超级管理员|1007001|192.168.0.220|::1|e21468cf-aa99-4ee7-bdc5-3da281ef6f3d”，但当前用户为“1|admin|超级管理员|1007001|192.168.0.220|::1|89e0d0f7-a49d-4a76-8b15-82b3bb4c8112”。
+
+2018-01-31 17:42:17
+Url：/SystemModule/Module/SaveForm
+Message：提供的防伪标记适用于用户“1|admin|超级管理员|1007001|192.168.0.220|::1|e21468cf-aa99-4ee7-bdc5-3da281ef6f3d”，但当前用户为“1|admin|超级管理员|1007001|192.168.0.220|::1|89e0d0f7-a49d-4a76-8b15-82b3bb4c8112”。
+
+2018-01-31 17:42:24
+Url：/SystemModule/Module/SaveForm
+Message：提供的防伪标记适用于用户“1|admin|超级管理员|1007001|192.168.0.220|::1|e21468cf-aa99-4ee7-bdc5-3da281ef6f3d”，但当前用户为“1|admin|超级管理员|1007001|192.168.0.220|::1|89e0d0f7-a49d-4a76-8b15-82b3bb4c8112”。
+
+2018-01-31 17:42:24
+Url：/SystemModule/Module/SaveForm
+Message：提供的防伪标记适用于用户“1|admin|超级管理员|1007001|192.168.0.220|::1|e21468cf-aa99-4ee7-bdc5-3da281ef6f3d”，但当前用户为“1|admin|超级管理员|1007001|192.168.0.220|::1|89e0d0f7-a49d-4a76-8b15-82b3bb4c8112”。
+

@@ -1,0 +1,24 @@
+﻿2018-04-14 15:46:39
+错误编号:2018041415463960Xc68fcc8cc3
+Message:基础连接已经关闭: 连接被意外关闭。
+Type:System.Net.WebException
+Source:System
+StackTrace:   在 System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   在 System.Net.WebClient.UploadData(Uri address, String method, Byte[] data)
+   在 System.Net.WebClient.UploadData(String address, String method, Byte[] data)
+   在 Game.Common.WebCommon.APIPostBack(String url, String posts, Boolean check, String contentType) 位置 E:\Projects\网站运营后台\Game.H5\Game.Common\WebCommon.cs:行号 179
+Method:UploadDataInternal
+Class:System.Net.WebClient
+UserIP:::1
+UserName:
+CompanyID:0
+CompanyName:
+
+2018-04-14 15:46:40
+Url：/ClubModule/Club/SetuUserDiamondLimit
+Message：未将对象引用设置到对象的实例。
+
+2018-04-14 15:46:40
+Url：/ClubModule/Club/SetuUserDiamondLimit
+Message：未将对象引用设置到对象的实例。
+

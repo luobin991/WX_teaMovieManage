@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name=”renderer” content=”webkit|ie-comp|ie-stand” />
+    <meta name="viewport" content="width=device-width" />
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1,IE=edge">
+    <link rel="icon" href="~/favicon.ico">
+    <title>登录页面</title>
+        @*@Html.AppendCssFile("/Content/viewCSS_JS/Login/index.css")*@
+    <link href="~/Content/viewCSS_JS/Login/index.css" rel="stylesheet" />
+</head>
+<body>
+    <input id="errornum" type="hidden" value="@ViewBag.errornum" />
+    <div class="ll-layout-block top">
+    </div>
+    <div class="ll-layout-block middle">
+        <div class="ll-layout-side left">
+            <img src="~/Content/images/Login/bg_01.png" />
+        </div>
+        <div class="ll-layout-side center">
+            <div class="ll-login-form">
+                <div class="ll-tips" id="ll_tips"></div>
+
+                <div class="ll-input-item ">
+                    <label class="name-label"></label>
+                    <input id="ll_username" type="text" placeholder="账户">
+                </div>
+                <div class="ll-input-item">
+                    <label class="pwd-label"></label>
+                    <input id="ll_password" type="password" placeholder="密码">
+                </div>
+                <div class="ll-input-item" style="display:block;">
+                    <label class="code-label"></label>
+                    <input id="ll_verifycode_input" maxlength="4" type="text" placeholder="图片验证码">
+                    <div style="height: 36px;width: 100px;position: absolute;right: 0px;top: 0px;">
+                        <img id="ll_verifycode_img" src="/Login/Verify_Code" alt="点击切换验证码" title="点击切换验证码" />
+                    </div>
+                </div>
+                <button id="ll_login_btn" type="button"><span>登录</span></button>
+            </div>
+        </div>
+        <div class="ll-layout-side right">
+            <img src="~/Content/images/Login/bg_03.png" />
+        </div>
+    </div>
+    <script src="~/Content/jquery/jquery-1.10.2.min.js"></script>
+    <script src="~/Content/jquery/jquery.md5.min.js"></script>
+    <script >
+        $.rootUrl = '@Url.Content("~")'.substr(0, '@Url.Content("~")'.length - 1);
+        $.lrToken = $('@Html.AntiForgeryToken()').val();
+    </script>
+        @*@Html.RenderJsFile("/Content/viewCSS_JS/Login/index.js")*@
+    <script src="~/Content/viewCSS_JS/Login/index.js"></script>
+</body>
+</html>
+

@@ -1,0 +1,47 @@
+﻿
+@{
+    ViewBag.Title = "系统功能";
+    Layout = "~/Views/Shared/_Index.cshtml";
+}
+
+<div class="ll-layout ll-layout-left-center" id="ll_layout">
+    <div class="ll-layout-left">
+        <div class="ll-layout-wrap">
+            <div class="ll-layout-title">功能目录</div>
+            <div class="ll-layout-body" id="module_tree"></div>
+        </div>
+    </div>
+    <div class="ll-layout-center">
+        <div class="ll-layout-wrap">
+            <div class="ll-layout-title">
+                功能信息 - <span id="titleinfo">未选择功能</span>
+            </div>
+
+            <div class="ll-layout-tool">
+                <div class="ll-layout-tool-left">
+                    <div class="ll-layout-tool-item">
+                        <input id="txt_Keyword" type="text" class="form-control" placeholder="请输入编号/名称" />
+                    </div>
+                    <div class="ll-layout-tool-item">
+                        <a id="btn_Search" class="btn btn-primary btn-sm"><i class="fa fa-search"></i>&nbsp;查询</a>
+                    </div>
+                </div>
+                <div class="ll-layout-tool-right">
+                    <div class=" btn-group btn-group-sm">
+                        <a id="ll_refresh" class="btn btn-default"><i class="fa fa-refresh"></i></a>
+                    </div>
+                    <div class=" btn-group btn-group-sm" luoluo-authorize="yes">
+                        <a id="ll_add" class="btn btn-default"><i class="fa fa-plus"></i>&nbsp;新增</a>
+                        <a id="ll_edit" class="btn btn-default"><i class="fa fa-pencil-square-o"></i>&nbsp;编辑</a>
+                        <a id="ll_delete" class="btn btn-default"><i class="fa fa-trash-o"></i>&nbsp;删除</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="ll-layout-body" id="girdtable">
+            </div>
+        </div>
+    </div>
+</div>
+@*@Html.AppendJsFile("/Areas/SystemModule/Content/Module_Index.js")*@
+<script src="~/Areas/SystemModule/Content/Module_Index.js"></script>

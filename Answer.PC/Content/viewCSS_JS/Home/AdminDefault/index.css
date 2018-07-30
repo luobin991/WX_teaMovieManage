@@ -1,0 +1,190 @@
+﻿/*
+ * 日 期：2017.11.16
+ * 描 述：经典风格皮肤样式表	
+ */
+/*顶部*/
+.ll-frame-top {
+    z-index:1;
+}
+/*logo标题*/
+.ll-logo-title {
+    left:90px;
+    color: #3498DB;
+}
+.ll-logo-title span {
+    color: #3498DB;
+}
+/*版本图标*/
+.ll-frame-vericon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 3;
+}
+
+/*菜单*/
+.ll-frame-menu {
+    width:80px;
+    height:100%;
+    background-color:#2c3849;
+    z-index:2;
+}
+.ll-first-menu-list {
+    width:80px;
+    padding-top: 40px;
+}
+.ll-first-menu-list > li > .ll-menu-item {
+    height: 65px;
+    color: #fff;
+    text-align: center;
+    margin: 5px 0px;
+}
+.ll-first-menu-list > li > .ll-menu-item:hover {
+    background: #212A37;
+}
+.ll-first-menu-list > li > .ll-menu-item > .ll-menu-item-icon {
+    display:block;
+    font-size: 28px;
+    line-height:38px;
+    width:initial;
+    margin:0px;
+}
+
+.ll-first-menu-list> li > .ll-menu-item > .ll-menu-item-arrow{
+    display: block;
+    position: absolute;
+    left: 65px;
+    top: 57px;
+    text-indent: 0;
+    font-weight: bold;
+    color: #b8d2e1;
+}
+.ll-first-menu-list > li:hover .ll-menu-item-arrow{
+    text-indent: -99999px;
+    width: 0;
+    height: 0;
+
+    border-style: solid;
+    border-width: 8px;
+    border-color: transparent;
+    border-right-color: white;
+    border-left: none;
+
+    left: 72px;
+    top: 50%;
+    margin-top: -8px;
+}
+
+
+
+.ll-second-menu-list {
+    position: absolute;
+    top:0;
+    left: 80px;
+    width: 130px;
+    line-height: 28px;
+    padding: 10px 0 5px;
+    border: 4px solid #ccc;
+    border-left: 0;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    background-color: #fff;
+}
+.ll-first-menu-list > li:hover .ll-second-menu-list{
+    display: block; 
+}
+
+
+.ll-second-menu-list li {
+    margin-bottom: 8px;
+}
+.ll-second-menu-list .ll-menu-item {
+    padding-left: 15px;
+}
+.ll-second-menu-list li:hover {
+    background-color: #eee;
+}
+.ll-second-menu-list>.ll-meun-had {
+    background-repeat: no-repeat;
+    background-position: right 11px;
+    background-image: url(/Content/images/arrow1.png);
+}
+.ll-second-menu-list .ll-menu-item-icon {
+    color:#666;
+}
+.ll-three-menu-list {
+    position: absolute;
+    top: -14px;
+    left: 126px;
+    width: 130px;
+    line-height: 28px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    color: #000000;
+    border: 4px solid #ccc;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    background-color: #fff;
+}
+.ll-second-menu-list>li:hover .ll-three-menu-list
+{
+    display: block;
+}
+
+
+/*tabs条*/
+.ll-frame-tabs {
+    border-bottom:1px solid #ccc;
+    background:#fff;
+}
+.ll-frame-tabs-wrap {
+    height:30px;
+}
+.ll-frame-tabItem {
+    border:1px solid #ccc;
+    background:#fff;
+    height:29px;
+    line-height:29px;
+}
+.ll-frame-tabItem i {
+    color:#666;
+}
+
+.ll-frame-tabItem.active {
+    border-bottom:0px;
+    height:30px;
+    border-top:2px solid #303e4d;
+    background:#F5F5F5;
+}
+.ll-frame-tabItem.active>span {
+    font-weight:bold;
+}
+.ll-frame-tabItem .reomve{
+    top: 8px;
+    right: 4px;   
+}
+/*功能窗口*/
+.ll-frame-main {
+    padding:70px 0px 0px 80px;
+    background:#F5F5F5;
+}
+/*个人设置和头像*/
+.ll-frame-personCenter {
+    top:0;
+    right:10px;
+    height:40px;
+    line-height:40px;
+}
+
+/*菜单列的第三方滚动条样式*/
+.mCSB_outside+.mCS-minimal-dark.mCSB_scrollTools_vertical,
+.mCSB_outside+.mCS-minimal.mCSB_scrollTools_vertical
+{
+    left:0;
+}
+.mCS-minimal-dark.mCSB_scrollTools_horizontal {
+    top:24px;
+}
+
+
+

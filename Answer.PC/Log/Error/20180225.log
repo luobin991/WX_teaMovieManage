@@ -1,0 +1,40 @@
+﻿2018-02-25 12:31:41
+Url：/DataStatistics/GameLog/GetGameRoundByRoomNum?roomnum=825564&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1519533082964
+Message：Error getting value from 'resultNiu1' on 'Game.Entity.NiuBusiness.T_Game_round_log'.
+
+2018-02-25 12:31:42
+Url：/DataStatistics/GameLog/GetGameRoundByRoomNum?roomnum=825564&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1519533082964
+Message：Error getting value from 'resultNiu1' on 'Game.Entity.NiuBusiness.T_Game_round_log'.
+
+2018-02-25 16:41:55
+Url：/ClubModule/Club/GetClubPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1519548115345
+Message：序列包含一个以上的元素
+
+2018-02-25 16:41:55
+Url：/ClubModule/Club/GetClubPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1519548115345
+Message：序列包含一个以上的元素
+
+2018-02-25 16:42:05
+Url：/ClubModule/Club/GetClubPage?sdate=&edate=&keyword=&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1519548115346
+Message：序列包含一个以上的元素
+
+2018-02-25 16:42:05
+Url：/ClubModule/Club/GetClubPage?sdate=&edate=&keyword=&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1519548115346
+Message：序列包含一个以上的元素
+
+2018-02-25 16:42:07
+Url：/ClubModule/Club/GetClubPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1519548127131
+Message：序列包含一个以上的元素
+
+2018-02-25 16:42:07
+Url：/ClubModule/Club/GetClubPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1519548127131
+Message：序列包含一个以上的元素
+
+2018-02-25 16:43:37
+Url：/ClubModule/Club/GetClubPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1519548144876
+Message：序列包含一个以上的元素
+
+2018-02-25 16:43:37
+Url：/ClubModule/Club/GetClubPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1519548144876
+Message：序列包含一个以上的元素
+

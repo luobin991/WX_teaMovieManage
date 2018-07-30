@@ -1,0 +1,350 @@
+﻿2018-02-05 16:49:21
+Url：/User/User/CKfangka
+Message：对于“Game.H5.Areas.User.Controllers.UserController”中方法“System.Web.Mvc.ActionResult CKfangka(System.String, System.Decimal, Int32, System.String)”的不可以为 null 的类型“System.Int32”的参数“type”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-02-05 16:49:21
+Url：/User/User/CKfangka
+Message：对于“Game.H5.Areas.User.Controllers.UserController”中方法“System.Web.Mvc.ActionResult CKfangka(System.String, System.Decimal, Int32, System.String)”的不可以为 null 的类型“System.Int32”的参数“type”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-02-05 16:49:24
+Url：/User/User/CKfangka
+Message：对于“Game.H5.Areas.User.Controllers.UserController”中方法“System.Web.Mvc.ActionResult CKfangka(System.String, System.Decimal, Int32, System.String)”的不可以为 null 的类型“System.Int32”的参数“type”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-02-05 16:49:24
+Url：/User/User/CKfangka
+Message：对于“Game.H5.Areas.User.Controllers.UserController”中方法“System.Web.Mvc.ActionResult CKfangka(System.String, System.Decimal, Int32, System.String)”的不可以为 null 的类型“System.Int32”的参数“type”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-02-05 16:49:28
+Url：/User/User/CKfangka
+Message：对于“Game.H5.Areas.User.Controllers.UserController”中方法“System.Web.Mvc.ActionResult CKfangka(System.String, System.Decimal, Int32, System.String)”的不可以为 null 的类型“System.Int32”的参数“type”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-02-05 16:49:28
+Url：/User/User/CKfangka
+Message：对于“Game.H5.Areas.User.Controllers.UserController”中方法“System.Web.Mvc.ActionResult CKfangka(System.String, System.Decimal, Int32, System.String)”的不可以为 null 的类型“System.Int32”的参数“type”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-02-05 18:33:18
+Url：/User/User/CKfangka?id=10125
+Message：未找到视图“10125”或其母版视图，或没有视图引擎支持搜索的位置。搜索了以下位置: 
+~/Areas/User/Views/User/10125.aspx
+~/Areas/User/Views/User/10125.ascx
+~/Areas/User/Views/Shared/10125.aspx
+~/Areas/User/Views/Shared/10125.ascx
+~/Views/User/10125.aspx
+~/Views/User/10125.ascx
+~/Views/Shared/10125.aspx
+~/Views/Shared/10125.ascx
+~/Areas/User/Views/User/10125.cshtml
+~/Areas/User/Views/User/10125.vbhtml
+~/Areas/User/Views/Shared/10125.cshtml
+~/Areas/User/Views/Shared/10125.vbhtml
+~/Views/User/10125.cshtml
+~/Views/User/10125.vbhtml
+~/Views/Shared/10125.cshtml
+~/Views/Shared/10125.vbhtml
+
+2018-02-05 18:33:18
+Url：/User/User/CKfangka?id=10125
+Message：未找到视图“10125”或其母版视图，或没有视图引擎支持搜索的位置。搜索了以下位置: 
+~/Areas/User/Views/User/10125.aspx
+~/Areas/User/Views/User/10125.ascx
+~/Areas/User/Views/Shared/10125.aspx
+~/Areas/User/Views/Shared/10125.ascx
+~/Views/User/10125.aspx
+~/Views/User/10125.ascx
+~/Views/Shared/10125.aspx
+~/Views/Shared/10125.ascx
+~/Areas/User/Views/User/10125.cshtml
+~/Areas/User/Views/User/10125.vbhtml
+~/Areas/User/Views/Shared/10125.cshtml
+~/Areas/User/Views/Shared/10125.vbhtml
+~/Views/User/10125.cshtml
+~/Views/User/10125.vbhtml
+~/Views/Shared/10125.cshtml
+~/Views/Shared/10125.vbhtml
+
+2018-02-05 18:33:48
+Url：/User/User/CKfangka?id=10125
+Message：未找到视图“10125”或其母版视图，或没有视图引擎支持搜索的位置。搜索了以下位置: 
+~/Areas/User/Views/User/10125.aspx
+~/Areas/User/Views/User/10125.ascx
+~/Areas/User/Views/Shared/10125.aspx
+~/Areas/User/Views/Shared/10125.ascx
+~/Views/User/10125.aspx
+~/Views/User/10125.ascx
+~/Views/Shared/10125.aspx
+~/Views/Shared/10125.ascx
+~/Areas/User/Views/User/10125.cshtml
+~/Areas/User/Views/User/10125.vbhtml
+~/Areas/User/Views/Shared/10125.cshtml
+~/Areas/User/Views/Shared/10125.vbhtml
+~/Views/User/10125.cshtml
+~/Views/User/10125.vbhtml
+~/Views/Shared/10125.cshtml
+~/Views/Shared/10125.vbhtml
+
+2018-02-05 18:33:48
+Url：/User/User/CKfangka?id=10125
+Message：未找到视图“10125”或其母版视图，或没有视图引擎支持搜索的位置。搜索了以下位置: 
+~/Areas/User/Views/User/10125.aspx
+~/Areas/User/Views/User/10125.ascx
+~/Areas/User/Views/Shared/10125.aspx
+~/Areas/User/Views/Shared/10125.ascx
+~/Views/User/10125.aspx
+~/Views/User/10125.ascx
+~/Views/Shared/10125.aspx
+~/Views/Shared/10125.ascx
+~/Areas/User/Views/User/10125.cshtml
+~/Areas/User/Views/User/10125.vbhtml
+~/Areas/User/Views/Shared/10125.cshtml
+~/Areas/User/Views/Shared/10125.vbhtml
+~/Views/User/10125.cshtml
+~/Views/User/10125.vbhtml
+~/Views/Shared/10125.cshtml
+~/Views/Shared/10125.vbhtml
+
+2018-02-05 18:34:22
+Url：/User/User/CKfangka?id=10125
+Message：未找到视图“10125”或其母版视图，或没有视图引擎支持搜索的位置。搜索了以下位置: 
+~/Areas/User/Views/User/10125.aspx
+~/Areas/User/Views/User/10125.ascx
+~/Areas/User/Views/Shared/10125.aspx
+~/Areas/User/Views/Shared/10125.ascx
+~/Views/User/10125.aspx
+~/Views/User/10125.ascx
+~/Views/Shared/10125.aspx
+~/Views/Shared/10125.ascx
+~/Areas/User/Views/User/10125.cshtml
+~/Areas/User/Views/User/10125.vbhtml
+~/Areas/User/Views/Shared/10125.cshtml
+~/Areas/User/Views/Shared/10125.vbhtml
+~/Views/User/10125.cshtml
+~/Views/User/10125.vbhtml
+~/Views/Shared/10125.cshtml
+~/Views/Shared/10125.vbhtml
+
+2018-02-05 18:34:22
+Url：/User/User/CKfangka?id=10125
+Message：未找到视图“10125”或其母版视图，或没有视图引擎支持搜索的位置。搜索了以下位置: 
+~/Areas/User/Views/User/10125.aspx
+~/Areas/User/Views/User/10125.ascx
+~/Areas/User/Views/Shared/10125.aspx
+~/Areas/User/Views/Shared/10125.ascx
+~/Views/User/10125.aspx
+~/Views/User/10125.ascx
+~/Views/Shared/10125.aspx
+~/Views/Shared/10125.ascx
+~/Areas/User/Views/User/10125.cshtml
+~/Areas/User/Views/User/10125.vbhtml
+~/Areas/User/Views/Shared/10125.cshtml
+~/Areas/User/Views/Shared/10125.vbhtml
+~/Views/User/10125.cshtml
+~/Views/User/10125.vbhtml
+~/Views/Shared/10125.cshtml
+~/Views/Shared/10125.vbhtml
+
+2018-02-05 18:34:34
+Url：/User/User/CKfangka?id=10125
+Message：未找到视图“10125”或其母版视图，或没有视图引擎支持搜索的位置。搜索了以下位置: 
+~/Areas/User/Views/User/10125.aspx
+~/Areas/User/Views/User/10125.ascx
+~/Areas/User/Views/Shared/10125.aspx
+~/Areas/User/Views/Shared/10125.ascx
+~/Views/User/10125.aspx
+~/Views/User/10125.ascx
+~/Views/Shared/10125.aspx
+~/Views/Shared/10125.ascx
+~/Areas/User/Views/User/10125.cshtml
+~/Areas/User/Views/User/10125.vbhtml
+~/Areas/User/Views/Shared/10125.cshtml
+~/Areas/User/Views/Shared/10125.vbhtml
+~/Views/User/10125.cshtml
+~/Views/User/10125.vbhtml
+~/Views/Shared/10125.cshtml
+~/Views/Shared/10125.vbhtml
+
+2018-02-05 18:34:35
+Url：/User/User/CKfangka?id=10125
+Message：未找到视图“10125”或其母版视图，或没有视图引擎支持搜索的位置。搜索了以下位置: 
+~/Areas/User/Views/User/10125.aspx
+~/Areas/User/Views/User/10125.ascx
+~/Areas/User/Views/Shared/10125.aspx
+~/Areas/User/Views/Shared/10125.ascx
+~/Views/User/10125.aspx
+~/Views/User/10125.ascx
+~/Views/Shared/10125.aspx
+~/Views/Shared/10125.ascx
+~/Areas/User/Views/User/10125.cshtml
+~/Areas/User/Views/User/10125.vbhtml
+~/Areas/User/Views/Shared/10125.cshtml
+~/Areas/User/Views/Shared/10125.vbhtml
+~/Views/User/10125.cshtml
+~/Views/User/10125.vbhtml
+~/Views/Shared/10125.cshtml
+~/Views/Shared/10125.vbhtml
+
+2018-02-05 18:34:42
+Url：/User/User/CKfangka?id=10125
+Message：未找到视图“10125”或其母版视图，或没有视图引擎支持搜索的位置。搜索了以下位置: 
+~/Areas/User/Views/User/10125.aspx
+~/Areas/User/Views/User/10125.ascx
+~/Areas/User/Views/Shared/10125.aspx
+~/Areas/User/Views/Shared/10125.ascx
+~/Views/User/10125.aspx
+~/Views/User/10125.ascx
+~/Views/Shared/10125.aspx
+~/Views/Shared/10125.ascx
+~/Areas/User/Views/User/10125.cshtml
+~/Areas/User/Views/User/10125.vbhtml
+~/Areas/User/Views/Shared/10125.cshtml
+~/Areas/User/Views/Shared/10125.vbhtml
+~/Views/User/10125.cshtml
+~/Views/User/10125.vbhtml
+~/Views/Shared/10125.cshtml
+~/Views/Shared/10125.vbhtml
+
+2018-02-05 18:34:42
+Url：/User/User/CKfangka?id=10125
+Message：未找到视图“10125”或其母版视图，或没有视图引擎支持搜索的位置。搜索了以下位置: 
+~/Areas/User/Views/User/10125.aspx
+~/Areas/User/Views/User/10125.ascx
+~/Areas/User/Views/Shared/10125.aspx
+~/Areas/User/Views/Shared/10125.ascx
+~/Views/User/10125.aspx
+~/Views/User/10125.ascx
+~/Views/Shared/10125.aspx
+~/Views/Shared/10125.ascx
+~/Areas/User/Views/User/10125.cshtml
+~/Areas/User/Views/User/10125.vbhtml
+~/Areas/User/Views/Shared/10125.cshtml
+~/Areas/User/Views/Shared/10125.vbhtml
+~/Views/User/10125.cshtml
+~/Views/User/10125.vbhtml
+~/Views/Shared/10125.cshtml
+~/Views/Shared/10125.vbhtml
+
+2018-02-05 18:37:20
+Url：/User/User/CKfangka?id=10125
+Message：未找到视图“10125”或其母版视图，或没有视图引擎支持搜索的位置。搜索了以下位置: 
+~/Areas/User/Views/User/10125.aspx
+~/Areas/User/Views/User/10125.ascx
+~/Areas/User/Views/Shared/10125.aspx
+~/Areas/User/Views/Shared/10125.ascx
+~/Views/User/10125.aspx
+~/Views/User/10125.ascx
+~/Views/Shared/10125.aspx
+~/Views/Shared/10125.ascx
+~/Areas/User/Views/User/10125.cshtml
+~/Areas/User/Views/User/10125.vbhtml
+~/Areas/User/Views/Shared/10125.cshtml
+~/Areas/User/Views/Shared/10125.vbhtml
+~/Views/User/10125.cshtml
+~/Views/User/10125.vbhtml
+~/Views/Shared/10125.cshtml
+~/Views/Shared/10125.vbhtml
+
+2018-02-05 18:37:20
+Url：/User/User/CKfangka?id=10125
+Message：未找到视图“10125”或其母版视图，或没有视图引擎支持搜索的位置。搜索了以下位置: 
+~/Areas/User/Views/User/10125.aspx
+~/Areas/User/Views/User/10125.ascx
+~/Areas/User/Views/Shared/10125.aspx
+~/Areas/User/Views/Shared/10125.ascx
+~/Views/User/10125.aspx
+~/Views/User/10125.ascx
+~/Views/Shared/10125.aspx
+~/Views/Shared/10125.ascx
+~/Areas/User/Views/User/10125.cshtml
+~/Areas/User/Views/User/10125.vbhtml
+~/Areas/User/Views/Shared/10125.cshtml
+~/Areas/User/Views/Shared/10125.vbhtml
+~/Views/User/10125.cshtml
+~/Views/User/10125.vbhtml
+~/Views/Shared/10125.cshtml
+~/Views/Shared/10125.vbhtml
+
+2018-02-05 18:37:23
+Url：/User/User/CKfangka?id=10125
+Message：未找到视图“10125”或其母版视图，或没有视图引擎支持搜索的位置。搜索了以下位置: 
+~/Areas/User/Views/User/10125.aspx
+~/Areas/User/Views/User/10125.ascx
+~/Areas/User/Views/Shared/10125.aspx
+~/Areas/User/Views/Shared/10125.ascx
+~/Views/User/10125.aspx
+~/Views/User/10125.ascx
+~/Views/Shared/10125.aspx
+~/Views/Shared/10125.ascx
+~/Areas/User/Views/User/10125.cshtml
+~/Areas/User/Views/User/10125.vbhtml
+~/Areas/User/Views/Shared/10125.cshtml
+~/Areas/User/Views/Shared/10125.vbhtml
+~/Views/User/10125.cshtml
+~/Views/User/10125.vbhtml
+~/Views/Shared/10125.cshtml
+~/Views/Shared/10125.vbhtml
+
+2018-02-05 18:37:23
+Url：/User/User/CKfangka?id=10125
+Message：未找到视图“10125”或其母版视图，或没有视图引擎支持搜索的位置。搜索了以下位置: 
+~/Areas/User/Views/User/10125.aspx
+~/Areas/User/Views/User/10125.ascx
+~/Areas/User/Views/Shared/10125.aspx
+~/Areas/User/Views/Shared/10125.ascx
+~/Views/User/10125.aspx
+~/Views/User/10125.ascx
+~/Views/Shared/10125.aspx
+~/Views/Shared/10125.ascx
+~/Areas/User/Views/User/10125.cshtml
+~/Areas/User/Views/User/10125.vbhtml
+~/Areas/User/Views/Shared/10125.cshtml
+~/Areas/User/Views/Shared/10125.vbhtml
+~/Views/User/10125.cshtml
+~/Views/User/10125.vbhtml
+~/Views/Shared/10125.cshtml
+~/Views/Shared/10125.vbhtml
+
+2018-02-05 18:37:30
+Url：/User/User/CKfangka?id=10126
+Message：未找到视图“10126”或其母版视图，或没有视图引擎支持搜索的位置。搜索了以下位置: 
+~/Areas/User/Views/User/10126.aspx
+~/Areas/User/Views/User/10126.ascx
+~/Areas/User/Views/Shared/10126.aspx
+~/Areas/User/Views/Shared/10126.ascx
+~/Views/User/10126.aspx
+~/Views/User/10126.ascx
+~/Views/Shared/10126.aspx
+~/Views/Shared/10126.ascx
+~/Areas/User/Views/User/10126.cshtml
+~/Areas/User/Views/User/10126.vbhtml
+~/Areas/User/Views/Shared/10126.cshtml
+~/Areas/User/Views/Shared/10126.vbhtml
+~/Views/User/10126.cshtml
+~/Views/User/10126.vbhtml
+~/Views/Shared/10126.cshtml
+~/Views/Shared/10126.vbhtml
+
+2018-02-05 18:37:30
+Url：/User/User/CKfangka?id=10126
+Message：未找到视图“10126”或其母版视图，或没有视图引擎支持搜索的位置。搜索了以下位置: 
+~/Areas/User/Views/User/10126.aspx
+~/Areas/User/Views/User/10126.ascx
+~/Areas/User/Views/Shared/10126.aspx
+~/Areas/User/Views/Shared/10126.ascx
+~/Views/User/10126.aspx
+~/Views/User/10126.ascx
+~/Views/Shared/10126.aspx
+~/Views/Shared/10126.ascx
+~/Areas/User/Views/User/10126.cshtml
+~/Areas/User/Views/User/10126.vbhtml
+~/Areas/User/Views/Shared/10126.cshtml
+~/Areas/User/Views/Shared/10126.vbhtml
+~/Views/User/10126.cshtml
+~/Views/User/10126.vbhtml
+~/Views/Shared/10126.cshtml
+~/Views/Shared/10126.vbhtml
+

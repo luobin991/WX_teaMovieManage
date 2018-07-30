@@ -1,0 +1,38 @@
+﻿2018-04-02 16:53:03
+Url：/ClubModule/Agent/GetAgentPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522659182652
+Message：对于“Game.H5.Areas.ClubModule.Controllers.AgentController”中方法“System.Web.Mvc.ActionResult GetAgentPage(System.String, System.String, System.String, System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“id”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-04-02 16:53:03
+Url：/ClubModule/Agent/GetAgentPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522659182652
+Message：对于“Game.H5.Areas.ClubModule.Controllers.AgentController”中方法“System.Web.Mvc.ActionResult GetAgentPage(System.String, System.String, System.String, System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“id”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-04-02 16:54:17
+Url：/ClubModule/Agent/GetAgentPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522659256849
+Message：对于“Game.H5.Areas.ClubModule.Controllers.AgentController”中方法“System.Web.Mvc.ActionResult GetAgentPage(System.String, System.String, System.String, System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“id”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-04-02 16:54:17
+Url：/ClubModule/Agent/GetAgentPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522659256849
+Message：对于“Game.H5.Areas.ClubModule.Controllers.AgentController”中方法“System.Web.Mvc.ActionResult GetAgentPage(System.String, System.String, System.String, System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“id”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-04-02 16:54:24
+Url：/ClubModule/Agent/GetAgentPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522659263968
+Message：对于“Game.H5.Areas.ClubModule.Controllers.AgentController”中方法“System.Web.Mvc.ActionResult GetAgentPage(System.String, System.String, System.String, System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“id”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-04-02 16:54:24
+Url：/ClubModule/Agent/GetAgentPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522659263968
+Message：对于“Game.H5.Areas.ClubModule.Controllers.AgentController”中方法“System.Web.Mvc.ActionResult GetAgentPage(System.String, System.String, System.String, System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“id”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-04-02 17:29:48
+Url：/ClubModule/Agent/GetAgentPage?id=0&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22UserDiamond%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522661309303
+Message：Unknown column 'UserDiamond' in 'order clause'
+
+2018-04-02 17:29:48
+Url：/ClubModule/Agent/GetAgentPage?id=0&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22UserDiamond%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522661309303
+Message：Unknown column 'UserDiamond' in 'order clause'
+

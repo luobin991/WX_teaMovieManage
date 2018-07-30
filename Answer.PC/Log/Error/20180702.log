@@ -1,0 +1,72 @@
+﻿2018-07-02 10:25:33
+Url：/Goods/Tea/GetGoodsPage?pid=13&keyword=&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1530497209365
+Message：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2
+
+2018-07-02 10:25:33
+Url：/Goods/Tea/GetGoodsPage?pid=13&keyword=&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1530497209365
+Message：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2
+
+2018-07-02 10:25:34
+Url：/Goods/Tea/GetGoodsPage?pid=14&keyword=&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1530497209366
+Message：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2
+
+2018-07-02 10:25:34
+Url：/Goods/Tea/GetGoodsPage?pid=14&keyword=&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1530497209366
+Message：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2
+
+2018-07-02 10:26:39
+Url：/ShopManage/Shop/SaveShopInfo
+Message：Packets larger than max_allowed_packet are not allowed.
+
+2018-07-02 10:26:39
+Url：/ShopManage/Shop/SaveShopInfo
+Message：Packets larger than max_allowed_packet are not allowed.
+
+2018-07-02 11:26:37
+Url：/ShopManage/Shop/SaveShopInfo
+Message：未将对象引用设置到对象的实例。
+
+2018-07-02 11:26:37
+Url：/ShopManage/Shop/SaveShopInfo
+Message：未将对象引用设置到对象的实例。
+
+2018-07-02 15:05:17
+Url：/Goods/Tea/SaveGoodsTea
+Message：未将对象引用设置到对象的实例。
+
+2018-07-02 15:05:17
+Url：/Goods/Tea/SaveGoodsTea
+Message：未将对象引用设置到对象的实例。
+
+2018-07-02 15:05:21
+Url：/Goods/Tea/SaveGoodsTea
+Message：未将对象引用设置到对象的实例。
+
+2018-07-02 15:05:21
+Url：/Goods/Tea/SaveGoodsTea
+Message：未将对象引用设置到对象的实例。
+
+2018-07-02 15:05:27
+Url：/Goods/Tea/SaveGoodsTea
+Message：未将对象引用设置到对象的实例。
+
+2018-07-02 15:05:27
+Url：/Goods/Tea/SaveGoodsTea
+Message：未将对象引用设置到对象的实例。
+
+2018-07-02 15:06:41
+Url：/Goods/Tea/SaveGoodsTea
+Message：未将对象引用设置到对象的实例。
+
+2018-07-02 15:06:41
+Url：/Goods/Tea/SaveGoodsTea
+Message：未将对象引用设置到对象的实例。
+
+2018-07-02 15:18:10
+Url：/Goods/Tea/GetGoodsPage?pid=13&keyword=&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1530513806853
+Message：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2
+
+2018-07-02 15:18:10
+Url：/Goods/Tea/GetGoodsPage?pid=13&keyword=&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1530513806853
+Message：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2
+

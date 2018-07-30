@@ -1,0 +1,176 @@
+﻿2018-03-15 15:17:51
+Url：/ClubModule/Agent/SetUserforAgent
+Message：Field 'id' doesn't have a default value
+
+2018-03-15 15:17:51
+Url：/ClubModule/Agent/SetUserforAgent
+Message：Field 'id' doesn't have a default value
+
+2018-03-15 15:19:13
+Url：/ClubModule/Agent/SetUserforAgent
+Message：Field 'id' doesn't have a default value
+
+2018-03-15 15:19:13
+Url：/ClubModule/Agent/SetUserforAgent
+Message：Field 'id' doesn't have a default value
+
+2018-03-15 15:51:51
+Url：/ClubModule/Agent/SetUserforAgent
+Message：未将对象引用设置到对象的实例。
+
+2018-03-15 15:51:51
+Url：/ClubModule/Agent/SetUserforAgent
+Message：未将对象引用设置到对象的实例。
+
+2018-03-15 15:54:08
+Url：/ClubModule/Agent/SetUserforAgent
+Message：未将对象引用设置到对象的实例。
+
+2018-03-15 15:54:08
+Url：/ClubModule/Agent/SetUserforAgent
+Message：未将对象引用设置到对象的实例。
+
+2018-03-15 15:55:13
+Url：/ClubModule/Agent/SetUserforAgent
+Message：未将对象引用设置到对象的实例。
+
+2018-03-15 15:55:13
+Url：/ClubModule/Agent/SetUserforAgent
+Message：未将对象引用设置到对象的实例。
+
+2018-03-15 16:35:49
+Url：/ClubModule/Agent/SetUserforAgent
+Message：索引超出了数组界限。
+
+2018-03-15 16:35:50
+Url：/ClubModule/Agent/SetUserforAgent
+Message：索引超出了数组界限。
+
+2018-03-15 18:06:23
+错误编号:2018031518062312Xd33d1d9430
+Message:基础连接已经关闭: 连接被意外关闭。
+Type:System.Net.WebException
+Source:System
+StackTrace:   在 System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   在 System.Net.WebClient.UploadData(Uri address, String method, Byte[] data)
+   在 System.Net.WebClient.UploadData(String address, String method, Byte[] data)
+   在 Game.Common.WebCommon.APIPostBack(String url, String posts, Boolean check, String contentType) 位置 E:\Projects\网站运营后台\Game.H5\Game.Common\WebCommon.cs:行号 179
+Method:UploadDataInternal
+Class:System.Net.WebClient
+UserIP:::1
+UserName:
+CompanyID:0
+CompanyName:
+
+2018-03-15 18:10:08
+错误编号:2018031518100834X4422facc00
+Message:基础连接已经关闭: 连接被意外关闭。
+Type:System.Net.WebException
+Source:System
+StackTrace:   在 System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   在 System.Net.WebClient.UploadData(Uri address, String method, Byte[] data)
+   在 System.Net.WebClient.UploadData(String address, String method, Byte[] data)
+   在 Game.Common.WebCommon.APIPostBack(String url, String posts, Boolean check, String contentType) 位置 E:\Projects\网站运营后台\Game.H5\Game.Common\WebCommon.cs:行号 179
+Method:UploadDataInternal
+Class:System.Net.WebClient
+UserIP:::1
+UserName:
+CompanyID:0
+CompanyName:
+
+2018-03-15 18:22:08
+错误编号:2018031518220843Xe0793e8bde
+Message:基础连接已经关闭: 连接被意外关闭。
+Type:System.Net.WebException
+Source:System
+StackTrace:   在 System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   在 System.Net.WebClient.UploadData(Uri address, String method, Byte[] data)
+   在 System.Net.WebClient.UploadData(String address, String method, Byte[] data)
+   在 Game.Common.WebCommon.APIPostBack(String url, String posts, Boolean check, String contentType) 位置 E:\Projects\网站运营后台\Game.H5\Game.Common\WebCommon.cs:行号 179
+Method:UploadDataInternal
+Class:System.Net.WebClient
+UserIP:::1
+UserName:
+CompanyID:0
+CompanyName:
+
+2018-03-15 18:23:00
+错误编号:2018031518230093X32a2d6e189
+Message:基础连接已经关闭: 连接被意外关闭。
+Type:System.Net.WebException
+Source:System
+StackTrace:   在 System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   在 System.Net.WebClient.UploadData(Uri address, String method, Byte[] data)
+   在 System.Net.WebClient.UploadData(String address, String method, Byte[] data)
+   在 Game.Common.WebCommon.APIPostBack(String url, String posts, Boolean check, String contentType) 位置 E:\Projects\网站运营后台\Game.H5\Game.Common\WebCommon.cs:行号 179
+Method:UploadDataInternal
+Class:System.Net.WebClient
+UserIP:::1
+UserName:
+CompanyID:0
+CompanyName:
+
+2018-03-15 18:24:23
+错误编号:2018031518242343X38155cac20
+Message:基础连接已经关闭: 连接被意外关闭。
+Type:System.Net.WebException
+Source:System
+StackTrace:   在 System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   在 System.Net.WebClient.UploadData(Uri address, String method, Byte[] data)
+   在 System.Net.WebClient.UploadData(String address, String method, Byte[] data)
+   在 Game.Common.WebCommon.APIPostBack(String url, String posts, Boolean check, String contentType) 位置 E:\Projects\网站运营后台\Game.H5\Game.Common\WebCommon.cs:行号 179
+Method:UploadDataInternal
+Class:System.Net.WebClient
+UserIP:::1
+UserName:
+CompanyID:0
+CompanyName:
+
+2018-03-15 18:25:45
+错误编号:2018031518254595X79f874aeaa
+Message:基础连接已经关闭: 连接被意外关闭。
+Type:System.Net.WebException
+Source:System
+StackTrace:   在 System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   在 System.Net.WebClient.UploadData(Uri address, String method, Byte[] data)
+   在 System.Net.WebClient.UploadData(String address, String method, Byte[] data)
+   在 Game.Common.WebCommon.APIPostBack(String url, String posts, Boolean check, String contentType) 位置 E:\Projects\网站运营后台\Game.H5\Game.Common\WebCommon.cs:行号 179
+Method:UploadDataInternal
+Class:System.Net.WebClient
+UserIP:::1
+UserName:
+CompanyID:0
+CompanyName:
+
+2018-03-15 18:26:41
+错误编号:2018031518264156Xe369f229e0
+Message:基础连接已经关闭: 连接被意外关闭。
+Type:System.Net.WebException
+Source:System
+StackTrace:   在 System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   在 System.Net.WebClient.UploadData(Uri address, String method, Byte[] data)
+   在 System.Net.WebClient.UploadData(String address, String method, Byte[] data)
+   在 Game.Common.WebCommon.APIPostBack(String url, String posts, Boolean check, String contentType) 位置 E:\Projects\网站运营后台\Game.H5\Game.Common\WebCommon.cs:行号 179
+Method:UploadDataInternal
+Class:System.Net.WebClient
+UserIP:::1
+UserName:
+CompanyID:0
+CompanyName:
+
+2018-03-15 18:30:01
+错误编号:2018031518300171Xf5a24c8682
+Message:基础连接已经关闭: 连接被意外关闭。
+Type:System.Net.WebException
+Source:System
+StackTrace:   在 System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   在 System.Net.WebClient.UploadData(Uri address, String method, Byte[] data)
+   在 System.Net.WebClient.UploadData(String address, String method, Byte[] data)
+   在 Game.Common.WebCommon.APIPostBack(String url, String posts, Boolean check, String contentType) 位置 E:\Projects\网站运营后台\Game.H5\Game.Common\WebCommon.cs:行号 179
+Method:UploadDataInternal
+Class:System.Net.WebClient
+UserIP:::1
+UserName:
+CompanyID:0
+CompanyName:
+

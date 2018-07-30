@@ -1,0 +1,128 @@
+﻿2018-02-01 14:44:37
+Url：/ClubModule/Club/GetClubPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1517467465787
+Message：Table 'linyun_game.t_club' doesn't exist
+
+2018-02-01 14:44:37
+Url：/ClubModule/Club/GetClubPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1517467465787
+Message：Table 'linyun_game.t_club' doesn't exist
+
+2018-02-01 14:49:53
+Url：/
+Message：未将对象引用设置到对象的实例。
+
+2018-02-01 14:49:53
+Url：/
+Message：未将对象引用设置到对象的实例。
+
+2018-02-01 14:49:58
+Url：/
+Message：未将对象引用设置到对象的实例。
+
+2018-02-01 14:49:58
+Url：/
+Message：未将对象引用设置到对象的实例。
+
+2018-02-01 14:50:04
+Url：/Login/Index
+Message：未将对象引用设置到对象的实例。
+
+2018-02-01 14:50:04
+Url：/Login/Index
+Message：未将对象引用设置到对象的实例。
+
+2018-02-01 14:50:22
+Url：/
+Message：未将对象引用设置到对象的实例。
+
+2018-02-01 14:50:22
+Url：/
+Message：未将对象引用设置到对象的实例。
+
+2018-02-01 14:50:30
+Url：/
+Message：未将对象引用设置到对象的实例。
+
+2018-02-01 14:50:30
+Url：/
+Message：未将对象引用设置到对象的实例。
+
+2018-02-01 14:50:31
+Url：/
+Message：未将对象引用设置到对象的实例。
+
+2018-02-01 14:50:31
+Url：/
+Message：未将对象引用设置到对象的实例。
+
+2018-02-01 14:51:04
+Url：/Login/Index
+Message：未将对象引用设置到对象的实例。
+
+2018-02-01 14:51:04
+Url：/Login/Index
+Message：未将对象引用设置到对象的实例。
+
+2018-02-01 14:52:04
+Url：/Login/Index
+Message：未将对象引用设置到对象的实例。
+
+2018-02-01 14:52:04
+Url：/Login/Index
+Message：未将对象引用设置到对象的实例。
+
+2018-02-01 14:53:04
+Url：/Login/Index
+Message：未将对象引用设置到对象的实例。
+
+2018-02-01 14:53:04
+Url：/Login/Index
+Message：未将对象引用设置到对象的实例。
+
+2018-02-01 14:54:04
+Url：/Login/Index
+Message：未将对象引用设置到对象的实例。
+
+2018-02-01 14:54:04
+Url：/Login/Index
+Message：未将对象引用设置到对象的实例。
+
+2018-02-01 14:54:31
+Url：/
+Message：未将对象引用设置到对象的实例。
+
+2018-02-01 14:54:31
+Url：/
+Message：未将对象引用设置到对象的实例。
+
+2018-02-01 14:54:32
+Url：/
+Message：未将对象引用设置到对象的实例。
+
+2018-02-01 14:54:32
+Url：/
+Message：未将对象引用设置到对象的实例。
+
+2018-02-01 14:54:33
+Url：/
+Message：未将对象引用设置到对象的实例。
+
+2018-02-01 14:54:33
+Url：/
+Message：未将对象引用设置到对象的实例。
+
+2018-02-01 14:55:16
+Url：/
+Message：未将对象引用设置到对象的实例。
+
+2018-02-01 14:55:29
+Url：/Login/Index
+Message：未将对象引用设置到对象的实例。
+
+2018-02-01 15:02:07
+Url：/ClubModule/Club/GetClubPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1517468511902
+Message：Error parsing column 6 (city=深圳 - String)
+
+2018-02-01 15:02:08
+Url：/ClubModule/Club/GetClubPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1517468511902
+Message：Error parsing column 6 (city=深圳 - String)
+

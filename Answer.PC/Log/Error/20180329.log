@@ -1,0 +1,40 @@
+﻿2018-03-29 17:10:52
+Url：/ClubModule/Club/GetClubSumDiamondPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522314652584
+Message：Table 'linyun_game.sys_daysum_diamond' doesn't exist
+
+2018-03-29 17:10:52
+Url：/ClubModule/Club/GetClubSumDiamondPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522314652584
+Message：Table 'linyun_game.sys_daysum_diamond' doesn't exist
+
+2018-03-29 17:10:57
+Url：/ClubModule/Club/GetClubSumDiamondPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522314657265
+Message：Table 'linyun_game.sys_daysum_diamond' doesn't exist
+
+2018-03-29 17:10:57
+Url：/ClubModule/Club/GetClubSumDiamondPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522314657265
+Message：Table 'linyun_game.sys_daysum_diamond' doesn't exist
+
+2018-03-29 18:06:57
+Url：/ClubModule/Club/GetClubSumDiamondPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522318017717
+Message：Unknown column 'clubId' in 'where clause'
+
+2018-03-29 18:06:57
+Url：/ClubModule/Club/GetClubSumDiamondPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522318017717
+Message：Unknown column 'clubId' in 'where clause'
+
+2018-03-29 18:07:04
+Url：/ClubModule/Club/GetClubSumDiamondPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522318024389
+Message：Unknown column 'clubId' in 'where clause'
+
+2018-03-29 18:07:04
+Url：/ClubModule/Club/GetClubSumDiamondPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522318024389
+Message：Unknown column 'clubId' in 'where clause'
+
+2018-03-29 18:07:10
+Url：/ClubModule/Club/GetClubSumDiamondPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522318030571
+Message：Unknown column 'clubId' in 'where clause'
+
+2018-03-29 18:07:10
+Url：/ClubModule/Club/GetClubSumDiamondPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522318030571
+Message：Unknown column 'clubId' in 'where clause'
+

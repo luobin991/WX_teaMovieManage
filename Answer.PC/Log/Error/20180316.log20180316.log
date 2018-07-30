@@ -1,0 +1,222 @@
+﻿2018-03-16 11:05:35
+错误编号:2018031611053590Xa571cf648b
+Message:基础连接已经关闭: 连接被意外关闭。
+Type:System.Net.WebException
+Source:System
+StackTrace:   在 System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   在 System.Net.WebClient.UploadData(Uri address, String method, Byte[] data)
+   在 System.Net.WebClient.UploadData(String address, String method, Byte[] data)
+   在 Game.Common.WebCommon.APIPostBack(String url, String posts, Boolean check, String contentType) 位置 E:\Projects\网站运营后台\Game.H5\Game.Common\WebCommon.cs:行号 179
+Method:UploadDataInternal
+Class:System.Net.WebClient
+UserIP:192.168.0.114
+UserName:
+CompanyID:0
+CompanyName:
+
+2018-03-16 11:13:28
+错误编号:2018031611132843X1cd6410c96
+Message:基础连接已经关闭: 连接被意外关闭。
+Type:System.Net.WebException
+Source:System
+StackTrace:   在 System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   在 System.Net.WebClient.UploadData(Uri address, String method, Byte[] data)
+   在 System.Net.WebClient.UploadData(String address, String method, Byte[] data)
+   在 Game.Common.WebCommon.APIPostBack(String url, String posts, Boolean check, String contentType) 位置 E:\Projects\网站运营后台\Game.H5\Game.Common\WebCommon.cs:行号 179
+Method:UploadDataInternal
+Class:System.Net.WebClient
+UserIP:192.168.0.114
+UserName:
+CompanyID:0
+CompanyName:
+
+2018-03-16 14:15:17
+Url：/ClubModule/Agent/SetAgentForUser
+Message：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'table T_Agent_Relation where userId=10211' at line 1
+
+2018-03-16 14:15:18
+Url：/ClubModule/Agent/SetAgentForUser
+Message：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'table T_Agent_Relation where userId=10211' at line 1
+
+2018-03-16 14:18:40
+错误编号:2018031614184047X4c9b0803bf
+Message:基础连接已经关闭: 连接被意外关闭。
+Type:System.Net.WebException
+Source:System
+StackTrace:   在 System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   在 System.Net.WebClient.UploadData(Uri address, String method, Byte[] data)
+   在 System.Net.WebClient.UploadData(String address, String method, Byte[] data)
+   在 Game.Common.WebCommon.APIPostBack(String url, String posts, Boolean check, String contentType) 位置 E:\Projects\网站运营后台\Game.H5\Game.Common\WebCommon.cs:行号 179
+Method:UploadDataInternal
+Class:System.Net.WebClient
+UserIP:192.168.0.114
+UserName:
+CompanyID:0
+CompanyName:
+
+2018-03-16 14:27:02
+错误编号:2018031614270254X5240b084df
+Message:基础连接已经关闭: 连接被意外关闭。
+Type:System.Net.WebException
+Source:System
+StackTrace:   在 System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   在 System.Net.WebClient.UploadData(Uri address, String method, Byte[] data)
+   在 System.Net.WebClient.UploadData(String address, String method, Byte[] data)
+   在 Game.Common.WebCommon.APIPostBack(String url, String posts, Boolean check, String contentType) 位置 E:\Projects\网站运营后台\Game.H5\Game.Common\WebCommon.cs:行号 179
+Method:UploadDataInternal
+Class:System.Net.WebClient
+UserIP:::1
+UserName:
+CompanyID:0
+CompanyName:
+
+2018-03-16 14:28:02
+错误编号:2018031614280254X98769cfa71
+Message:基础连接已经关闭: 连接被意外关闭。
+Type:System.Net.WebException
+Source:System
+StackTrace:   在 System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   在 System.Net.WebClient.UploadData(Uri address, String method, Byte[] data)
+   在 System.Net.WebClient.UploadData(String address, String method, Byte[] data)
+   在 Game.Common.WebCommon.APIPostBack(String url, String posts, Boolean check, String contentType) 位置 E:\Projects\网站运营后台\Game.H5\Game.Common\WebCommon.cs:行号 179
+Method:UploadDataInternal
+Class:System.Net.WebClient
+UserIP:::1
+UserName:
+CompanyID:0
+CompanyName:
+
+2018-03-16 14:32:02
+错误编号:2018031614320256X0db9ca96db
+Message:基础连接已经关闭: 连接被意外关闭。
+Type:System.Net.WebException
+Source:System
+StackTrace:   在 System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   在 System.Net.WebClient.UploadData(Uri address, String method, Byte[] data)
+   在 System.Net.WebClient.UploadData(String address, String method, Byte[] data)
+   在 Game.Common.WebCommon.APIPostBack(String url, String posts, Boolean check, String contentType) 位置 E:\Projects\网站运营后台\Game.H5\Game.Common\WebCommon.cs:行号 179
+Method:UploadDataInternal
+Class:System.Net.WebClient
+UserIP:::1
+UserName:
+CompanyID:0
+CompanyName:
+
+2018-03-16 14:54:38
+错误编号:2018031614543823X4199947a7c
+Message:基础连接已经关闭: 连接被意外关闭。
+Type:System.Net.WebException
+Source:System
+StackTrace:   在 System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   在 System.Net.WebClient.UploadData(Uri address, String method, Byte[] data)
+   在 System.Net.WebClient.UploadData(String address, String method, Byte[] data)
+   在 Game.Common.WebCommon.APIPostBack(String url, String posts, Boolean check, String contentType) 位置 E:\Projects\网站运营后台\Game.H5\Game.Common\WebCommon.cs:行号 179
+Method:UploadDataInternal
+Class:System.Net.WebClient
+UserIP:192.168.0.114
+UserName:
+CompanyID:0
+CompanyName:
+
+2018-03-16 15:28:34
+Url：/ClubModule/Agent/HigherAgentIndex?id=10213
+Message：未找到视图“HigherAgentIndex”或其母版视图，或没有视图引擎支持搜索的位置。搜索了以下位置: 
+~/Areas/ClubModule/Views/Agent/HigherAgentIndex.aspx
+~/Areas/ClubModule/Views/Agent/HigherAgentIndex.ascx
+~/Areas/ClubModule/Views/Shared/HigherAgentIndex.aspx
+~/Areas/ClubModule/Views/Shared/HigherAgentIndex.ascx
+~/Views/Agent/HigherAgentIndex.aspx
+~/Views/Agent/HigherAgentIndex.ascx
+~/Views/Shared/HigherAgentIndex.aspx
+~/Views/Shared/HigherAgentIndex.ascx
+~/Areas/ClubModule/Views/Agent/HigherAgentIndex.cshtml
+~/Areas/ClubModule/Views/Agent/HigherAgentIndex.vbhtml
+~/Areas/ClubModule/Views/Shared/HigherAgentIndex.cshtml
+~/Areas/ClubModule/Views/Shared/HigherAgentIndex.vbhtml
+~/Views/Agent/HigherAgentIndex.cshtml
+~/Views/Agent/HigherAgentIndex.vbhtml
+~/Views/Shared/HigherAgentIndex.cshtml
+~/Views/Shared/HigherAgentIndex.vbhtml
+
+2018-03-16 15:28:34
+Url：/ClubModule/Agent/HigherAgentIndex?id=10213
+Message：未找到视图“HigherAgentIndex”或其母版视图，或没有视图引擎支持搜索的位置。搜索了以下位置: 
+~/Areas/ClubModule/Views/Agent/HigherAgentIndex.aspx
+~/Areas/ClubModule/Views/Agent/HigherAgentIndex.ascx
+~/Areas/ClubModule/Views/Shared/HigherAgentIndex.aspx
+~/Areas/ClubModule/Views/Shared/HigherAgentIndex.ascx
+~/Views/Agent/HigherAgentIndex.aspx
+~/Views/Agent/HigherAgentIndex.ascx
+~/Views/Shared/HigherAgentIndex.aspx
+~/Views/Shared/HigherAgentIndex.ascx
+~/Areas/ClubModule/Views/Agent/HigherAgentIndex.cshtml
+~/Areas/ClubModule/Views/Agent/HigherAgentIndex.vbhtml
+~/Areas/ClubModule/Views/Shared/HigherAgentIndex.cshtml
+~/Areas/ClubModule/Views/Shared/HigherAgentIndex.vbhtml
+~/Views/Agent/HigherAgentIndex.cshtml
+~/Views/Agent/HigherAgentIndex.vbhtml
+~/Views/Shared/HigherAgentIndex.cshtml
+~/Views/Shared/HigherAgentIndex.vbhtml
+
+2018-03-16 16:45:16
+Url：/ClubModule/Agent/HigherAgentIndex?id=10213
+Message：对于“Game.H5.Areas.ClubModule.Controllers.AgentController”中方法“System.Web.Mvc.ActionResult HigherAgentIndex(Int32)”的不可以为 null 的类型“System.Int32”的参数“userid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-03-16 16:45:17
+Url：/ClubModule/Agent/HigherAgentIndex?id=10213
+Message：对于“Game.H5.Areas.ClubModule.Controllers.AgentController”中方法“System.Web.Mvc.ActionResult HigherAgentIndex(Int32)”的不可以为 null 的类型“System.Int32”的参数“userid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-03-16 16:45:30
+Url：/ClubModule/Agent/HigherAgentIndex?id=10213
+Message：对于“Game.H5.Areas.ClubModule.Controllers.AgentController”中方法“System.Web.Mvc.ActionResult HigherAgentIndex(Int32)”的不可以为 null 的类型“System.Int32”的参数“userid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-03-16 16:45:30
+Url：/ClubModule/Agent/HigherAgentIndex?id=10213
+Message：对于“Game.H5.Areas.ClubModule.Controllers.AgentController”中方法“System.Web.Mvc.ActionResult HigherAgentIndex(Int32)”的不可以为 null 的类型“System.Int32”的参数“userid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-03-16 16:46:02
+Url：/ClubModule/Agent/HigherAgentIndex?id=10209
+Message：对于“Game.H5.Areas.ClubModule.Controllers.AgentController”中方法“System.Web.Mvc.ActionResult HigherAgentIndex(Int32)”的不可以为 null 的类型“System.Int32”的参数“userid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-03-16 16:46:02
+Url：/ClubModule/Agent/HigherAgentIndex?id=10209
+Message：对于“Game.H5.Areas.ClubModule.Controllers.AgentController”中方法“System.Web.Mvc.ActionResult HigherAgentIndex(Int32)”的不可以为 null 的类型“System.Int32”的参数“userid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-03-16 16:48:25
+Url：/GameConfig/Placardset/Index
+Message：Table 'linyun_game.t_placardset' doesn't exist
+
+2018-03-16 16:48:25
+Url：/GameConfig/Placardset/Index
+Message：Table 'linyun_game.t_placardset' doesn't exist
+
+2018-03-16 16:48:31
+Url：/GameConfig/Placardset/Index
+Message：Table 'linyun_game.t_placardset' doesn't exist
+
+2018-03-16 16:48:31
+Url：/GameConfig/Placardset/Index
+Message：Table 'linyun_game.t_placardset' doesn't exist
+
+2018-03-16 17:57:59
+Url：/GameConfig/Placardset/Index
+Message：Table 'linyun_game.t_placardset' doesn't exist
+
+2018-03-16 17:57:59
+Url：/GameConfig/Placardset/Index
+Message：Table 'linyun_game.t_placardset' doesn't exist
+
+2018-03-16 18:12:48
+Url：/GameConfig/Placardset/Index
+Message：“Game.Entity.NiuBusiness.T_Notice”未包含“Content”的定义
+
+2018-03-16 18:12:49
+Url：/GameConfig/Placardset/Index
+Message：“Game.Entity.NiuBusiness.T_Notice”未包含“Content”的定义
+

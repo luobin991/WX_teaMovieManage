@@ -1,0 +1,46 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Index.cshtml";
+}
+
+<div class="ll-layout">
+    <div class="ll-layout-center">
+        <div class="ll-layout-wrap ll-layout-wrap-notitle">
+            <div class="ll-layout-tool">
+                <div class="ll-layout-tool-left">
+                    <div class="ll-layout-tool-item">
+                        <input id="txt_Keyword" type="text" class="form-control" placeholder="用户名称关键字" />
+                    </div>
+                    <div class="ll-layout-tool-item">
+                        <a id="btn_Search" class="btn btn-primary btn-sm"><i class="fa fa-search"></i>&nbsp;查询</a>
+                    </div>
+                </div>
+                <div class="ll-layout-tool-right">
+                    <div class=" btn-group btn-group-sm">
+                        <a id="ll_refresh" class="btn btn-default"><i class="fa fa-refresh"></i></a>
+                    </div>
+                    <div class=" btn-group btn-group-sm" luoluo-authorize="not">
+
+                        <a id="ll_lableDetail" class="btn btn-default"><i class="fa fa-plus"></i>&nbsp;标签明细</a>
+
+                        <a id="ll_more" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+                            <i class="fa fa-reorder"></i>&nbsp;更多<span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu pull-right">
+                            <li id="ll_add"><a><i></i>&nbsp;增加类别</a></li>
+                            <li id="ll_edit"><a><i></i>&nbsp;修改类别</a></li>
+                            <li id="ll_del"><a><i></i>&nbsp;类别删除</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="ll-layout-body" id="girdtable">
+            </div>
+        </div>
+    </div>
+</div>
+
+@*@Html.AppendJsFile("/Areas/ConfigManage/Content/GoodsLable.js")*@
+<script src="~/Areas/ConfigManage/Content/GoodsLable.js"></script>

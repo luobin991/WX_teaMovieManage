@@ -1,0 +1,50 @@
+﻿@{
+    ViewBag.Title = "人员管理";
+    Layout = "~/Views/Shared/_Index.cshtml";
+}
+
+<div class="ll-layout">
+    <div class="ll-layout-center">
+        <div class="ll-layout-wrap ll-layout-wrap-notitle">
+            <div class="ll-layout-tool">
+                <div class="ll-layout-tool-left">
+                    <div class="ll-layout-tool-item">
+                        <input id="txt_Keyword" type="text" class="form-control" placeholder="用户名称关键字" />
+
+                        <input id="sdate" type="text" class="form-control ll-input-wdatepicker" onfocus="WdatePicker({dateFmt:'yyyy-MM-dd',readOnly:true,maxDate:'#F{$dp.$D(\'edate\')}'})" placeholder="注册开始时间" />
+                        -
+                        <input id="edate" type="text" class="form-control ll-input-wdatepicker" onfocus="WdatePicker({dateFmt:'yyyy-MM-dd',readOnly:true,minDate:'#F{$dp.$D(\'sdate\')}',startDate:'#F{$dp.$D(\'sdate\',{d:+1})}'})" placeholder="注册结束时间" />
+
+                    </div>
+                    <div class="ll-layout-tool-item">
+                        <a id="btn_Search" class="btn btn-primary btn-sm"><i class="fa fa-search"></i>&nbsp;查询</a>
+                    </div>
+                </div>
+                <div class="ll-layout-tool-right">
+                    <div class=" btn-group btn-group-sm">
+                        <a id="ll_refresh" class="btn btn-default"><i class="fa fa-refresh"></i></a>
+                    </div>
+                    <div class=" btn-group btn-group-sm" luoluo-authorize="yes">
+                        <a id="ll_playlog" class="btn btn-default"><i class="fa fa-plus"></i>&nbsp;查询ID/战绩</a>
+                        <a id="ll_chargebuckle" class="btn btn-default"><i class="fa fa-pencil-square-o"></i>&nbsp;充/扣钻石</a>
+                        <a id="ll_more" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+                            <i class="fa fa-reorder"></i>&nbsp;更多<span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu pull-right">
+                            <li id="ll_enabled"><a><i></i>&nbsp;启用账户</a></li>
+                            <li id="ll_disabled"><a><i></i>&nbsp;禁用账户</a></li>
+                            <li id="ll_upagent"><a><i></i>&nbsp;直升代理</a></li>
+                            <li id="ll_sendmsg"><a><i></i>&nbsp;消息发送</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="ll-layout-body" id="girdtable">
+            </div>
+        </div>
+    </div>
+</div>
+
+@*@Html.AppendJsFile("/Areas/User/Content/User_Index.js")*@
+<script src="~/Areas/User/Content/User_Index.js"></script>

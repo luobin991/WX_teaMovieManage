@@ -1,0 +1,178 @@
+﻿2018-03-16 09:44:50
+错误编号:2018031609445052X3331424cf6
+Message:基础连接已经关闭: 连接被意外关闭。
+Type:System.Net.WebException
+Source:System
+StackTrace:   在 System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   在 System.Net.WebClient.UploadData(Uri address, String method, Byte[] data)
+   在 System.Net.WebClient.UploadData(String address, String method, Byte[] data)
+   在 Game.Common.WebCommon.APIPostBack(String url, String posts, Boolean check, String contentType) 位置 E:\Projects\网站运营后台\Game.H5\Game.Common\WebCommon.cs:行号 179
+Method:UploadDataInternal
+Class:System.Net.WebClient
+UserIP:::1
+UserName:
+CompanyID:0
+CompanyName:
+
+2018-03-16 09:52:46
+错误编号:2018031609524667X92f9f01efa
+Message:基础连接已经关闭: 连接被意外关闭。
+Type:System.Net.WebException
+Source:System
+StackTrace:   在 System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   在 System.Net.WebClient.UploadData(Uri address, String method, Byte[] data)
+   在 System.Net.WebClient.UploadData(String address, String method, Byte[] data)
+   在 Game.Common.WebCommon.APIPostBack(String url, String posts, Boolean check, String contentType) 位置 E:\Projects\网站运营后台\Game.H5\Game.Common\WebCommon.cs:行号 179
+Method:UploadDataInternal
+Class:System.Net.WebClient
+UserIP:::1
+UserName:
+CompanyID:0
+CompanyName:
+
+2018-03-16 14:16:57
+Url：/ClubModule/Agent/SetAgentForUser
+Message：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'table T_Agent_Relation where userId=10211' at line 1
+
+2018-03-16 14:16:57
+Url：/ClubModule/Agent/SetAgentForUser
+Message：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'table T_Agent_Relation where userId=10211' at line 1
+
+2018-03-16 14:37:22
+错误编号:2018031614372255X7016f0a427
+Message:基础连接已经关闭: 连接被意外关闭。
+Type:System.Net.WebException
+Source:System
+StackTrace:   在 System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   在 System.Net.WebClient.UploadData(Uri address, String method, Byte[] data)
+   在 System.Net.WebClient.UploadData(String address, String method, Byte[] data)
+   在 Game.Common.WebCommon.APIPostBack(String url, String posts, Boolean check, String contentType) 位置 E:\Projects\网站运营后台\Game.H5\Game.Common\WebCommon.cs:行号 179
+Method:UploadDataInternal
+Class:System.Net.WebClient
+UserIP:::1
+UserName:
+CompanyID:0
+CompanyName:
+
+2018-03-16 14:38:00
+错误编号:2018031614380002Xe0638fdf7d
+Message:基础连接已经关闭: 连接被意外关闭。
+Type:System.Net.WebException
+Source:System
+StackTrace:   在 System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   在 System.Net.WebClient.UploadData(Uri address, String method, Byte[] data)
+   在 System.Net.WebClient.UploadData(String address, String method, Byte[] data)
+   在 Game.Common.WebCommon.APIPostBack(String url, String posts, Boolean check, String contentType) 位置 E:\Projects\网站运营后台\Game.H5\Game.Common\WebCommon.cs:行号 179
+Method:UploadDataInternal
+Class:System.Net.WebClient
+UserIP:::1
+UserName:
+CompanyID:0
+CompanyName:
+
+2018-03-16 15:06:45
+错误编号:2018031615064589X6177136fc3
+Message:基础连接已经关闭: 连接被意外关闭。
+Type:System.Net.WebException
+Source:System
+StackTrace:   在 System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   在 System.Net.WebClient.UploadData(Uri address, String method, Byte[] data)
+   在 System.Net.WebClient.UploadData(String address, String method, Byte[] data)
+   在 Game.Common.WebCommon.APIPostBack(String url, String posts, Boolean check, String contentType) 位置 E:\Projects\网站运营后台\Game.H5\Game.Common\WebCommon.cs:行号 179
+Method:UploadDataInternal
+Class:System.Net.WebClient
+UserIP:::1
+UserName:
+CompanyID:0
+CompanyName:
+
+2018-03-16 16:49:17
+Url：/ClubModule/Agent/HigherAgentIndex?id=10209
+Message：对于“Game.H5.Areas.ClubModule.Controllers.AgentController”中方法“System.Web.Mvc.ActionResult HigherAgentIndex(Int32)”的不可以为 null 的类型“System.Int32”的参数“userid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-03-16 16:49:17
+Url：/ClubModule/Agent/HigherAgentIndex?id=10209
+Message：对于“Game.H5.Areas.ClubModule.Controllers.AgentController”中方法“System.Web.Mvc.ActionResult HigherAgentIndex(Int32)”的不可以为 null 的类型“System.Int32”的参数“userid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-03-16 16:49:59
+Url：/ClubModule/Agent/GetHightAgentList?objectId=&_=1521190145430
+Message：对于“Game.H5.Areas.ClubModule.Controllers.AgentController”中方法“System.Web.Mvc.ActionResult GetHightAgentList(Int32)”的不可以为 null 的类型“System.Int32”的参数“userid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-03-16 16:49:59
+Url：/ClubModule/Agent/GetHightAgentList?objectId=&_=1521190145430
+Message：对于“Game.H5.Areas.ClubModule.Controllers.AgentController”中方法“System.Web.Mvc.ActionResult GetHightAgentList(Int32)”的不可以为 null 的类型“System.Int32”的参数“userid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-03-16 16:50:06
+Url：/ClubModule/Agent/GetHightAgentList?objectId=&_=1521190145432
+Message：对于“Game.H5.Areas.ClubModule.Controllers.AgentController”中方法“System.Web.Mvc.ActionResult GetHightAgentList(Int32)”的不可以为 null 的类型“System.Int32”的参数“userid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-03-16 16:50:06
+Url：/ClubModule/Agent/GetHightAgentList?objectId=&_=1521190145432
+Message：对于“Game.H5.Areas.ClubModule.Controllers.AgentController”中方法“System.Web.Mvc.ActionResult GetHightAgentList(Int32)”的不可以为 null 的类型“System.Int32”的参数“userid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-03-16 16:50:34
+Url：/ClubModule/Agent/GetHightAgentList?objectId=&_=1521190145435
+Message：对于“Game.H5.Areas.ClubModule.Controllers.AgentController”中方法“System.Web.Mvc.ActionResult GetHightAgentList(Int32)”的不可以为 null 的类型“System.Int32”的参数“userid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-03-16 16:50:34
+Url：/ClubModule/Agent/GetHightAgentList?objectId=&_=1521190145435
+Message：对于“Game.H5.Areas.ClubModule.Controllers.AgentController”中方法“System.Web.Mvc.ActionResult GetHightAgentList(Int32)”的不可以为 null 的类型“System.Int32”的参数“userid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-03-16 16:50:55
+Url：/ClubModule/Agent/GetHightAgentList?objectId=&_=1521190145437
+Message：对于“Game.H5.Areas.ClubModule.Controllers.AgentController”中方法“System.Web.Mvc.ActionResult GetHightAgentList(Int32)”的不可以为 null 的类型“System.Int32”的参数“userid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-03-16 16:50:55
+Url：/ClubModule/Agent/GetHightAgentList?objectId=&_=1521190145437
+Message：对于“Game.H5.Areas.ClubModule.Controllers.AgentController”中方法“System.Web.Mvc.ActionResult GetHightAgentList(Int32)”的不可以为 null 的类型“System.Int32”的参数“userid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-03-16 16:53:43
+Url：/ClubModule/Agent/GetHightAgentList?objectId=10209&_=1521190145442
+Message：对于“Game.H5.Areas.ClubModule.Controllers.AgentController”中方法“System.Web.Mvc.ActionResult GetHightAgentList(Int32)”的不可以为 null 的类型“System.Int32”的参数“userid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-03-16 16:53:43
+Url：/ClubModule/Agent/GetHightAgentList?objectId=10209&_=1521190145442
+Message：对于“Game.H5.Areas.ClubModule.Controllers.AgentController”中方法“System.Web.Mvc.ActionResult GetHightAgentList(Int32)”的不可以为 null 的类型“System.Int32”的参数“userid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-03-16 16:54:42
+Url：/ClubModule/Agent/GetHightAgentList?objectId=10221&_=1521190475628
+Message：对于“Game.H5.Areas.ClubModule.Controllers.AgentController”中方法“System.Web.Mvc.ActionResult GetHightAgentList(Int32)”的不可以为 null 的类型“System.Int32”的参数“userid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-03-16 16:54:42
+Url：/ClubModule/Agent/GetHightAgentList?objectId=10221&_=1521190475628
+Message：对于“Game.H5.Areas.ClubModule.Controllers.AgentController”中方法“System.Web.Mvc.ActionResult GetHightAgentList(Int32)”的不可以为 null 的类型“System.Int32”的参数“userid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-03-16 16:54:46
+Url：/ClubModule/Agent/GetHightAgentList?objectId=10213&_=1521190475630
+Message：对于“Game.H5.Areas.ClubModule.Controllers.AgentController”中方法“System.Web.Mvc.ActionResult GetHightAgentList(Int32)”的不可以为 null 的类型“System.Int32”的参数“userid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-03-16 16:54:47
+Url：/ClubModule/Agent/GetHightAgentList?objectId=10213&_=1521190475630
+Message：对于“Game.H5.Areas.ClubModule.Controllers.AgentController”中方法“System.Web.Mvc.ActionResult GetHightAgentList(Int32)”的不可以为 null 的类型“System.Int32”的参数“userid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-03-16 16:57:17
+Url：/ClubModule/Agent/GetHightAgentList?objectId=10213&_=1521190475634
+Message：对于“Game.H5.Areas.ClubModule.Controllers.AgentController”中方法“System.Web.Mvc.ActionResult GetHightAgentList(Int32)”的不可以为 null 的类型“System.Int32”的参数“userid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-03-16 16:57:17
+Url：/ClubModule/Agent/GetHightAgentList?objectId=10213&_=1521190475634
+Message：对于“Game.H5.Areas.ClubModule.Controllers.AgentController”中方法“System.Web.Mvc.ActionResult GetHightAgentList(Int32)”的不可以为 null 的类型“System.Int32”的参数“userid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+

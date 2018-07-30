@@ -1,0 +1,131 @@
+﻿/*
+ * 日 期：2017.11.16
+ * 描 述：树组件样式
+ */
+.ll-tree {
+    overflow-y: auto;
+}
+
+.ll-tree ul,
+.ll-tree li {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.ll-tree-icon,
+.ll-tree-ec-icon,
+.ll-tree-node-cb,
+.ll-tree-node-icon {
+    border: 0 none;
+    height: 18px;
+    margin: 0;
+    padding: 0;
+    margin-top: 3px;
+    vertical-align: top;
+    width: 16px;
+    background-repeat: no-repeat;
+}
+.ll-tree-node-cb {
+    height: 16px;
+    padding: 2px;
+    margin-top: 4.5px;
+    margin-right: 5px;
+}
+
+ul.ll-tree-node-ct {
+    line-height: 0;
+    zoom: 1;
+}
+
+.ll-tree-node-expanded > .ll-tree-ec-icon {
+    background-image: url(../../Content/images/learuntree/arrows.gif) !important;
+    background: transparent no-repeat -16px 0;
+}
+
+.ll-tree-node-expanded > .ll-tree-ec-icon:hover {
+    background: transparent no-repeat -48px 0;
+}
+
+.ll-tree-node-collapsed > .ll-tree-ec-icon {
+    background-image: url(../../Content/images/learuntree/arrows.gif) !important;
+    background: transparent no-repeat 0px 0;
+}
+
+.ll-tree-node-collapsed > .ll-tree-ec-icon:hover {
+    background: transparent no-repeat -32px 0;
+}
+
+.ll-tree-node {
+    white-space: nowrap;
+    color: #000;
+}
+
+.ll-tree-node {
+    color: #000;
+}
+
+.ll-tree-node i {
+    font-size: 13px;
+    width: 13px;
+    color: #666666;
+}
+
+.ll-tree-node a {
+    text-decoration: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    -khtml-user-select: none;
+    user-select: none;
+
+    -kthml-user-focus: normal;
+    -moz-user-focus: normal;
+    -moz-outline: 0 none;
+    outline: 0 none;
+}
+
+.ll-tree-node a span {
+    text-decoration: none;
+    padding: 1px 3px 1px 2px;
+}
+
+.ll-tree-node a:hover {
+    text-decoration: none;
+}
+
+.ll-tree-node .ll-tree-selected {
+    background-color: #3498DB !important;
+    color: #fff;
+}
+
+.ll-tree-node .ll-tree-selected a span {
+    color: #fff;
+}
+
+.ll-tree-node .ll-tree-selected i {
+    color: #fff;
+}
+
+.ll-tree-node-el {
+    position:relative;
+    line-height: 25px;
+    cursor: default;
+    cursor: pointer;
+}
+
+.ll-tree-node-el:hover {
+    background-color: #eee;
+}
+
+.ll-tree-loading {
+    position: absolute;
+    top: 3px;
+    right: 5px;
+    display:none;
+}
+.ll-tree-loading > img {
+    height: 14px;
+    width: 14px;
+}
+

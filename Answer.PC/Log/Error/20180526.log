@@ -1,0 +1,72 @@
+﻿2018-05-26 12:41:38
+Url：/Goods/Tea/Edit?id=0
+Message：无法对 null 引用执行运行时绑定
+
+2018-05-26 12:41:38
+Url：/Goods/Tea/Edit?id=0
+Message：无法对 null 引用执行运行时绑定
+
+2018-05-26 12:48:42
+Url：/Goods/Tea/Edit?id=0
+Message：无法对 null 引用执行运行时绑定
+
+2018-05-26 12:48:42
+Url：/Goods/Tea/Edit?id=0
+Message：无法对 null 引用执行运行时绑定
+
+2018-05-26 12:49:03
+Url：/Goods/Tea/Edit?id=0
+Message：无法对 null 引用执行运行时绑定
+
+2018-05-26 12:49:04
+Url：/Goods/Tea/Edit?id=0
+Message：无法对 null 引用执行运行时绑定
+
+2018-05-26 17:36:59
+Url：/Goods/Tea/EditGoods?id=0&pid=0
+Message：e:\Projects\Tencent\DaAn\DaAn-Manage\Answer.PC\Areas\Goods\Views\Tea\EditGoods.cshtml(94): error CS1061: “Entity.T_Goods”不包含“logo”的定义，并且找不到可接受类型为“Entity.T_Goods”的第一个参数的扩展方法“logo”(是否缺少 using 指令或程序集引用?)
+
+2018-05-26 17:36:59
+Url：/Goods/Tea/EditGoods?id=0&pid=0
+Message：e:\Projects\Tencent\DaAn\DaAn-Manage\Answer.PC\Areas\Goods\Views\Tea\EditGoods.cshtml(94): error CS1061: “Entity.T_Goods”不包含“logo”的定义，并且找不到可接受类型为“Entity.T_Goods”的第一个参数的扩展方法“logo”(是否缺少 using 指令或程序集引用?)
+
+2018-05-26 17:37:08
+Url：/Goods/Tea/EditGoods?id=0&pid=0
+Message：e:\Projects\Tencent\DaAn\DaAn-Manage\Answer.PC\Areas\Goods\Views\Tea\EditGoods.cshtml(94): error CS1061: “Entity.T_Goods”不包含“logo”的定义，并且找不到可接受类型为“Entity.T_Goods”的第一个参数的扩展方法“logo”(是否缺少 using 指令或程序集引用?)
+
+2018-05-26 17:37:08
+Url：/Goods/Tea/EditGoods?id=0&pid=0
+Message：e:\Projects\Tencent\DaAn\DaAn-Manage\Answer.PC\Areas\Goods\Views\Tea\EditGoods.cshtml(94): error CS1061: “Entity.T_Goods”不包含“logo”的定义，并且找不到可接受类型为“Entity.T_Goods”的第一个参数的扩展方法“logo”(是否缺少 using 指令或程序集引用?)
+
+2018-05-26 17:37:40
+Url：/Goods/Tea/EditGoods?id=0&pid=0
+Message：e:\Projects\Tencent\DaAn\DaAn-Manage\Answer.PC\Areas\Goods\Views\Tea\EditGoods.cshtml(93): error CS1061: “Entity.T_Goods”不包含“logo”的定义，并且找不到可接受类型为“Entity.T_Goods”的第一个参数的扩展方法“logo”(是否缺少 using 指令或程序集引用?)
+
+2018-05-26 17:37:40
+Url：/Goods/Tea/EditGoods?id=0&pid=0
+Message：e:\Projects\Tencent\DaAn\DaAn-Manage\Answer.PC\Areas\Goods\Views\Tea\EditGoods.cshtml(93): error CS1061: “Entity.T_Goods”不包含“logo”的定义，并且找不到可接受类型为“Entity.T_Goods”的第一个参数的扩展方法“logo”(是否缺少 using 指令或程序集引用?)
+
+2018-05-26 17:39:21
+Url：/Goods/Tea/EditGoods?id=0&pid=0
+Message：e:\Projects\Tencent\DaAn\DaAn-Manage\Answer.PC\Areas\Goods\Views\Tea\EditGoods.cshtml(90): error CS1061: “Entity.T_Goods”不包含“logo”的定义，并且找不到可接受类型为“Entity.T_Goods”的第一个参数的扩展方法“logo”(是否缺少 using 指令或程序集引用?)
+
+2018-05-26 17:39:21
+Url：/Goods/Tea/EditGoods?id=0&pid=0
+Message：e:\Projects\Tencent\DaAn\DaAn-Manage\Answer.PC\Areas\Goods\Views\Tea\EditGoods.cshtml(90): error CS1061: “Entity.T_Goods”不包含“logo”的定义，并且找不到可接受类型为“Entity.T_Goods”的第一个参数的扩展方法“logo”(是否缺少 using 指令或程序集引用?)
+
+2018-05-26 17:39:39
+Url：/Goods/Tea/EditGoods?id=0&pid=0
+Message：e:\Projects\Tencent\DaAn\DaAn-Manage\Answer.PC\Areas\Goods\Views\Tea\EditGoods.cshtml(90): error CS1061: “Entity.T_Goods”不包含“logo”的定义，并且找不到可接受类型为“Entity.T_Goods”的第一个参数的扩展方法“logo”(是否缺少 using 指令或程序集引用?)
+
+2018-05-26 17:39:39
+Url：/Goods/Tea/EditGoods?id=0&pid=0
+Message：e:\Projects\Tencent\DaAn\DaAn-Manage\Answer.PC\Areas\Goods\Views\Tea\EditGoods.cshtml(90): error CS1061: “Entity.T_Goods”不包含“logo”的定义，并且找不到可接受类型为“Entity.T_Goods”的第一个参数的扩展方法“logo”(是否缺少 using 指令或程序集引用?)
+
+2018-05-26 17:47:04
+Url：/Goods/Tea/EditGoods?id=0&pid=0
+Message：e:\Projects\Tencent\DaAn\DaAn-Manage\Answer.PC\Areas\Goods\Views\Tea\EditGoods.cshtml(82): error CS1061: “Entity.T_Goods”不包含“shopName”的定义，并且找不到可接受类型为“Entity.T_Goods”的第一个参数的扩展方法“shopName”(是否缺少 using 指令或程序集引用?)
+
+2018-05-26 17:47:04
+Url：/Goods/Tea/EditGoods?id=0&pid=0
+Message：e:\Projects\Tencent\DaAn\DaAn-Manage\Answer.PC\Areas\Goods\Views\Tea\EditGoods.cshtml(82): error CS1061: “Entity.T_Goods”不包含“shopName”的定义，并且找不到可接受类型为“Entity.T_Goods”的第一个参数的扩展方法“shopName”(是否缺少 using 指令或程序集引用?)
+

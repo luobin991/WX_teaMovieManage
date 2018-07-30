@@ -1,0 +1,68 @@
+﻿2018-05-22 14:51:00
+Url：/ShopManage/Shop/Index
+Message：c:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\999f210d\9eee6876\App_Web_index.cshtml.ff042d58.gpfajp3q.0.cs(341): error CS1528: 应输入“;”或“=”(无法在声明中指定构造函数参数)
+
+2018-05-22 14:51:00
+Url：/ShopManage/Shop/Index
+Message：c:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\999f210d\9eee6876\App_Web_index.cshtml.ff042d58.gpfajp3q.0.cs(341): error CS1528: 应输入“;”或“=”(无法在声明中指定构造函数参数)
+
+2018-05-22 14:52:07
+Url：/ShopManage/Shop/Index
+Message：无法对 null 引用执行运行时绑定
+
+2018-05-22 14:52:07
+Url：/ShopManage/Shop/Index
+Message：无法对 null 引用执行运行时绑定
+
+2018-05-22 14:55:00
+Url：/ShopManage/Shop/SaveShopInfo
+Message：Data too long for column 'logo' at row 1
+
+2018-05-22 14:55:00
+Url：/ShopManage/Shop/SaveShopInfo
+Message：Data too long for column 'logo' at row 1
+
+2018-05-22 14:55:39
+Url：/ShopManage/Shop/SaveShopInfo
+Message：Data too long for column 'logo' at row 1
+
+2018-05-22 14:55:39
+Url：/ShopManage/Shop/SaveShopInfo
+Message：Data too long for column 'logo' at row 1
+
+2018-05-22 14:56:24
+Url：/ShopManage/Shop/SaveShopInfo
+Message：Incorrect datetime value: '0001-01-01 00:00:00 ' for column 'createTime' at row 1
+
+2018-05-22 14:56:24
+Url：/ShopManage/Shop/SaveShopInfo
+Message：Incorrect datetime value: '0001-01-01 00:00:00 ' for column 'createTime' at row 1
+
+2018-05-22 15:36:36
+Url：/ShopManage/Shop/Edit
+Message：对于“Answer.PC.Areas.ShopManage.Controllers.ShopController”中方法“System.Web.Mvc.ActionResult Edit(Int32)”的不可以为 null 的类型“System.Int32”的参数“id”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-05-22 15:36:36
+Url：/ShopManage/Shop/Edit
+Message：对于“Answer.PC.Areas.ShopManage.Controllers.ShopController”中方法“System.Web.Mvc.ActionResult Edit(Int32)”的不可以为 null 的类型“System.Int32”的参数“id”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-05-22 15:37:04
+Url：/ShopManage/Shop/Edit
+Message：对于“Answer.PC.Areas.ShopManage.Controllers.ShopController”中方法“System.Web.Mvc.ActionResult Edit(Int32)”的不可以为 null 的类型“System.Int32”的参数“id”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-05-22 15:37:04
+Url：/ShopManage/Shop/Edit
+Message：对于“Answer.PC.Areas.ShopManage.Controllers.ShopController”中方法“System.Web.Mvc.ActionResult Edit(Int32)”的不可以为 null 的类型“System.Int32”的参数“id”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-05-22 17:17:02
+Url：/ShopManage/Shop/Edit?id=0
+Message：无法对 null 引用执行运行时绑定
+
+2018-05-22 17:17:02
+Url：/ShopManage/Shop/Edit?id=0
+Message：无法对 null 引用执行运行时绑定
+

@@ -1,0 +1,131 @@
+﻿
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_CustmerFormPreview.cshtml";
+}
+<link href="~/Content/viewCSS_JS/imgUpload/Style.css" rel="stylesheet" />
+<div class="ll-layout">
+    <div class="ll-layout-center">
+        <div class="ll-layout-wrap ll-layout-wrap-notitle" style="padding-top:5px">
+            <form role="form" class="form-horizontal">
+
+                <div class="form-group">
+                    <label for="firstname" class="col-sm-2 control-label">店铺LOGO：</label>
+                    <div class="col-sm-8">
+
+                        <div class="file_upload">
+                            <div class="file_con">
+                                <div>
+                                    <input type="file" class="hide" id="upload"><a class="file_uploader">上传单个文件</a>
+                                </div>
+                                <div class="img_holder"></div>
+
+                            </div>
+                            <span class="progress"></span>
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="lastname" class="col-sm-2 control-label">店铺名称：</label>
+                    <div class="col-sm-8">
+                        <input type="text" class="form-control" id="shopName" isvalid="yes" checkexpession="NotNull" placeholder="" value="@Model.shopName">
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="lastname" class="col-sm-2 control-label">店铺电话：</label>
+                    <div class="col-sm-8">
+                        <input type="text" class="form-control" id="shopPhone" isvalid="yes" checkexpession="MobileOrPhone" placeholder="" value="@Model.shopPhone">
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="lastname" class="col-sm-2 control-label">店铺地址：</label>
+                    <div class="col-sm-8">
+                        <input type="text" class="form-control" id="shopAddress"isvalid="yes" checkexpession="NotNull" placeholder="" value="@Model.shopAddress">
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="lastname" class="col-sm-2 control-label">店铺坐标：</label>
+                    <div class="col-sm-8">
+                        <input type="text" class="form-control" id="shopCo_ordinate" placeholder="例如：22.504410,113.953740" value="@Model.shopCo_ordinate">
+                    </div>
+                    <div class="col-sm-2"><a href="http://lbs.qq.com/tool/getpoint/" target="_blank"> *点击获取地理位置</a></div>
+                </div>
+
+                <div class="form-group">
+                    <label for="lastname" class="col-sm-2 control-label">店铺简介：</label>
+                    <div class="col-sm-8">
+                        <textarea class="form-control" id="shopInfo" rows="6">@Model.shopInfo</textarea>
+                    </div>
+                </div>
+
+                @*<div class="form-group">
+                        <div class="col-sm-offset-2 col-sm-8">
+                            <button type="button" onclick="save()" class="btn btn-default">提交</button>
+                        </div>
+                    </div>*@
+            </form>
+
+        </div>
+    </div>
+</div>
+<script src="~/Content/viewCSS_JS/imgUpload/file.js"></script>
+<script type="text/javascript">
+    var imgURL = "@Model.logo";
+
+    
+    var acceptClick;
+    var bootstrap = function ($, luoluo) {
+        "use strict";
+
+        // 保存数据
+        acceptClick = function (callBack) {
+            if (imgURL == "") {
+                $.top.luoluo.tipshow("店铺LOGO", true);
+                return false;
+            }
+    
+            if ($.lrValidCustmerform() == false) {
+                return false;
+            }
+
+            //if ($("#shopName").val() == "") {
+            //    tipshow("店铺名称", true);
+            //    return false;
+            //}
+            //if ($("#shopPhone").val() == "") {
+            //    tipshow("店铺电话", true);
+            //    return false;
+            //}
+            //if ($("#shopAddress").val() == "") {
+            //    tipshow("店铺地址", true);
+            //    return false;
+            //}
+            var data = {
+                id: '@Model.id',
+                logo: imgURL,
+                shopName: $.trim($("#shopName").val()),
+                shopPhone: $.trim($("#shopPhone").val()),
+                shopAddress: $.trim($("#shopAddress").val()),
+                shopCo_ordinate: $.trim($("#shopCo_ordinate").val()),
+                shopInfo: $.trim($("#shopInfo").val())
+            }
+
+            //lrPostForm
+            $.llSaveForm(top.$.rootUrl + "/ShopManage/Shop/SaveShopInfo", data, function (res) {
+                // 保存成功后才回调
+                if (!!callBack) {
+                    callBack();
+                }
+            });
+        };
+
+        $(".img_holder").html('<div class="img_box"><img src="@Model.logo" /></div></div>');
+
+        file.init();
+    }
+</script>

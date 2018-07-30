@@ -1,0 +1,157 @@
+﻿2018-04-02 16:09:42
+错误编号:2018040216094197X7218010c56
+Message:无法连接到远程服务器
+Type:System.Net.WebException
+Source:System
+StackTrace:   在 System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   在 System.Net.WebClient.UploadData(Uri address, String method, Byte[] data)
+   在 System.Net.WebClient.UploadData(String address, String method, Byte[] data)
+   在 Game.Common.WebCommon.APIPostBack(String url, String posts, Boolean check, String contentType) 位置 E:\Projects\网站运营后台\Game.H5\Game.Common\WebCommon.cs:行号 179
+Method:UploadDataInternal
+Class:System.Net.WebClient
+UserIP:::1
+UserName:
+CompanyID:0
+CompanyName:
+BaseException:
+System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.0.108:2113
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+2018-04-02 16:09:42
+Url：/User/User/CKfangka
+Message：未将对象引用设置到对象的实例。
+
+2018-04-02 16:09:42
+Url：/User/User/CKfangka
+Message：未将对象引用设置到对象的实例。
+
+2018-04-02 16:34:36
+Url：/ClubModule/Agent/GetAgentPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522658076846
+Message：对于“Game.H5.Areas.ClubModule.Controllers.AgentController”中方法“System.Web.Mvc.ActionResult GetAgentPage(System.String, System.String, System.String, System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“id”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-04-02 16:34:36
+Url：/ClubModule/Agent/GetAgentPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522658076846
+Message：对于“Game.H5.Areas.ClubModule.Controllers.AgentController”中方法“System.Web.Mvc.ActionResult GetAgentPage(System.String, System.String, System.String, System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“id”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-04-02 16:34:47
+Url：/ClubModule/Agent/GetAgentPage?sdate=&edate=&keyword=&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522658076847
+Message：对于“Game.H5.Areas.ClubModule.Controllers.AgentController”中方法“System.Web.Mvc.ActionResult GetAgentPage(System.String, System.String, System.String, System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“id”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-04-02 16:34:47
+Url：/ClubModule/Agent/GetAgentPage?sdate=&edate=&keyword=&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522658076847
+Message：对于“Game.H5.Areas.ClubModule.Controllers.AgentController”中方法“System.Web.Mvc.ActionResult GetAgentPage(System.String, System.String, System.String, System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“id”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-04-02 16:34:48
+Url：/ClubModule/Agent/GetAgentPage?sdate=&edate=&keyword=&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522658076848
+Message：对于“Game.H5.Areas.ClubModule.Controllers.AgentController”中方法“System.Web.Mvc.ActionResult GetAgentPage(System.String, System.String, System.String, System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“id”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-04-02 16:34:48
+Url：/ClubModule/Agent/GetAgentPage?sdate=&edate=&keyword=&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522658076848
+Message：对于“Game.H5.Areas.ClubModule.Controllers.AgentController”中方法“System.Web.Mvc.ActionResult GetAgentPage(System.String, System.String, System.String, System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“id”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-04-02 16:35:47
+Url：/ClubModule/Agent/GetAgentPage?sdate=&edate=&keyword=&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522658076849
+Message：对于“Game.H5.Areas.ClubModule.Controllers.AgentController”中方法“System.Web.Mvc.ActionResult GetAgentPage(System.String, System.String, System.String, System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“id”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-04-02 16:35:47
+Url：/ClubModule/Agent/GetAgentPage?sdate=&edate=&keyword=&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522658076849
+Message：对于“Game.H5.Areas.ClubModule.Controllers.AgentController”中方法“System.Web.Mvc.ActionResult GetAgentPage(System.String, System.String, System.String, System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“id”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-04-02 16:35:53
+Url：/ClubModule/Agent/GetAgentPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522658153557
+Message：对于“Game.H5.Areas.ClubModule.Controllers.AgentController”中方法“System.Web.Mvc.ActionResult GetAgentPage(System.String, System.String, System.String, System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“id”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-04-02 16:35:53
+Url：/ClubModule/Agent/GetAgentPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522658153557
+Message：对于“Game.H5.Areas.ClubModule.Controllers.AgentController”中方法“System.Web.Mvc.ActionResult GetAgentPage(System.String, System.String, System.String, System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“id”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-04-02 17:21:48
+Url：/ClubModule/Agent/GetAgentPage?id=0&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522660908421
+Message：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 0,50' at line 12
+
+2018-04-02 17:21:48
+Url：/ClubModule/Agent/GetAgentPage?id=0&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522660908421
+Message：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 0,50' at line 12
+
+2018-04-02 17:21:55
+Url：/ClubModule/Agent/GetAgentPage?id=0&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522660915584
+Message：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 0,50' at line 12
+
+2018-04-02 17:21:55
+Url：/ClubModule/Agent/GetAgentPage?id=0&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522660915584
+Message：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 0,50' at line 12
+
+2018-04-02 17:22:08
+Url：/ClubModule/Agent/GetAgentPage?id=0&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522660928223
+Message：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 0,50' at line 12
+
+2018-04-02 17:22:08
+Url：/ClubModule/Agent/GetAgentPage?id=0&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522660928223
+Message：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 0,50' at line 12
+
+2018-04-02 17:22:22
+Url：/ClubModule/Agent/GetAgentPage?id=0&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522660942034
+Message：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 0,50' at line 12
+
+2018-04-02 17:22:22
+Url：/ClubModule/Agent/GetAgentPage?id=0&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522660942034
+Message：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 0,50' at line 12
+
+2018-04-02 17:27:10
+Url：/ClubModule/Agent/GetAgentPage?id=0&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22UserDiamond%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522661226600
+Message：Unknown column 'UserDiamond' in 'order clause'
+
+2018-04-02 17:27:10
+Url：/ClubModule/Agent/GetAgentPage?id=0&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22UserDiamond%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522661226600
+Message：Unknown column 'UserDiamond' in 'order clause'
+
+2018-04-02 17:27:11
+Url：/ClubModule/Agent/GetAgentPage?id=0&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22UserDiamond%22%2C%22sord%22%3A%22DESC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522661226601
+Message：Unknown column 'UserDiamond' in 'order clause'
+
+2018-04-02 17:27:11
+Url：/ClubModule/Agent/GetAgentPage?id=0&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22UserDiamond%22%2C%22sord%22%3A%22DESC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522661226601
+Message：Unknown column 'UserDiamond' in 'order clause'
+
+2018-04-02 17:31:07
+Url：/ClubModule/Agent/GetAgentPage?id=0&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22wxId%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522661452572
+Message：Column 'wxId' in order clause is ambiguous
+
+2018-04-02 17:31:07
+Url：/ClubModule/Agent/GetAgentPage?id=0&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22wxId%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522661452572
+Message：Column 'wxId' in order clause is ambiguous
+
+2018-04-02 17:31:08
+Url：/ClubModule/Agent/GetAgentPage?id=0&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22wxId%22%2C%22sord%22%3A%22DESC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522661452573
+Message：Column 'wxId' in order clause is ambiguous
+
+2018-04-02 17:31:08
+Url：/ClubModule/Agent/GetAgentPage?id=0&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22wxId%22%2C%22sord%22%3A%22DESC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522661452573
+Message：Column 'wxId' in order clause is ambiguous
+
+2018-04-02 17:32:15
+Url：/ClubModule/Agent/GetAgentPage?id=10210&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22wxId%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522661525505
+Message：Column 'wxId' in order clause is ambiguous
+
+2018-04-02 17:32:15
+Url：/ClubModule/Agent/GetAgentPage?id=10210&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22wxId%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522661525505
+Message：Column 'wxId' in order clause is ambiguous
+
+2018-04-02 17:32:16
+Url：/ClubModule/Agent/GetAgentPage?id=10210&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22wxId%22%2C%22sord%22%3A%22DESC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522661525506
+Message：Column 'wxId' in order clause is ambiguous
+
+2018-04-02 17:32:16
+Url：/ClubModule/Agent/GetAgentPage?id=10210&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22wxId%22%2C%22sord%22%3A%22DESC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522661525506
+Message：Column 'wxId' in order clause is ambiguous
+

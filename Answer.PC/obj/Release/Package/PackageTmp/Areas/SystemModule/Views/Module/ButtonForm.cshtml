@@ -1,0 +1,29 @@
+﻿@{
+    ViewBag.Title = "新增功能按钮";
+    Layout = "~/Views/Shared/_Form.cshtml";
+}
+<div class="ll-form-wrap" id="form">
+    <input id="ModuleButtonId" type="hidden" value="@Guid.NewGuid().ToString()" />
+    <div class="col-xs-12 ll-form-item">
+        <div class="ll-form-item-title">上级</div>
+        <div id="ParentId"></div>
+    </div>
+    <div class="col-xs-12 ll-form-item">
+        <div class="ll-form-item-title">编号<font face="宋体">*</font></div>
+        <input id="EnCode" type="text" class="form-control" placeholder="请输入编号" isvalid="yes" checkexpession="NotNull" />
+    </div>
+    <div class="col-xs-12 ll-form-item">
+        <div class="ll-form-item-title">名称<font face="宋体">*</font></div>
+        <input id="FullName" type="text" class="form-control" placeholder="请输入名称" isvalid="yes" checkexpession="NotNull" />
+    </div>
+    <div class="col-xs-12 ll-form-item">
+        <div class="ll-form-item-title">排序<font face="宋体">*</font></div>
+        <input id="SortCode" type="text" class="form-control" placeholder="请输入排序号" isvalid="yes" checkexpession="Num" />
+    </div>
+    <div class="col-xs-12 ll-form-item">
+        <div class="ll-form-item-title">地址</div>
+        <input id="ActionAddress" type="text" class="form-control" placeholder="请输入URL地址" />
+    </div>
+</div>
+@*@Html.AppendJsFile("/Areas/SystemModule/Content/Module_ButtonForm.js")*@
+<script src="~/Areas/SystemModule/Content/Module_ButtonForm.js"></script>

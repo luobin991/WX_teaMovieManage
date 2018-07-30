@@ -1,0 +1,160 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Index.cshtml";
+    //Entity.T_ShopInfo model = ;
+}
+
+<style>
+    .form-group {
+        margin-top: 30px;
+    }
+
+    .file_con .hide:hover {
+        box-shadow: 1px 2px #44795b;
+    }
+
+    .img_holder, .m_img_holder {
+        padding-top: 20px;
+    }
+
+        .img_holder img, .m_img_holder img {
+            max-width: 200px;
+        }
+
+    .img_box {
+        position: relative;
+        display: inline-block;
+        vertical-align: top;
+        border: 1px transparent dashed;
+        padding: 12px;
+        box-shadow: 2px 2px 10px #ccc;
+    }
+
+        .img_box:hover .delete {
+            display: block;
+        }
+
+        .img_box .delete {
+            position: absolute;
+            right: 1px;
+            top: 0;
+            display: none;
+            font-family: Arial;
+            font-size: 12px;
+            cursor: pointer;
+        }
+</style>
+
+
+<div class="ll-layout">
+    <div class="ll-layout-center">
+        <div class="ll-layout-wrap ll-layout-wrap-notitle">
+            <div class="ll-layout-tool">
+                <div class="ll-layout-tool-left">
+                </div>
+                <div class="ll-layout-tool-right">
+                    <div class=" btn-group btn-group-sm">
+                        <a id="ll_refresh" class="btn btn-default"><i class="fa fa-refresh"></i></a>
+                    </div>
+                    <div class="btn-group btn-group-sm" luoluo-authorize="not">
+                        <a id="ll_edit" class="btn btn-default"><i class="fa fa-pencil-square-o"></i>&nbsp;编辑</a>
+                    </div>
+
+                </div>
+            </div>
+            <div class="ll-layout-body">
+                <form role="form" class="form-horizontal">
+                    <input type="hidden" id="entityId" value="@Model.id" />
+                    <div class="form-group">
+                        <label for="firstname" class="col-sm-2 control-label">店铺LOGO：</label>
+                        <div class="col-sm-8">
+                            <div class="file_upload">
+                                <div class="file_con">
+                                    <div class="img_holder"><div class="img_box"><img src="@Model.logo" /></div></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="lastname" class="col-sm-2 control-label">店铺名称：</label>
+                        <div class="col-sm-8">
+                            <div><pre>@Model.shopName </pre></div>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="lastname" class="col-sm-2 control-label">店铺电话：</label>
+                        <div class="col-sm-8">
+                            <div><pre>@Model.shopPhone </pre></div>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="lastname" class="col-sm-2 control-label">店铺地址：</label>
+                        <div class="col-sm-8">
+                            <div><pre>@Model.shopAddress </pre></div>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="lastname" class="col-sm-2 control-label">店铺坐标：</label>
+                        <div class="col-sm-8">
+                            <div><pre>@Model.shopCo_ordinate</pre></div>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="lastname" class="col-sm-2 control-label">店铺简介：</label>
+                        <div class="col-sm-8">
+                            <div><pre>@Model.shopInfo </pre></div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    var refreshGirdData;
+    var bootstrap = function ($, luoluo) {
+        "use strict";
+        var page = {
+            bind: function () {
+                // 刷新
+                $('#ll_refresh').on('click', function () {
+                    location.reload();
+                });
+                // 编辑
+                $('#ll_edit').on('click', function () {
+                    var keyValue = $('#entityId').val();
+
+                    if (luoluo.checkrow(keyValue)) {
+                        luoluo.layerForm({
+                            id: 'form',
+                            title: '编辑',
+                            url: top.$.rootUrl + '/ShopManage/Shop/Edit?id=' + keyValue,
+                            width: 900,
+                            height: 880,
+                            maxmin: true,
+                            callBack: function (id) {
+                                return top[id].acceptClick(refreshGirdData);
+                            }
+                        });
+                    }
+                });
+            }
+        };
+
+        // 保存数据后回调刷新
+        refreshGirdData = function () {
+            //top.layer.closeAll();
+            location.reload();
+        };
+
+        page.bind();
+    }
+</script>

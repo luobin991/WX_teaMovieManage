@@ -1,0 +1,112 @@
+﻿2018-05-28 15:27:17
+Url：/Goods/Tea/SaveGoodsTea
+Message：Column 'img' cannot be null
+
+2018-05-28 15:27:17
+Url：/Goods/Tea/SaveGoodsTea
+Message：Column 'img' cannot be null
+
+2018-05-28 15:28:41
+Url：/Goods/Tea/SaveGoodsTea
+Message：Column 'img' cannot be null
+
+2018-05-28 15:28:41
+Url：/Goods/Tea/SaveGoodsTea
+Message：Column 'img' cannot be null
+
+2018-05-28 15:29:21
+Url：/Goods/Tea/SaveGoodsTea
+Message：Packets larger than max_allowed_packet are not allowed.
+
+2018-05-28 15:29:21
+Url：/Goods/Tea/SaveGoodsTea
+Message：Packets larger than max_allowed_packet are not allowed.
+
+2018-05-28 15:44:35
+Url：/Goods/Tea/SaveGoodsTea
+Message：Packets larger than max_allowed_packet are not allowed.
+
+2018-05-28 15:44:35
+Url：/Goods/Tea/SaveGoodsTea
+Message：Packets larger than max_allowed_packet are not allowed.
+
+2018-05-28 15:44:50
+Url：/Goods/Tea/SaveGoodsTea
+Message：Data too long for column 'img' at row 1
+
+2018-05-28 15:44:50
+Url：/Goods/Tea/SaveGoodsTea
+Message：Data too long for column 'img' at row 1
+
+2018-05-28 15:46:02
+Url：/Goods/Tea/SaveGoodsTea
+Message：Data too long for column 'img' at row 1
+
+2018-05-28 15:46:02
+Url：/Goods/Tea/SaveGoodsTea
+Message：Data too long for column 'img' at row 1
+
+2018-05-28 15:47:05
+Url：/Goods/Tea/SaveGoodsTea
+Message：Data too long for column 'img' at row 1
+
+2018-05-28 15:47:05
+Url：/Goods/Tea/SaveGoodsTea
+Message：Data too long for column 'img' at row 1
+
+2018-05-28 15:47:45
+Url：/Goods/Tea/SaveGoodsTea
+Message：Data too long for column 'img' at row 1
+
+2018-05-28 15:47:45
+Url：/Goods/Tea/SaveGoodsTea
+Message：Data too long for column 'img' at row 1
+
+2018-05-28 15:49:16
+Url：/Goods/Tea/SaveGoodsTea
+Message：Packets larger than max_allowed_packet are not allowed.
+
+2018-05-28 15:49:16
+Url：/Goods/Tea/SaveGoodsTea
+Message：Packets larger than max_allowed_packet are not allowed.
+
+2018-05-28 15:49:25
+Url：/Goods/Tea/SaveGoodsTea
+Message：Packets larger than max_allowed_packet are not allowed.
+
+2018-05-28 15:49:25
+Url：/Goods/Tea/SaveGoodsTea
+Message：Packets larger than max_allowed_packet are not allowed.
+
+2018-05-28 15:49:37
+Url：/Goods/Tea/SaveGoodsTea
+Message：Out of range value for column 'Price' at row 1
+
+2018-05-28 15:49:37
+Url：/Goods/Tea/SaveGoodsTea
+Message：Out of range value for column 'Price' at row 1
+
+2018-05-28 15:49:52
+Url：/Goods/Tea/SaveGoodsTea
+Message：Out of range value for column 'Price' at row 1
+
+2018-05-28 15:49:52
+Url：/Goods/Tea/SaveGoodsTea
+Message：Out of range value for column 'Price' at row 1
+
+2018-05-28 15:49:59
+Url：/Goods/Tea/SaveGoodsTea
+Message：Out of range value for column 'Price' at row 1
+
+2018-05-28 15:49:59
+Url：/Goods/Tea/SaveGoodsTea
+Message：Out of range value for column 'Price' at row 1
+
+2018-05-28 16:51:00
+Url：/Goods/Tea/SaveGoodsTea
+Message：Incorrect datetime value: '0001-01-01 00:00:00 ' for column 'updateTime' at row 1
+
+2018-05-28 16:51:00
+Url：/Goods/Tea/SaveGoodsTea
+Message：Incorrect datetime value: '0001-01-01 00:00:00 ' for column 'updateTime' at row 1
+

@@ -1,0 +1,80 @@
+﻿2018-05-25 12:23:52
+Url：/configManage/goodslable/GetPageList?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22createTime%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527222222590
+Message：Error parsing column 4 (createTime=Unable to convert MySQL date/time value to System.DateTime)
+
+2018-05-25 12:23:53
+Url：/configManage/goodslable/GetPageList?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22createTime%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527222222590
+Message：Error parsing column 4 (createTime=Unable to convert MySQL date/time value to System.DateTime)
+
+2018-05-25 12:25:11
+Url：/configManage/goodslable/GetPageList?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22createTime%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527222265783
+Message：Error parsing column 4 (createTime=Unable to convert MySQL date/time value to System.DateTime)
+
+2018-05-25 12:25:11
+Url：/configManage/goodslable/GetPageList?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22createTime%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527222265783
+Message：Error parsing column 4 (createTime=Unable to convert MySQL date/time value to System.DateTime)
+
+2018-05-25 15:59:28
+Url：/configManage/goodslable/GetDetailPageList?pid=&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22asc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527235167982
+Message：对于“Answer.PC.Areas.ConfigManage.Controllers.GoodsLableController”中方法“System.Web.Mvc.ActionResult GetDetailPageList(System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“pid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-05-25 15:59:28
+Url：/configManage/goodslable/GetDetailPageList?pid=&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22asc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527235167982
+Message：对于“Answer.PC.Areas.ConfigManage.Controllers.GoodsLableController”中方法“System.Web.Mvc.ActionResult GetDetailPageList(System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“pid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-05-25 15:59:35
+Url：/configManage/goodslable/GetDetailPageList?pid=&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22asc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527235175465
+Message：对于“Answer.PC.Areas.ConfigManage.Controllers.GoodsLableController”中方法“System.Web.Mvc.ActionResult GetDetailPageList(System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“pid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-05-25 15:59:35
+Url：/configManage/goodslable/GetDetailPageList?pid=&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22asc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527235175465
+Message：对于“Answer.PC.Areas.ConfigManage.Controllers.GoodsLableController”中方法“System.Web.Mvc.ActionResult GetDetailPageList(System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“pid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-05-25 16:01:50
+Url：/configManage/goodslable/GetDetailPageList?pid=&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22asc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527235310649
+Message：对于“Answer.PC.Areas.ConfigManage.Controllers.GoodsLableController”中方法“System.Web.Mvc.ActionResult GetDetailPageList(System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“pid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-05-25 16:01:51
+Url：/configManage/goodslable/GetDetailPageList?pid=&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22asc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527235310649
+Message：对于“Answer.PC.Areas.ConfigManage.Controllers.GoodsLableController”中方法“System.Web.Mvc.ActionResult GetDetailPageList(System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“pid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-05-25 16:03:06
+Url：/configManage/goodslable/GetDetailPageList?pid=&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22asc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527235386258
+Message：对于“Answer.PC.Areas.ConfigManage.Controllers.GoodsLableController”中方法“System.Web.Mvc.ActionResult GetDetailPageList(System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“pid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-05-25 16:03:06
+Url：/configManage/goodslable/GetDetailPageList?pid=&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22asc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527235386258
+Message：对于“Answer.PC.Areas.ConfigManage.Controllers.GoodsLableController”中方法“System.Web.Mvc.ActionResult GetDetailPageList(System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“pid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-05-25 17:13:34
+Url：/configManage/goodslable/GetDetailPageList?pid=5&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22asc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527239597226
+Message：Error parsing column 3 (updateTime=Unable to convert MySQL date/time value to System.DateTime)
+
+2018-05-25 17:13:34
+Url：/configManage/goodslable/GetDetailPageList?pid=5&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22asc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527239597226
+Message：Error parsing column 3 (updateTime=Unable to convert MySQL date/time value to System.DateTime)
+
+2018-05-25 17:16:01
+Url：/configManage/goodslable/GetDetailPageList?pid=5&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22asc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527239714912
+Message：Error parsing column 3 (updateTime=Unable to convert MySQL date/time value to System.DateTime)
+
+2018-05-25 17:16:01
+Url：/configManage/goodslable/GetDetailPageList?pid=5&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22asc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527239714912
+Message：Error parsing column 3 (updateTime=Unable to convert MySQL date/time value to System.DateTime)
+
+2018-05-25 17:16:04
+Url：/configManage/goodslable/GetDetailPageList?pid=5&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22asc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527239764470
+Message：Error parsing column 3 (updateTime=Unable to convert MySQL date/time value to System.DateTime)
+
+2018-05-25 17:16:05
+Url：/configManage/goodslable/GetDetailPageList?pid=5&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22asc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1527239764470
+Message：Error parsing column 3 (updateTime=Unable to convert MySQL date/time value to System.DateTime)
+

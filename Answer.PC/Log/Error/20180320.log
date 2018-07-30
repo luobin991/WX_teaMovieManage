@@ -1,0 +1,30 @@
+﻿2018-03-20 09:55:57
+Url：/ClubModule/Club/GetClubUserList?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1521510957275
+Message：对于“Game.H5.Areas.ClubModule.Controllers.ClubController”中方法“System.Web.Mvc.ActionResult GetClubUserList(System.String, Int32, System.String, System.String, System.String)”的不可以为 null 的类型“System.Int32”的参数“clubid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-03-20 09:55:57
+Url：/ClubModule/Club/GetClubUserList?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1521510957275
+Message：对于“Game.H5.Areas.ClubModule.Controllers.ClubController”中方法“System.Web.Mvc.ActionResult GetClubUserList(System.String, Int32, System.String, System.String, System.String)”的不可以为 null 的类型“System.Int32”的参数“clubid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-03-20 09:57:47
+Url：/ClubModule/Club/GetClubDetailPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1521511067485
+Message：对于“Game.H5.Areas.ClubModule.Controllers.ClubController”中方法“System.Web.Mvc.ActionResult GetClubDetailPage(System.String, System.String, System.String, System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“clubid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-03-20 09:57:47
+Url：/ClubModule/Club/GetClubDetailPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1521511067485
+Message：对于“Game.H5.Areas.ClubModule.Controllers.ClubController”中方法“System.Web.Mvc.ActionResult GetClubDetailPage(System.String, System.String, System.String, System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“clubid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-03-20 09:57:52
+Url：/ClubModule/Club/GetClubDetailPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1521511072409
+Message：对于“Game.H5.Areas.ClubModule.Controllers.ClubController”中方法“System.Web.Mvc.ActionResult GetClubDetailPage(System.String, System.String, System.String, System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“clubid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+
+2018-03-20 09:57:52
+Url：/ClubModule/Club/GetClubDetailPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1521511072409
+Message：对于“Game.H5.Areas.ClubModule.Controllers.ClubController”中方法“System.Web.Mvc.ActionResult GetClubDetailPage(System.String, System.String, System.String, System.String, Int32)”的不可以为 null 的类型“System.Int32”的参数“clubid”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。
+参数名: parameters
+

@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta name=”renderer” content=”webkit|ie-comp|ie-stand” />
+    <meta name="viewport" content="width=device-width" />
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1,IE=edge">
+    <meta name="renderer" content="webkit">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="~/favicon.ico">
+
+    <title>ANSWER TEA</title>
+    <link href="~/Content/pace/pace-theme-loading-bar.css" rel="stylesheet" />
+    <link href="~/Content/font/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="~/Content/font/learunfont/iconfont.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/jquery/plugin/scrollbar/jquery.mCustomScrollbar.min.css" rel="stylesheet" />
+    <link href="~/Content/jquery/plugin/toastr/toastr.css" rel="stylesheet" />
+    @*@Html.RenderCssFile(
+    "/Content/viewCSS_JS/Content/style/ll-common.css",
+    "/Content/viewCSS_JS/Content/style/ll-admin.css",
+    "/Content/viewCSS_JS/Content/style/ll-layer.css",
+    "/Content/viewCSS_JS/Content/plugin/contextmenu/ll-contextmenu.css",
+    "/Content/viewCSS_JS/Content/plugin/im/ll-im.css"
+    )*@
+    <link href="~/Content/viewCSS_JS/Content/style/ll-common.css" rel="stylesheet" />
+    <link href="~/Content/viewCSS_JS/Content/style/ll-admin.css" rel="stylesheet" />
+    <link href="~/Content/viewCSS_JS/Content/style/ll-layer.css" rel="stylesheet" />
+    <link href="~/Content/viewCSS_JS/Content/plugin/contextmenu/ll-contextmenu.css" rel="stylesheet" />
+    <link href="~/Content/viewCSS_JS/Content/plugin/im/ll-im.css" rel="stylesheet" />
+
+    <script src="~/Content/pace/pace.min.js"></script>
+    <script src="~/Content/jquery/jquery-1.10.2.min.js"></script>
+    
+    <!--[if lt IE 9]>
+      <script src="~/Content/bootstrap/html5shiv.min.js"></script>
+      <script src="~/Content/bootstrap/respond.min.js"></script>
+    <![endif]-->
+
+
+    <script language="JavaScript">
+        if (window != top)
+          top.location.href = location.href;
+    </script>
+
+
+</head>
+<body class="">  @*@Learun.Util.Net.Browser @Learun.Util.WebHelper.GetUITheme()*@
+    <div class="ll-loadbg" id="lr_loadbg"></div>
+    @RenderBody()
+    <div class="ll-frame-top">
+        <a class="ll-logo-title"> ANSWER TEA <span>.</span> GUILIN</a>
+    </div>
+    <div class="ll-frame-menu"><div class="ll-frame-menu-wrap" id="lr_frame_menu"></div></div>
+    <div class="ll-frame-tabs">
+        <div class="ll-frame-tabs-wrap">
+            <ul id="lr_frame_tabs_ul"></ul>
+        </div>
+    </div>
+    <div class="ll-frame-main" id="lr_frame_main"><img src="~/Content/images/iframebg.png" /></div>
+
+   
+    <script src="~/Content/bootstrap/bootstrap.min.js"></script>
+    <script src="~/Content/jquery/plugin/layer/layer.js"></script>
+    <script src="~/Content/jquery/plugin/jquery.cookie.min.js"></script>
+    <script src="~/Content/jquery/jquery.md5.min.js"></script>
+    <script src="~/Content/jquery/plugin/scrollbar/jquery.mCustomScrollbar.concat.min.js"></script>
+    <script src="~/Content/jquery/plugin/toastr/toastr.min.js"></script>
+    <script>
+        $.rootUrl = '@Url.Content("~")'.substr(0, '@Url.Content("~")'.length - 1);
+        $.workflowapi = '@System.Configuration.ConfigurationManager.AppSettings["workflowapi"].ToString()';
+    </script>
+    @*@Html.RenderJsFile(
+    "/Content/viewCSS_JS/Content/script/ll-base.js",
+    "/Content/viewCSS_JS/Content/script/ll-tabs.js",
+    "/Content/viewCSS_JS/Content/script/ll-date.js",
+    "/Content/viewCSS_JS/Content/script/ll-validator-helper.js",
+    "/Content/viewCSS_JS/Content/script/ll-layer.js",
+    "/Content/viewCSS_JS/Content/script/ll-ajax.js",
+    "/Content/viewCSS_JS/Content/script/ll-clientdata.js",
+     
+    "/Content/viewCSS_JS/Content/plugin/workflow/ll-workflow-api.js",
+    "/Content/viewCSS_JS/Content/plugin/contextmenu/ll-contextmenu.js",
+    "/Content/viewCSS_JS/Content/plugin/im/ll-im.js",
+     
+    "/Content/viewCSS_JS/Content/script/ll-admin.js"
+    )*@
+    <script src="~/Content/viewCSS_JS/Content/script/ll-base.js"></script>
+    <script src="~/Content/viewCSS_JS/Content/script/ll-tabs.js"></script>
+    <script src="~/Content/viewCSS_JS/Content/script/ll-date.js"></script>
+    <script src="~/Content/viewCSS_JS/Content/script/ll-validator-helper.js"></script>
+    <script src="~/Content/viewCSS_JS/Content/script/ll-layer.js"></script>
+    <script src="~/Content/viewCSS_JS/Content/script/ll-ajax.js"></script>
+    <script src="~/Content/viewCSS_JS/Content/script/ll-clientdata.js"></script>
+    <script src="~/Content/viewCSS_JS/Content/plugin/workflow/ll-workflow-api.js"></script>
+    <script src="~/Content/viewCSS_JS/Content/plugin/contextmenu/ll-contextmenu.js"></script>
+    <script src="~/Content/viewCSS_JS/Content/plugin/im/ll-im.js"></script>
+    <script src="~/Content/viewCSS_JS/Content/script/ll-admin.js"></script>
+
+</body>
+</html>
+
+
+
+

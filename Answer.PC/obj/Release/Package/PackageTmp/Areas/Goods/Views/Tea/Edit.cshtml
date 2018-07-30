@@ -1,0 +1,40 @@
+﻿
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_CustmerFormPreview.cshtml";
+}
+
+<div class="ll-form-wrap" id="form">
+    <input type="hidden" id="id" value="@Model.id" />
+    <div class="col-xs-12 ll-form-item">
+        <div class="ll-form-item-title">名称：<font face="宋体">*</font></div>
+        <input id="lableName" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" value="@Model.lableName" />
+    </div>
+</div>
+
+<script type="text/javascript">
+
+    var acceptClick;
+    var bootstrap = function ($, luoluo) {
+        "use strict";
+        // 保存数据
+        acceptClick = function (callBack) {
+            if ($.lrValidCustmerform() == false) {
+                return false;
+            }
+
+            var data = {
+                id: $("#id").val(),
+                lableName: $.trim($("#lableName").val()),
+            }
+
+            //lrPostForm
+            $.llSaveForm(top.$.rootUrl + "/Goods/Tea/SaveLable", data, function (res) {
+                // 保存成功后才回调
+                if (!!callBack) {
+                    callBack();
+                }
+            });
+        };
+    }
+</script>

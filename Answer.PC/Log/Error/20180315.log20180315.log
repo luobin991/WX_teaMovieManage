@@ -1,0 +1,40 @@
+﻿2018-03-15 16:31:30
+Url：/User/User/GetUserLog?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1521102690261
+Message：Table 'linyun_game.t_user_loginlog' doesn't exist
+
+2018-03-15 16:31:30
+Url：/User/User/GetUserLog?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1521102690261
+Message：Table 'linyun_game.t_user_loginlog' doesn't exist
+
+2018-03-15 16:32:28
+Url：/ClubModule/Agent/SetUserforAgent
+Message：索引超出了数组界限。
+
+2018-03-15 16:32:28
+Url：/ClubModule/Agent/SetUserforAgent
+Message：索引超出了数组界限。
+
+2018-03-15 16:32:52
+Url：/User/User/GetUserLog?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1521102772863
+Message：Table 'linyun_game.t_user_loginlog' doesn't exist
+
+2018-03-15 16:32:53
+Url：/User/User/GetUserLog?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1521102772863
+Message：Table 'linyun_game.t_user_loginlog' doesn't exist
+
+2018-03-15 16:32:58
+Url：/ClubModule/Agent/SetUserforAgent
+Message：索引超出了数组界限。
+
+2018-03-15 16:32:58
+Url：/ClubModule/Agent/SetUserforAgent
+Message：索引超出了数组界限。
+
+2018-03-15 16:34:31
+Url：/ClubModule/Agent/SetUserforAgent
+Message：索引超出了数组界限。
+
+2018-03-15 16:34:31
+Url：/ClubModule/Agent/SetUserforAgent
+Message：索引超出了数组界限。
+

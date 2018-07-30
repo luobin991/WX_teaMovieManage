@@ -1,0 +1,56 @@
+﻿2018-06-29 10:30:21
+Url：/Goods/Tea/GetGoodsPage?pid=14&keyword=&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1530239411080
+Message：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2
+
+2018-06-29 10:30:21
+Url：/Goods/Tea/GetGoodsPage?pid=14&keyword=&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1530239411080
+Message：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2
+
+2018-06-29 15:59:52
+Url：/Goods/Tea/SaveGoodsTea
+Message：Packets larger than max_allowed_packet are not allowed.
+
+2018-06-29 15:59:52
+Url：/Goods/Tea/SaveGoodsTea
+Message：Packets larger than max_allowed_packet are not allowed.
+
+2018-06-29 16:19:13
+Url：/Goods/Tea/SaveGoodsTea
+Message：Packets larger than max_allowed_packet are not allowed.
+
+2018-06-29 16:19:13
+Url：/Goods/Tea/SaveGoodsTea
+Message：Packets larger than max_allowed_packet are not allowed.
+
+2018-06-29 17:42:58
+Url：/Goods/Tea/GetGoodsPage?pid=10&keyword=&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1530263673637
+Message：未将对象引用设置到对象的实例。
+
+2018-06-29 17:42:58
+Url：/Goods/Tea/GetGoodsPage?pid=10&keyword=&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1530263673637
+Message：未将对象引用设置到对象的实例。
+
+2018-06-29 17:43:50
+Url：/Goods/Tea/GetGoodsPage?pid=0&keyword=&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1530263673638
+Message：未将对象引用设置到对象的实例。
+
+2018-06-29 17:43:50
+Url：/Goods/Tea/GetGoodsPage?pid=0&keyword=&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1530263673638
+Message：未将对象引用设置到对象的实例。
+
+2018-06-29 18:47:15
+Url：/Goods/Tea/GetGoodsPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1530269223384
+Message：未将对象引用设置到对象的实例。
+
+2018-06-29 18:47:15
+Url：/Goods/Tea/GetGoodsPage?pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1530269223384
+Message：未将对象引用设置到对象的实例。
+
+2018-06-29 18:47:31
+Url：/Goods/Tea/GetGoodsPage?pid=0&keyword=&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1530269223385
+Message：未将对象引用设置到对象的实例。
+
+2018-06-29 18:47:31
+Url：/Goods/Tea/GetGoodsPage?pid=0&keyword=&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22id%22%2C%22sord%22%3A%22desc%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1530269223385
+Message：未将对象引用设置到对象的实例。
+

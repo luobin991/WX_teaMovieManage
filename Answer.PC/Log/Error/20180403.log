@@ -1,0 +1,16 @@
+﻿2018-04-03 16:01:37
+Url：/DataStatistics/Diamond/GetPageList?sdate=2018-04-01&edate=2018-04-03&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522742386284
+Message：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and updateTime>='2018-04-01 00:00:00' and updateTime<='2018-04-03 23:59:59' GROU' at line 1
+
+2018-04-03 16:01:37
+Url：/DataStatistics/Diamond/GetPageList?sdate=2018-04-01&edate=2018-04-03&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522742386284
+Message：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and updateTime>='2018-04-01 00:00:00' and updateTime<='2018-04-03 23:59:59' GROU' at line 1
+
+2018-04-03 16:01:42
+Url：/DataStatistics/Diamond/GetPageList?sdate=2018-03-07&edate=2018-04-03&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522742386285
+Message：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and updateTime>='2018-03-07 00:00:00' and updateTime<='2018-04-03 23:59:59' GROU' at line 1
+
+2018-04-03 16:01:42
+Url：/DataStatistics/Diamond/GetPageList?sdate=2018-03-07&edate=2018-04-03&pagination=%7B%22rows%22%3A50%2C%22page%22%3A1%2C%22sidx%22%3A%22%22%2C%22sord%22%3A%22ASC%22%2C%22records%22%3A0%2C%22total%22%3A0%7D&_=1522742386285
+Message：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and updateTime>='2018-03-07 00:00:00' and updateTime<='2018-04-03 23:59:59' GROU' at line 1
+

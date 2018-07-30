@@ -1,0 +1,28 @@
+
+http://localhost:8017/api/main/getdata?functionname=GetShopInfo
+		object:{	
+				code:1	
+				msg:请求成功
+				totalCount:0
+				body:{
+					id:1
+					logo:data:image/jpeg;base64,/9j/4AAQS
+					shopName:Answer
+					shopPhone:13323137669		
+					shopAddress:滨海大道66号188		
+					shopCo_ordinate:23
+					shopInfo:ABCD - EFGH
+					updateTime:/Date(1527009829000)/
+					createTime:/Date(1527009532000)/
+					startDate:null
+					endDate:null
+					startDateLogin:null
+					endDateLogin:null
+					pageIndex:0
+					pageSize:0
+					total:0
+					totalCount:0
+					orderBy:null
+					}
+				}
+				
